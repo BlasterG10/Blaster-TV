@@ -152,6 +152,8 @@ public partial class MainWindow : Window
     {
         try
         {
+            // First launch: the bundled public lists (iptv-org, Free-TV) become ordinary sources.
+            if (PublicPlaylists.SeedOnce(_catalogState)) CatalogStore.Save(_catalogState);
             var enabled = _catalogState.Sources.Where(x => x.Enabled).ToList();
             if (enabled.Count == 0)
             {
@@ -346,14 +348,19 @@ public partial class MainWindow : Window
         FinishLoad(enabled, failures);
     }
 
-    // All sources are downloaded and parsed at the same time instead of one after another.
+    // Sources are downloaded and parsed in parallel, but only a few at a time: with the ~90 bundled
+    // public lists, starting every download at once would saturate the connection and the CPU.
+    private readonly SemaphoreSlim _loadGate = new(6);
+
     private async Task<List<string>> LoadSourcesAsync(IEnumerable<PlaylistSource> sources, bool force, bool refreshAllKinds)
     {
         var failures = new List<string>();
         await Task.WhenAll(sources.ToList().Select(async source =>
         {
+            await _loadGate.WaitAsync();
             try { await LoadSourceAsync(source, force, refreshAllKinds); }
-            catch (Exception ex) { failures.Add($"{source.Name}: {ex.Message}"); }
+            catch (Exception ex) { lock (failures) failures.Add($"{source.Name}: {ex.Message}"); }
+            finally { _loadGate.Release(); }
         }));
         return failures;
     }
@@ -394,7 +401,7 @@ public partial class MainWindow : Window
         if (!force && GetLoadedSet(source.Id).Contains("Live")) return;
         await RunOnceAsync($"{source.Id}|Live", async () =>
         {
-            var parsed = await ReadM3uAsync(source);
+            var parsed = DropStreamsAlreadyLoaded(source, await ReadM3uAsync(source));
             MergeSourceKind(source, "Live", parsed);
             GetLoadedSet(source.Id).Add("Live");
             _ = SourceCache.SaveAsync(source.Id, "Live", parsed.ToList());
@@ -486,6 +493,20 @@ public partial class MainWindow : Window
             GetLoadedSet(source.Id).Add(kind);
             _ = SourceCache.SaveAsync(source.Id, kind, result.ToList());
         });
+    }
+
+    // The bundled public lists overlap heavily (the full index already contains every category, country
+    // and language list). Each stream is kept once, in the first public source that provides it, so the
+    // catalog, the guide and the saved copies do not hold the same channel dozens of times.
+    private List<MediaItem> DropStreamsAlreadyLoaded(PlaylistSource source, List<MediaItem> items)
+    {
+        if (!PublicPlaylists.IsPublic(source) || items.Count == 0) return items;
+        var present = new HashSet<string>(StringComparer.OrdinalIgnoreCase);
+        foreach (var existing in _all)
+            if (!existing.SourceId.Equals(source.Id, StringComparison.OrdinalIgnoreCase) &&
+                existing.SourceId.StartsWith(PublicPlaylists.IdPrefix, StringComparison.Ordinal))
+                present.Add(existing.Url);
+        return items.Where(x => present.Add(x.Url)).ToList();
     }
 
     private void MergeSourceKind(PlaylistSource source, string kind, List<MediaItem> items, bool refresh = true)

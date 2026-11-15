@@ -26,5 +26,6 @@
     <Resource Include="Assets\MagisTV-Logo.png" />
     <Resource Include="Assets\MagisTV-Mark.png" />
     <Resource Include="Assets\MagisTV.ico" />
+    <Resource Include="Assets\public-playlists.json" />
   </ItemGroup>
 </Project>

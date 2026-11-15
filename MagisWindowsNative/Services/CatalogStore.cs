@@ -13,6 +13,8 @@ public sealed class CatalogState
     public List<HistoryEntry> History { get; set; } = new();
     public Dictionary<string, string> CustomGroups { get; set; } = new(StringComparer.OrdinalIgnoreCase);
     public List<PlaylistSource> Sources { get; set; } = new();
+    /// <summary>The bundled public lists were added to Sources once (see PublicPlaylists).</summary>
+    public bool PublicPlaylistsSeeded { get; set; }
 }
 public sealed class HistoryEntry
 {

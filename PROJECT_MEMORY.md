@@ -34,3 +34,8 @@
 - **Efecto cristal:** `Services/Glass.cs` (Mica/acrílico vía DWM, con alternativa opaca), `Themes/Glass.xaml` y `Themes/Controls.xaml`. Mismos colores; solo cambia la opacidad. La barra y la guía usan `WindowChrome` en lugar de `AllowsTransparency`.
 - **No verificado:** sin SDK de .NET en el entorno de edición; no se compiló ni se probó en Windows. El usuario compiló una versión anterior (sin guía ni cristal) con éxito.
 - **Siguiente paso:** compilar en Windows (`dotnet build -c Release` tras borrar `obj`/`bin`), probar guía/blur y reportar errores concretos; después fusionar con la integración Jellyfin.
+
+### 13b. Listas públicas al iniciar — 2026-11-15
+- **Pedido del usuario:** cargar al iniciar las listas públicas M3U de `public-playlists.json` (iptv-org y Free-TV, 92 listas).
+- **Implementación:** `Assets/public-playlists.json` (recurso), `Services/PublicPlaylists.cs` (alta única como fuentes `Público · …` con id estable `pub…`), indicador `CatalogState.PublicPlaylistsSeeded`, carga de 6 en 6 (`_loadGate`) y deduplicación por URL entre fuentes públicas (`DropStreamsAlreadyLoaded`).
+- **Riesgo conocido:** el primer arranque descarga mucho; las listas se solapan (por eso la deduplicación). No verificado en Windows.

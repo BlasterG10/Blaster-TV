@@ -51,3 +51,10 @@ Este paquete se editó sin SDK de .NET disponible: compílalo en Windows (`dotne
 - La barra y la guía ya no usan `AllowsTransparency` (ventana en capas, que no admite blur): usan `WindowChrome` + DWM.
 - Estructura: `Themes/Glass.xaml` (superficies, bordes, estilos de ventana) y `Themes/Controls.xaml` (botones de navegación y píldora) se cargan desde `App.xaml`.
 - `GroupNameDialog` ahora usa la misma paleta morada que el resto (antes tenía azules sueltos).
+
+# Listas públicas incluidas (iptv-org y Free-TV)
+- `Assets/public-playlists.json` trae 92 listas M3U públicas (canales por categoría, país e idioma, más películas y series).
+- En el **primer inicio** se añaden una sola vez como fuentes normales («Público · …»), activas, y se cargan al arrancar. En «Administrar fuentes» puedes desactivarlas o eliminarlas; no se vuelven a añadir solas.
+- Las descargas corren **de 6 en 6** (no las 92 a la vez) y cada lista se guarda en la caché cifrada, así que los siguientes inicios muestran el catálogo guardado al instante y solo refrescan lo que tiene más de 6 h.
+- Las listas se solapan mucho (el índice completo ya incluye cada categoría, país e idioma): cada canal se conserva **una sola vez**, en la primera lista pública que lo aporta.
+- El primer arranque con las 92 listas descarga bastante (decenas de MB) y puede tardar; la ventana y la interfaz siguen fluidas mientras tanto.
