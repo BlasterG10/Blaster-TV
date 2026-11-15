@@ -85,7 +85,7 @@
 4. Reproducir y corregir el error de búsqueda en TV en vivo / series reportado por el usuario.
 5. Implementar navegación entre canales dentro del reproductor.
 6. Ajustar la barra de controles: ocultar a los 7 segundos, mostrar ante interacción/pausa, saltos de 15 segundos cuando sean compatibles.
-7. Evaluar una integración segura de metadatos para películas y series sin confundir catálogo con alojamiento de vídeo.
+7. Conectar el adaptador de metadatos ya añadido con la interfaz de la aplicación cuando exista código de interfaz.
 8. Añadir pruebas y documentar cómo ejecutar la aplicación.
 
 ## 8. Plantilla para actualizar el registro
@@ -103,3 +103,21 @@ Para cada cambio significativo, añadir una entrada con:
 
 ---
 **Regla de inicio para futuras sesiones:** leer `PROJECT_MEMORY.md`, consultar la rama actual y revisar los archivos relevantes antes de realizar cualquier cambio.
+
+
+## 9. Integración IPTV-PELIS — 2026-11-14
+
+- **Repositorio de referencia:** https://github.com/IPTV-Danilo/IPTV-PELIS
+- **Inspección:** el árbol del repositorio de referencia contiene README, config.py, m3u.py, metadata.py y movies.py; no aparece series.py ni un servicio real de streaming. El código original construía URLs de ejemplo con YOUR_SERVER. No se copió código del repositorio de referencia.
+- **Decisión:** integrar proveedores de metadatos mediante un adaptador propio y mantener las fuentes de reproducción separadas.
+- **Archivos añadidos:**
+  - `integrations/iptv_pelis/catalog.py`: búsqueda y detalles de películas con OMDb; búsqueda de series y episodios con TVmaze.
+  - `integrations/iptv_pelis/README.md`: instalación, uso, limitaciones y atribución.
+  - `integrations/iptv_pelis/requirements.txt`: dependencia requests.
+  - `integrations/iptv_pelis/__init__.py`: paquete Python.
+- **Archivo actualizado:** `README.md` de la raíz con descripción y enlace a la integración.
+- **Seguridad/precisión:** el adaptador devuelve `playback_url: None`; nunca crea direcciones de vídeo falsas. OMDb requiere `OMDB_API_KEY` en variable de entorno. TVmaze ofrece endpoints públicos sin clave y sus datos requieren atribución y cumplimiento CC BY-SA.
+- **Verificación realizada:** los archivos fueron publicados en GitHub y se confirmaron commits exitosos. No se ejecutó una prueba de integración contra APIs ni una compilación porque el repositorio todavía no contiene la aplicación, pruebas o configuración de ejecución.
+- **Limitación actual:** la integración de backend de metadatos está añadida, pero aún no está conectada a una interfaz de películas/series ni al reproductor; falta incorporar el código real de la aplicación.
+- **Próximo paso:** añadir o localizar la aplicación base y conectar sus vistas Películas/Series a este adaptador, asociando reproducción únicamente con entradas válidas de listas M3U autorizadas.
+
