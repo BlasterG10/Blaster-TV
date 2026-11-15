@@ -1,0 +1,69 @@
+<Window x:Class="MagisWindowsNative.SourceManagerWindow" Icon="Assets/MagisTV.ico"
+ xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+ xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+ Title="Administrar fuentes" Height="590" Width="760" MinHeight="500" MinWidth="650"
+ WindowStartupLocation="CenterOwner" Style="{StaticResource Glass.Window.Rail}" Foreground="#FAF7FF">
+ <Window.Resources>
+  <Style TargetType="Button">
+   <Setter Property="Foreground" Value="White"/><Setter Property="Background" Value="#2A153E"/>
+   <Setter Property="BorderBrush" Value="#513067"/><Setter Property="BorderThickness" Value="1"/>
+   <Setter Property="Padding" Value="13,9"/><Setter Property="Margin" Value="4"/>
+   <Setter Property="FontWeight" Value="SemiBold"/><Setter Property="Cursor" Value="Hand"/>
+  </Style>
+  <Style TargetType="ListBox">
+   <Setter Property="Background" Value="Transparent"/><Setter Property="Foreground" Value="White"/>
+   <Setter Property="BorderThickness" Value="0"/>
+  </Style>
+  <Style TargetType="ListBoxItem">
+   <Setter Property="Padding" Value="0"/><Setter Property="Margin" Value="0,4"/>
+   <Setter Property="HorizontalContentAlignment" Value="Stretch"/>
+  </Style>
+ </Window.Resources>
+ <Grid Margin="22">
+  <Grid.RowDefinitions><RowDefinition Height="Auto"/><RowDefinition Height="Auto"/><RowDefinition Height="*"/><RowDefinition Height="Auto"/></Grid.RowDefinitions>
+  <StackPanel>
+   <TextBlock Text="TUS FUENTES DE CONTENIDO" FontSize="21" FontWeight="Bold"/>
+   <TextBlock Text="Añade varias listas M3U/M3U8 y cuentas Xtream. Las fuentes activas se combinan en la misma guía y catálogo." Foreground="#B7A1C9" TextWrapping="Wrap" Margin="0,7,0,15"/>
+  </StackPanel>
+  <WrapPanel Grid.Row="1" Margin="-4,0,0,12">
+   <Button Content="＋ M3U por URL" Click="AddM3uUrl_Click" Background="#8E2AD1"/>
+   <Button Content="＋ Archivo M3U" Click="AddM3uFile_Click"/>
+   <Button Content="＋ Xtream Codes" Click="AddXtream_Click"/>
+   <Button Content="Activar / desactivar" Click="Toggle_Click"/>
+   <Button Content="Eliminar" Click="Remove_Click" Background="#4B1C4A"/>
+  </WrapPanel>
+  <Border Grid.Row="2" Style="{StaticResource Glass.Pane}" Background="{DynamicResource Glass.Card}" CornerRadius="13" Padding="10">
+   <ListBox x:Name="SourceList" SelectionMode="Single" ScrollViewer.VerticalScrollBarVisibility="Auto">
+    <ListBox.ItemTemplate>
+     <DataTemplate>
+      <Border Background="{DynamicResource Glass.Header}" BorderBrush="#3A2052" BorderThickness="1" CornerRadius="9" Padding="12">
+       <Grid>
+        <Grid.ColumnDefinitions><ColumnDefinition Width="*"/><ColumnDefinition Width="Auto"/></Grid.ColumnDefinitions>
+        <StackPanel>
+         <TextBlock Text="{Binding Name}" FontSize="14" FontWeight="Bold"/>
+         <TextBlock Text="{Binding TypeLabel}" Foreground="#D9B6FF" FontSize="10" Margin="0,4,0,0"/>
+         <TextBlock Text="{Binding DisplayAddress}" Foreground="#AD9ABC" FontSize="10" TextTrimming="CharacterEllipsis" Margin="0,4,0,0"/>
+         <TextBlock Text="{Binding Username, StringFormat='Usuario: {0}'}" Foreground="#A68BB9" FontSize="10" Margin="0,2,0,0">
+          <TextBlock.Style><Style TargetType="TextBlock"><Setter Property="Visibility" Value="Collapsed"/><Style.Triggers><DataTrigger Binding="{Binding Type}" Value="Xtream"><Setter Property="Visibility" Value="Visible"/></DataTrigger></Style.Triggers></Style></TextBlock.Style>
+         </TextBlock>
+        </StackPanel>
+        <Border Grid.Column="1" Background="#203A32" CornerRadius="8" Padding="9,5" VerticalAlignment="Center" Margin="10,0,0,0">
+         <TextBlock FontSize="9" FontWeight="Bold">
+          <TextBlock.Style><Style TargetType="TextBlock"><Setter Property="Text" Value="DESACTIVADA"/><Setter Property="Foreground" Value="#F0B4E8"/><Style.Triggers><DataTrigger Binding="{Binding Enabled}" Value="True"><Setter Property="Text" Value="ACTIVA"/><Setter Property="Foreground" Value="#9AE7C2"/></DataTrigger></Style.Triggers></Style></TextBlock.Style>
+         </TextBlock>
+        </Border>
+       </Grid>
+      </Border>
+     </DataTemplate>
+    </ListBox.ItemTemplate>
+   </ListBox>
+  </Border>
+  <DockPanel Grid.Row="3" Margin="0,13,0,0">
+   <TextBlock x:Name="CountText" VerticalAlignment="Center" Foreground="#AD9ABC"/>
+   <StackPanel Orientation="Horizontal" DockPanel.Dock="Right">
+    <Button Content="Cerrar" Click="Close_Click"/>
+    <Button Content="Guardar fuentes" Background="#8E2AD1" IsDefault="True" Click="Save_Click"/>
+   </StackPanel>
+  </DockPanel>
+ </Grid>
+</Window>

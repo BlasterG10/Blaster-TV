@@ -1,0 +1,231 @@
+<Window x:Class="MagisWindowsNative.MainWindow"
+ xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+ xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+ xmlns:vlc="clr-namespace:LibVLCSharp.WPF;assembly=LibVLCSharp.WPF"
+ xmlns:svc="clr-namespace:MagisWindowsNative.Services"
+ Title="MagisTV" Icon="Assets/MagisTV.ico" Height="900" Width="1560" MinHeight="700" MinWidth="1120"
+ Style="{StaticResource Glass.Window.Main}" Foreground="#FAF7FF" WindowStartupLocation="CenterScreen"
+ UseLayoutRounding="True" SnapsToDevicePixels="True" PreviewKeyDown="Window_KeyDown">
+ <Window.Resources>
+  <Style TargetType="TextBox">
+   <Setter Property="Foreground" Value="#FAF7FF"/><Setter Property="Background" Value="{DynamicResource Glass.Field}"/>
+   <Setter Property="BorderBrush" Value="#4A285D"/><Setter Property="BorderThickness" Value="1"/>
+   <Setter Property="Padding" Value="13,10"/><Setter Property="CaretBrush" Value="White"/>
+   <Setter Property="FontSize" Value="13"/>
+  </Style>
+  <Style TargetType="ComboBox">
+   <Setter Property="Foreground" Value="White"/><Setter Property="Background" Value="{DynamicResource Glass.Field}"/>
+   <Setter Property="BorderBrush" Value="#4A285D"/><Setter Property="Padding" Value="8,6"/>
+  </Style>
+  <Style TargetType="ListBox">
+   <Setter Property="Background" Value="Transparent"/><Setter Property="Foreground" Value="White"/>
+   <Setter Property="BorderThickness" Value="0"/><Setter Property="ScrollViewer.HorizontalScrollBarVisibility" Value="Disabled"/>
+  </Style>
+  <Style TargetType="ListBoxItem">
+   <Setter Property="Padding" Value="0"/><Setter Property="Margin" Value="0,3"/>
+   <Setter Property="Background" Value="Transparent"/><Setter Property="BorderThickness" Value="0"/>
+   <Setter Property="HorizontalContentAlignment" Value="Stretch"/>
+   <Setter Property="Template"><Setter.Value><ControlTemplate TargetType="ListBoxItem">
+    <Border x:Name="itemBorder" Background="{TemplateBinding Background}" CornerRadius="11" Padding="3">
+     <ContentPresenter/>
+    </Border>
+    <ControlTemplate.Triggers>
+     <Trigger Property="IsMouseOver" Value="True"><Setter TargetName="itemBorder" Property="Background" Value="#2B163F"/></Trigger>
+     <Trigger Property="IsSelected" Value="True"><Setter TargetName="itemBorder" Property="Background" Value="#3D2057"/></Trigger>
+    </ControlTemplate.Triggers>
+   </ControlTemplate></Setter.Value></Setter>
+  </Style>
+ </Window.Resources>
+
+ <Grid>
+  <Grid.ColumnDefinitions><ColumnDefinition Width="218"/><ColumnDefinition Width="*"/></Grid.ColumnDefinitions>
+
+  <!-- Persistent navigation rail -->
+  <Border Grid.Column="0" Background="{DynamicResource Glass.Rail}" BorderBrush="#321A45" BorderThickness="0,0,1,0">
+   <DockPanel Margin="18,22,16,18">
+    <ScrollViewer DockPanel.Dock="Top" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled">
+    <StackPanel>
+     <StackPanel Orientation="Horizontal" Margin="5,2,0,34">
+      <Border Width="42" Height="42" CornerRadius="11" Background="#170824" BorderBrush="#A12DFF" BorderThickness="1" ClipToBounds="True">
+       <Image Source="Assets/MagisTV-Mark.png" Stretch="Uniform" Margin="2" SnapsToDevicePixels="True"/>
+      </Border>
+      <StackPanel Margin="10,0,0,0" VerticalAlignment="Center">
+       <TextBlock Text="MAGIS TV" FontSize="18" FontWeight="Bold"/>
+       <TextBlock Text="ENTERTAINMENT" FontSize="8" Foreground="#A487B5"/>
+      </StackPanel>
+     </StackPanel>
+     <TextBlock Text="MENÚ PRINCIPAL" Foreground="#927BA4" FontSize="10" FontWeight="Bold" Margin="10,0,0,9"/>
+     <Button Style="{StaticResource NavButton}" Content="⌂   Inicio" Click="All_Click"/>
+     <Button Style="{StaticResource NavButton}" Content="▣   TV en vivo" Click="Live_Click"/>
+     <Button Style="{StaticResource NavButton}" Content="▦   Catálogo" Click="Catalog_Click"/>
+     <Button Style="{StaticResource NavButton}" Content="▶   Películas" Click="Movies_Click"/>
+     <Button Style="{StaticResource NavButton}" Content="▤   Series" Click="Series_Click"/>
+     <Button Style="{StaticResource NavButton}" Content="⌕   Metadatos externos" Click="OpenMetadataCatalog_Click"/>
+     <Button Style="{StaticResource NavButton}" Content="★   Mis favoritos" Click="ShowFavorites_Click"/>
+     <Button Style="{StaticResource NavButton}" Content="◷   Continuar viendo" Click="ShowHistory_Click"/>
+     <Button Style="{StaticResource NavButton}" Content="▦   Guía EPG" Click="OpenEpg_Click"/>
+     <Separator Background="#3A1C4D" Margin="8,20,8,16"/>
+     <TextBlock Text="TU BIBLIOTECA" Foreground="#927BA4" FontSize="10" FontWeight="Bold" Margin="10,0,0,9"/>
+     <Button Style="{StaticResource NavButton}" Content="＋   Añadir archivo M3U" Click="OpenM3u_Click"/>
+     <Button Style="{StaticResource NavButton}" Content="＋   Añadir M3U por URL" Click="OpenM3uUrl_Click"/>
+     <Button Style="{StaticResource NavButton}" Content="＋   Añadir Xtream" Click="ConnectXtream_Click"/>
+     <Button Style="{StaticResource NavButton}" Content="☷   Administrar fuentes" Click="ManageSources_Click"/>
+     <Button Style="{StaticResource NavButton}" Content="↻   Actualizar fuentes" Click="ReloadSources_Click"/>
+    </StackPanel>
+    </ScrollViewer>
+    <Border DockPanel.Dock="Bottom" Background="#1C0E2A" CornerRadius="12" Padding="12">
+     <StackPanel>
+      <TextBlock Text="MAGISTV LITE" FontSize="10" FontWeight="Bold" Foreground="#9CA9C7"/>
+      <TextBlock Text="Reproductor para Windows" FontSize="11" Foreground="#977FA9" Margin="0,4,0,0"/>
+      <TextBlock Text="Reproductor para Windows" FontSize="10" Foreground="#8B729D" Margin="0,7,0,0"/>
+     </StackPanel>
+    </Border>
+   </DockPanel>
+  </Border>
+
+  <Grid Grid.Column="1" Margin="28,22,28,18">
+   <Grid.RowDefinitions>
+    <RowDefinition Height="Auto"/>
+    <RowDefinition Height="Auto"/>
+    <RowDefinition Height="*"/>
+    <RowDefinition Height="Auto"/>
+   </Grid.RowDefinitions>
+
+   <!-- Top bar -->
+   <Grid Grid.Row="0" Margin="0,0,0,22">
+    <Grid.ColumnDefinitions><ColumnDefinition Width="*"/><ColumnDefinition Width="Auto"/></Grid.ColumnDefinitions>
+    <StackPanel>
+     <TextBlock x:Name="PageTitleText" Text="Descubre tu entretenimiento" FontSize="25" FontWeight="Bold"/>
+     <TextBlock x:Name="PageSubtitleText" Text="Todo tu contenido en un solo lugar." Foreground="#AA97B9" FontSize="12" Margin="1,5,0,0"/>
+    </StackPanel>
+    <WrapPanel Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Right">
+     <TextBox x:Name="SearchBox" Width="205" ToolTip="Buscar canales, categorías, países o servidores" TextChanged="SearchBox_TextChanged" Margin="0,0,7,0"/>
+     <ComboBox x:Name="GroupModeBox" Width="112" VerticalContentAlignment="Center" Margin="0,0,7,0"
+       SelectionChanged="GroupModeBox_SelectionChanged" ToolTip="Organizar por categoría, país, servidor o grupos propios"/>
+     <ComboBox x:Name="CategoryBox" Width="145" VerticalContentAlignment="Center" Margin="0,0,7,0"
+       SelectionChanged="CategoryBox_SelectionChanged" ToolTip="Selecciona el grupo que quieres ver"/>
+     <ComboBox x:Name="TargetGroupBox" Width="138" VerticalContentAlignment="Center" Margin="0,0,7,0"
+       ToolTip="Grupo personalizado al que asignar los canales"/>
+     <Button x:Name="CreateGroupButton" Style="{StaticResource PillButton}" Content="＋ Grupo" Click="CreateGroup_Click"/>
+     <Button x:Name="AssignGroupButton" Style="{StaticResource PillButton}" Content="Asignar selección" Click="AssignGroup_Click"/>
+    </WrapPanel>
+   </Grid>
+
+   <!-- Feature / player hero -->
+   <Border x:Name="HomeHero" Grid.Row="1" CornerRadius="18" ClipToBounds="True" Margin="0,0,0,20" Height="228">
+    <Grid>
+     <Grid.Background>
+      <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+       <GradientStop Color="#3A155D" Offset="0"/><GradientStop Color="#26123B" Offset="0.55"/><GradientStop Color="#180A26" Offset="1"/>
+      </LinearGradientBrush>
+     </Grid.Background>
+     <Rectangle Fill="#29143D" Opacity="0.25"/>
+     <Ellipse Width="300" Height="300" Fill="#A12EFF" Opacity="0.12" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,90,0"/>
+     <Grid Margin="28,22">
+      <Grid.ColumnDefinitions><ColumnDefinition Width="1.2*"/><ColumnDefinition Width="1*"/></Grid.ColumnDefinitions>
+      <StackPanel VerticalAlignment="Center" MaxWidth="490">
+       <Border Background="#A12DFF" CornerRadius="5" Padding="8,4" HorizontalAlignment="Left">
+        <TextBlock Text="TU CENTRO DE ENTRETENIMIENTO" FontSize="9" FontWeight="Bold"/>
+       </Border>
+       <TextBlock Text="Una experiencia.&#10;Todo lo que te gusta." FontSize="29" FontWeight="Bold" Margin="0,12,0,7"/>
+       <TextBlock Text="Organiza tus canales, películas y series en una interfaz diseñada para Windows." Foreground="#DCCBE8" FontSize="12" TextWrapping="Wrap"/>
+       <StackPanel Orientation="Horizontal" Margin="0,15,0,0">
+        <Button Style="{StaticResource PillButton}" Background="#A12DFF" BorderBrush="#D45CFF" Content="▶  Explorar contenido" Click="All_Click"/>
+        <Button Style="{StaticResource PillButton}" Content="＋  Añadir lista" Click="OpenM3u_Click"/>
+       </StackPanel>
+      </StackPanel>
+      <Border Grid.Column="1" Background="#100619" BorderBrush="#8D2ACB" BorderThickness="1" CornerRadius="14" Margin="12,2,0,2" Padding="14">
+       <Grid>
+        <Ellipse Width="220" Height="220" Fill="#A12DFF" Opacity="0.10" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <Image Source="Assets/MagisTV-Logo.png" Stretch="Uniform" MaxWidth="230" MaxHeight="190" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+       </Grid>
+      </Border>
+     </Grid>
+    </Grid>
+   </Border>
+
+   <!-- Catalog -->
+   <Grid Grid.Row="2">
+    <Grid.RowDefinitions><RowDefinition Height="Auto"/><RowDefinition Height="*"/></Grid.RowDefinitions>
+    <DockPanel Grid.Row="0" Margin="2,0,2,10">
+     <StackPanel>
+      <TextBlock x:Name="CatalogTitleText" Text="Tu biblioteca" FontSize="19" FontWeight="Bold"/>
+      <TextBlock x:Name="CatalogSubtitleText" Text="Selecciona un título para reproducirlo." Foreground="#AA97B9" FontSize="11" Margin="0,4,0,0"/>
+     </StackPanel>
+     <StackPanel Orientation="Horizontal" DockPanel.Dock="Right" VerticalAlignment="Center">
+      <Button Style="{StaticResource PillButton}" Content="▶  REPRODUCIR" Background="#A12DFF"
+              BorderBrush="#D45CFF" Click="Play_Click" ToolTip="Reproducir el elemento seleccionado"/>
+      <Button Style="{StaticResource PillButton}" Content="★ Favorito" Click="Favorite_Click"/>
+      <Button Style="{StaticResource PillButton}" Content="Ver todos" Click="ShowAll_Click"/>
+     </StackPanel>
+    </DockPanel>
+    <Border Grid.Row="1" Style="{StaticResource Glass.Pane}" Padding="12">
+     <DockPanel>
+      <TextBlock DockPanel.Dock="Top" x:Name="CatalogCountText" Text="CONTENIDO DISPONIBLE" Foreground="#9A83AE" FontSize="10" FontWeight="Bold" Margin="6,2,0,8"/>
+      <ListBox x:Name="MediaList" SelectionMode="Extended" SelectionChanged="MediaList_SelectionChanged" MouseDoubleClick="MediaList_MouseDoubleClick" PreviewKeyDown="MediaList_PreviewKeyDown"
+       ScrollViewer.VerticalScrollBarVisibility="Auto" ScrollViewer.CanContentScroll="True"
+       VirtualizingPanel.IsVirtualizing="True" VirtualizingPanel.IsVirtualizingWhenGrouping="True" VirtualizingPanel.VirtualizationMode="Recycling">
+       <ListBox.GroupStyle>
+        <GroupStyle>
+         <GroupStyle.HeaderTemplate>
+          <DataTemplate>
+           <Border Background="{DynamicResource Glass.Header}" BorderBrush="#4A285D" BorderThickness="0,0,0,1" CornerRadius="8" Padding="11,8" Margin="2,12,2,5">
+            <TextBlock Text="{Binding Name}" Foreground="#E6C9FF" FontSize="13" FontWeight="Bold"/>
+           </Border>
+          </DataTemplate>
+         </GroupStyle.HeaderTemplate>
+        </GroupStyle>
+        <GroupStyle>
+         <GroupStyle.HeaderTemplate>
+          <DataTemplate>
+           <Border Background="{DynamicResource Glass.Card}" CornerRadius="6" Padding="9,6" Margin="12,5,2,3">
+            <TextBlock Text="{Binding Name}" Foreground="#B9A6C9" FontSize="11" FontWeight="SemiBold"/>
+           </Border>
+          </DataTemplate>
+         </GroupStyle.HeaderTemplate>
+        </GroupStyle>
+       </ListBox.GroupStyle>
+       <ListBox.ItemsPanel><ItemsPanelTemplate><VirtualizingStackPanel/></ItemsPanelTemplate></ListBox.ItemsPanel>
+       <ListBox.ItemTemplate>
+        <DataTemplate>
+         <Border Background="{DynamicResource Glass.Card}" BorderBrush="#3B2053" BorderThickness="1" CornerRadius="12" Padding="9" Margin="2,3">
+          <Grid>
+           <Grid.ColumnDefinitions><ColumnDefinition Width="76"/><ColumnDefinition Width="*"/><ColumnDefinition Width="Auto"/></Grid.ColumnDefinitions>
+           <Border Width="66" Height="88" CornerRadius="8" Background="#35134F" ClipToBounds="True">
+            <Grid>
+             <TextBlock Text="▶" FontSize="24" FontWeight="Bold" Foreground="#E1C3FF" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+             <Image Source="{Binding Logo, Converter={x:Static svc:ThumbnailConverter.Instance}}" Stretch="UniformToFill" SnapsToDevicePixels="True"/>
+             <Border Height="4" Background="#A12DFF" VerticalAlignment="Bottom"/>
+            </Grid>
+           </Border>
+           <StackPanel Grid.Column="1" VerticalAlignment="Center" Margin="12,0,8,0">
+            <TextBlock Text="{Binding Name}" FontWeight="Bold" FontSize="13" Foreground="#F4F6FC" TextTrimming="CharacterEllipsis"/>
+            <TextBlock Text="{Binding Category}" FontSize="11" Foreground="#D0BFDB" Margin="0,5,0,0"/>
+            <TextBlock Text="{Binding KindGroup}" FontSize="9" Foreground="#BD4DFF" FontWeight="SemiBold" Margin="0,5,0,0"/>
+            <TextBlock Text="{Binding CurrentProgramTitle}" FontSize="10" Foreground="#E1D2EC" Margin="0,5,0,0" TextTrimming="CharacterEllipsis">
+             <TextBlock.Style><Style TargetType="TextBlock"><Setter Property="Visibility" Value="Collapsed"/><Style.Triggers><DataTrigger Binding="{Binding IsLive}" Value="True"><Setter Property="Visibility" Value="Visible"/></DataTrigger></Style.Triggers></Style></TextBlock.Style>
+            </TextBlock>
+            <TextBlock Text="{Binding CurrentProgramTime}" FontSize="9" Foreground="#CB63F5" Margin="0,2,0,0">
+             <TextBlock.Style><Style TargetType="TextBlock"><Setter Property="Visibility" Value="Collapsed"/><Style.Triggers><DataTrigger Binding="{Binding IsLive}" Value="True"><Setter Property="Visibility" Value="Visible"/></DataTrigger></Style.Triggers></Style></TextBlock.Style>
+            </TextBlock>
+            <TextBlock Text="{Binding NextProgramTitle, StringFormat='Después: {0}'}" FontSize="9" Foreground="#AA97B9" Margin="0,2,0,0" TextTrimming="CharacterEllipsis">
+             <TextBlock.Style><Style TargetType="TextBlock"><Setter Property="Visibility" Value="Collapsed"/><Style.Triggers><DataTrigger Binding="{Binding IsLive}" Value="True"><Setter Property="Visibility" Value="Visible"/></DataTrigger></Style.Triggers></Style></TextBlock.Style>
+            </TextBlock>
+            <TextBlock Text="{Binding NextProgramTime}" FontSize="9" Foreground="#977BAA" Margin="0,1,0,0">
+             <TextBlock.Style><Style TargetType="TextBlock"><Setter Property="Visibility" Value="Collapsed"/><Style.Triggers><DataTrigger Binding="{Binding IsLive}" Value="True"><Setter Property="Visibility" Value="Visible"/></DataTrigger></Style.Triggers></Style></TextBlock.Style>
+            </TextBlock>
+           </StackPanel>
+           <TextBlock Grid.Column="2" Text="›" FontSize="25" Foreground="#D7AEFF" VerticalAlignment="Center" Margin="10,0,5,0"/>
+          </Grid>
+         </Border>
+        </DataTemplate>
+       </ListBox.ItemTemplate>
+      </ListBox>
+     </DockPanel>
+    </Border>
+   </Grid>
+   <TextBlock Grid.Row="3" x:Name="StatusText" Text="Listo • Añade una lista M3U o conecta un servicio autorizado."
+    Foreground="#A18BAF" FontSize="10" Margin="4,10,0,0"/>
+  </Grid>
+ </Grid>
+</Window>

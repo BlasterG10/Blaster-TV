@@ -24,3 +24,13 @@
 - **Verificación realizada:** XAML parseado como XML válido; balance estático de llaves C#; ZIP `/mnt/data/BlasterTV_Jellyfin_M3U_Xtream_Integrated.zip` pasa `unzip -t`.
 - **No verificado:** no hay .NET SDK en este entorno, así que no se ejecutó `dotnet build`; tampoco se probó contra un servidor Jellyfin real. No afirmar que la compilación o reproducción real está confirmada.
 - **Siguiente paso del usuario:** extraer ZIP en una carpeta aparte, compilar/ejecutar en Windows con .NET 10 SDK, conectar su servidor Jellyfin y reportar cualquier error concreto.
+
+
+## 13. Optimización, guía de canales y efecto cristal — 2026-11-15
+
+- **Ubicación:** código de la aplicación WPF en `MagisWindowsNative/` (base: ZIP v5 "Logo_Tema_Publicacion_Ligera"). Esta línea de trabajo **no incluye** todavía la integración Jellyfin/OMDb de la sección 12; hay que fusionarlas.
+- **Rendimiento:** `CountryResolver` sin Regex, parser M3U por líneas, XMLTV en streaming en segundo plano, caché cifrada de fuentes (`SourceCache`, TTL 6 h), guardado de catálogo en segundo plano, LibVLC inicializado tras mostrar la ventana, miniaturas decodificadas a tamaño de tarjeta, ordenación y filtrado una sola vez por acción. Detalle en `MagisWindowsNative/OPTIMIZACION-RENDIMIENTO.md`.
+- **Guía de canales:** `PlayerGuideWindow` (ventana propia sobre el reproductor por el problema de airspace de LibVLC); filtros por tipo/categoría, búsqueda, teclado (G/Enter/Tab, Esc). Se oculta y reaparece junto con la barra flotante (`PlayerWindow.ControlsVisibilityChanged`).
+- **Efecto cristal:** `Services/Glass.cs` (Mica/acrílico vía DWM, con alternativa opaca), `Themes/Glass.xaml` y `Themes/Controls.xaml`. Mismos colores; solo cambia la opacidad. La barra y la guía usan `WindowChrome` en lugar de `AllowsTransparency`.
+- **No verificado:** sin SDK de .NET en el entorno de edición; no se compiló ni se probó en Windows. El usuario compiló una versión anterior (sin guía ni cristal) con éxito.
+- **Siguiente paso:** compilar en Windows (`dotnet build -c Release` tras borrar `obj`/`bin`), probar guía/blur y reportar errores concretos; después fusionar con la integración Jellyfin.

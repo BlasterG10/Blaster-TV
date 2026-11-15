@@ -1,0 +1,53 @@
+<Application x:Class="MagisWindowsNative.App"
+ xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+ xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+ StartupUri="MainWindow.xaml">
+ <Application.Resources>
+  <ResourceDictionary>
+  <ResourceDictionary.MergedDictionaries>
+   <ResourceDictionary Source="Themes/Glass.xaml"/>
+   <ResourceDictionary Source="Themes/Controls.xaml"/>
+  </ResourceDictionary.MergedDictionaries>
+  <Style TargetType="{x:Type Window}">
+   <Setter Property="FontFamily" Value="Segoe UI"/>
+   <Setter Property="Foreground" Value="#FAF7FF"/>
+   <Setter Property="Background" Value="#0B0613"/>
+  </Style>
+  <Color x:Key="AccentColor">#B12BFF</Color>
+  <Color x:Key="AccentHotColor">#E044FF</Color>
+  <SolidColorBrush x:Key="BrandBrush" Color="#B12BFF"/>
+  <SolidColorBrush x:Key="BrandHotBrush" Color="#E044FF"/>
+  <SolidColorBrush x:Key="AccentBrush" Color="{StaticResource AccentColor}"/>
+  <SolidColorBrush x:Key="PanelBrush" Color="#170D22"/>
+  <SolidColorBrush x:Key="WindowBrush" Color="#0B0613"/>
+  <SolidColorBrush x:Key="PageBrush" Color="#0B0613"/>
+  <SolidColorBrush x:Key="MutedBrush" Color="#A487B5"/>
+  <Style TargetType="Button">
+   <Setter Property="Foreground" Value="White"/>
+   <Setter Property="Background" Value="#281438"/>
+   <Setter Property="BorderBrush" Value="#4A285D"/>
+   <Setter Property="Padding" Value="14,9"/>
+   <Setter Property="Margin" Value="3"/>
+   <Setter Property="Cursor" Value="Hand"/>
+   <Setter Property="FontWeight" Value="SemiBold"/>
+  </Style>
+  <Style TargetType="TextBox">
+   <Setter Property="Foreground" Value="White"/>
+   <Setter Property="Background" Value="#21122F"/>
+   <Setter Property="BorderBrush" Value="#4B2A63"/>
+   <Setter Property="Padding" Value="9,7"/>
+   <Setter Property="Margin" Value="3"/>
+  </Style>
+  <Style TargetType="ListBox">
+   <Setter Property="Background" Value="#170D22"/>
+   <Setter Property="Foreground" Value="White"/>
+   <Setter Property="BorderThickness" Value="0"/>
+  </Style>
+  <Style TargetType="ListBoxItem">
+   <Setter Property="Padding" Value="10,8"/>
+   <Setter Property="Margin" Value="2"/>
+   <Setter Property="Background" Value="#21122F"/>
+  </Style>
+  </ResourceDictionary>
+ </Application.Resources>
+</Application>
