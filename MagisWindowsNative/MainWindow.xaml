@@ -63,6 +63,7 @@
      <Button Style="{StaticResource NavButton}" Content="⌕   Metadatos externos" Click="OpenMetadataCatalog_Click"/>
      <Button Style="{StaticResource NavButton}" Content="★   Mis favoritos" Click="ShowFavorites_Click"/>
      <Button Style="{StaticResource NavButton}" Content="◷   Continuar viendo" Click="ShowHistory_Click"/>
+     <Button Style="{StaticResource NavButton}" Content="⇩   Descargas" Click="ShowDownloads_Click"/>
      <Button Style="{StaticResource NavButton}" Content="▦   Guía EPG" Click="OpenEpg_Click"/>
      <Separator Background="#3A1C4D" Margin="8,20,8,16"/>
      <TextBlock Text="TU BIBLIOTECA" Foreground="#927BA4" FontSize="10" FontWeight="Bold" Margin="10,0,0,9"/>
@@ -156,6 +157,8 @@
       <Button Style="{StaticResource PillButton}" Content="▶  REPRODUCIR" Background="#A12DFF"
               BorderBrush="#D45CFF" Click="Play_Click" ToolTip="Reproducir el elemento seleccionado"/>
       <Button Style="{StaticResource PillButton}" Content="★ Favorito" Click="Favorite_Click"/>
+      <Button Style="{StaticResource PillButton}" Content="⇩ Descargar" Click="Download_Click" ToolTip="Descargar para ver sin conexión (películas y episodios)"/>
+      <Button Style="{StaticResource PillButton}" Content="⧉ Externo" Click="OpenExternal_Click" ToolTip="Abrir con el reproductor externo predeterminado de Windows"/>
       <Button Style="{StaticResource PillButton}" Content="Ver todos" Click="ShowAll_Click"/>
      </StackPanel>
     </DockPanel>

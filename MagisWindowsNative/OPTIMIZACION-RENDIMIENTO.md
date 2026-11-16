@@ -72,3 +72,18 @@ Este paquete se editó sin SDK de .NET disponible: compílalo en Windows (`dotne
 - Las listas públicas de iptv-org «Películas» y «Series» son canales 24/7 en directo (`.m3u8`), así que siguen en TV en vivo; no son vídeos bajo demanda.
 - Las copias guardadas antes de este cambio se ignoran una vez (se vuelven a descargar) para reclasificarlas.
 - Prueba rápida: `Ejemplos/prueba-peliculas-series.m3u` (direcciones de ejemplo, no reproducen) → «Añadir archivo M3U» y mira Películas/Series.
+
+# Mejoras incorporadas desde IPTVnator (código abierto) y catálogo nuevo
+Se revisó https://github.com/4gray/iptvnator (reproductor de IPTV de código abierto) para ver qué faltaba en MagisTV. No reparte canales ni credenciales — solo es un reproductor — así que no aportaba contenido, pero sí ideas de funciones:
+
+- **Descargas (`Services/DownloadManager.cs`):** botón «⇩ Descargar» para películas y episodios. Se guardan en la carpeta **Vídeos\MagisTV** del usuario (o en los datos de la app si esa carpeta no está disponible), con progreso en pantalla y sin bloquear la interfaz. Hay una sección nueva **Descargas** en el menú para verlas y reproducirlas sin conexión. La TV en vivo no se puede descargar porque no tiene un final.
+- **Reproductor externo (`OpenExternal_Click`):** botón «⧉ Externo» que abre el canal, película o episodio seleccionado con el reproductor predeterminado de Windows (por ejemplo VLC, si está asociado a flujos de red). Si no tienes ninguno asociado, Windows puede abrir el navegador en su lugar.
+- No se incorporó timeshift/catch-up ni Stalker/Ministra: dependen de que el proveedor Xtream los ofrezca y necesitan más interfaz (línea de tiempo); queda pendiente si lo quieres más adelante.
+
+## Catálogo de películas de dominio público (Archive.org)
+Pedido: "busca para las películas y series". Se investigó qué fuentes de contenido son legales y de verdad accesibles:
+
+- **`Services/ArchiveOrgCatalog.cs`** consulta en vivo la API pública de archive.org (Internet Archive), sin credenciales ni scraping: solo pide ítems de la colección `feature_films` marcados explícitamente como dominio público (`licenseurl` con "publicdomain"). Se añade una sola vez como fuente «Dominio público · Archive.org (películas)», activa, y se recarga igual que cualquier otra fuente (caché de 6 h incluida).
+- **No se incluyeron series:** no se encontró una colección de archive.org clara y fiablemente de dominio público para series de TV completas — la colección genérica "television" del sitio mezcla grabaciones subidas sin licencia clara, así que no se usó para evitar contenido de procedencia dudosa.
+- Para series reales, sigue siendo necesario tu propio Xtream o una lista M3U con series (ya detectadas automáticamente, ver sección anterior).
+- Servicios gratuitos con anuncios como Pluto TV o Tubi no publican una API o lista M3U oficial para integrarlos así; hacerlo requeriría depender de listas no oficiales de terceros, que no es algo que pueda verificar como legítimo.

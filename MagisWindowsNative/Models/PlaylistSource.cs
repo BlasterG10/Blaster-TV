@@ -16,6 +16,7 @@ public sealed class PlaylistSource
     {
         "Xtream" => "Xtream Codes",
         "M3UFile" => "Archivo M3U/M3U8",
+        "ArchiveOrg" => "Archive.org (dominio público)",
         _ => "URL M3U/M3U8"
     };
 
@@ -25,6 +26,7 @@ public sealed class PlaylistSource
         get
         {
             if (Type == "M3UFile") return Address;
+            if (Type == "ArchiveOrg") return $"archive.org — colección {Address}";
             if (!Uri.TryCreate(Address, UriKind.Absolute, out var uri)) return Address;
             var port = uri.IsDefaultPort ? string.Empty : $":{uri.Port}";
             return $"{uri.Scheme}://{uri.Host}{port}{uri.AbsolutePath}";

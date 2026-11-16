@@ -46,3 +46,9 @@
 - **Implementación:** `Services/MediaKindClassifier.cs` (rutas `/movie/` y `/series/`, extensiones de vídeo, marcadores `S01E02`/`1x02`), `MediaItem.SeriesKey/Season/EpisodeNumber`, entradas `Series` generadas por el parser con sus episodios (`Kind="Episode"`, ocultos en las listas), `OpenSeriesEpisodesAsync` resuelve episodios M3U localmente, caché M3U `M3uAll`, un refresco de fuente M3U reemplaza todos sus tipos.
 - **Límite:** las listas públicas iptv-org «Películas/Series» son canales en directo (.m3u8) y siguen como TV. Ejemplo de prueba: `MagisWindowsNative/Ejemplos/prueba-peliculas-series.m3u`.
 - **No verificado:** sin compilar ni probar en Windows.
+
+### 13d. Descargas, reproductor externo y catálogo de dominio público (Archive.org) — 2026-11-15
+- **Pedido del usuario:** revisar https://github.com/4gray/iptvnator e incorporar sus mejoras más útiles; buscar contenido real de películas y series para completar la app.
+- **Implementación:** `Services/DownloadManager.cs` (descarga a Vídeos\MagisTV, sin bloquear la UI, sección «Descargas» nueva); botón «⧉ Externo» (`Process.Start` con el reproductor predeterminado de Windows); `Services/ArchiveOrgCatalog.cs` (películas de dominio público de archive.org vía su API pública, colección `feature_films`, filtradas por `licenseurl` de dominio público).
+- **Decisión:** no se integraron series desde archive.org (sin colección claramente de dominio público) ni timeshift/Stalker (requieren más interfaz). No se usaron fuentes no oficiales de Pluto TV/Tubi por falta de garantía de legitimidad.
+- **No verificado:** sin compilar ni probar en Windows.

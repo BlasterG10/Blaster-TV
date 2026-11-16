@@ -8,6 +8,7 @@ using System.Windows.Data;
 using System.IO;
 using System.Windows;
 using System.Windows.Controls;
+using System.Diagnostics;
 using LibVLCSharp.Shared;
 using MagisWindowsNative.Models;
 using MagisWindowsNative.Services;
@@ -50,6 +51,7 @@ public partial class MainWindow : Window
     private readonly CatalogState _catalogState = CatalogStore.Load();
     private bool _showFavorites;
     private bool _showHistory;
+    private bool _showDownloads;
     private PlayerWindow? _playerWindow;
     private PlayerGuideWindow? _guideWindow;
     private MediaItem? _nowPlaying;
@@ -154,10 +156,15 @@ public partial class MainWindow : Window
         {
             // First launch: the bundled public lists (iptv-org, Free-TV) become ordinary sources.
             if (PublicPlaylists.SeedOnce(_catalogState)) CatalogStore.Save(_catalogState);
+            if (ArchiveOrgCatalog.SeedOnce(_catalogState)) CatalogStore.Save(_catalogState);
+            LoadDownloadsIntoAll();
             var enabled = _catalogState.Sources.Where(x => x.Enabled).ToList();
             if (enabled.Count == 0)
             {
-                StatusText.Text = "Añade una o varias fuentes M3U o Xtream para empezar.";
+                if (_all.Count > 0) RefreshNow();
+                StatusText.Text = _all.Count > 0
+                    ? $"Contenido guardado: {_all.Count:N0} elementos."
+                    : "Añade una o varias fuentes M3U o Xtream para empezar.";
                 WarmUpVlc();
                 return;
             }
@@ -406,6 +413,20 @@ public partial class MainWindow : Window
             return;
         }
 
+        if (source.Type == ArchiveOrgCatalog.SourceType)
+        {
+            if (!force && GetLoadedSet(source.Id).Contains("Live")) return;
+            await RunOnceAsync($"{source.Id}|Live", async () =>
+            {
+                var movies = await ArchiveOrgCatalog.LoadAsync(_sourceHttp, source.Name, source.Id);
+                MergeSourceKind(source, "Live", movies);
+                GetLoadedSet(source.Id).Add("Live");
+                _ = SourceCache.SaveAsync(source.Id, M3uCacheKind, movies.ToList());
+                StatusText.Text = $"{source.Name}: {movies.Count:N0} películas de dominio público cargadas.";
+            });
+            return;
+        }
+
         if (!force && GetLoadedSet(source.Id).Contains("Live")) return;
         await RunOnceAsync($"{source.Id}|Live", async () =>
         {
@@ -649,6 +670,7 @@ public partial class MainWindow : Window
         _currentSection = section;
         _showFavorites = false;
         _showHistory = false;
+        _showDownloads = false;
         HomeHero.Visibility = section == "Home" ? Visibility.Visible : Visibility.Collapsed;
         var showGroupingTools = section == "Live" || section == "Catalog";
         GroupModeBox.Visibility = showGroupingTools ? Visibility.Visible : Visibility.Collapsed;
@@ -837,6 +859,7 @@ public partial class MainWindow : Window
         var historyUrls = _showHistory
             ? new HashSet<string>(_catalogState.History.Select(h => h.Url), StringComparer.Ordinal)
             : null;
+        var downloadsOnly = _showDownloads;
         var activeKind = _activeKind;
         var liveOnly = _currentSection == "Live";
         var anyGroup = selectedGroup == "Todos";
@@ -849,6 +872,7 @@ public partial class MainWindow : Window
             if (liveOnly && x.Kind != "Live") continue;
             if (_showFavorites && !x.IsFavorite) continue;
             if (historyUrls is not null && !historyUrls.Contains(x.Url)) continue;
+            if (downloadsOnly && !x.SourceId.Equals("downloads", StringComparison.Ordinal)) continue;
             if (!anyGroup && !groupOf(x).Equals(selectedGroup, StringComparison.OrdinalIgnoreCase)) continue;
             if (query.Length > 0 && !x.Name.Contains(query, StringComparison.OrdinalIgnoreCase) &&
                 !x.Category.Contains(query, StringComparison.OrdinalIgnoreCase) &&
@@ -878,6 +902,7 @@ public partial class MainWindow : Window
             CatalogCountText.Text = _currentSection == "Live"
                 ? $"GUÍA DE TV · {_items.Count:N0} CANALES"
                 : _showHistory ? $"{_items.Count:N0} ELEMENTOS RECIENTES"
+                : _showDownloads ? $"{_items.Count:N0} DESCARGAS DISPONIBLES SIN CONEXIÓN"
                 : _showFavorites ? $"{_items.Count:N0} FAVORITOS"
                 : $"{_items.Count:N0} ELEMENTOS DISPONIBLES";
         }
@@ -963,7 +988,7 @@ public partial class MainWindow : Window
     private void ShowFavorites_Click(object sender, RoutedEventArgs e)
     {
         HomeHero.Visibility = Visibility.Collapsed;
-        _showFavorites = true; _showHistory = false;
+        _showFavorites = true; _showHistory = false; _showDownloads = false;
         GroupModeBox.Visibility = Visibility.Collapsed;
         CategoryBox.Visibility = Visibility.Collapsed;
         TargetGroupBox.Visibility = Visibility.Collapsed;
@@ -978,7 +1003,7 @@ public partial class MainWindow : Window
     private void ShowHistory_Click(object sender, RoutedEventArgs e)
     {
         HomeHero.Visibility = Visibility.Collapsed;
-        _showFavorites = false; _showHistory = true;
+        _showFavorites = false; _showHistory = true; _showDownloads = false;
         GroupModeBox.Visibility = Visibility.Collapsed;
         CategoryBox.Visibility = Visibility.Collapsed;
         TargetGroupBox.Visibility = Visibility.Collapsed;
@@ -992,8 +1017,87 @@ public partial class MainWindow : Window
     }
     private void ShowAll_Click(object sender, RoutedEventArgs e)
     {
-        _showFavorites = false; _showHistory = false; _activeKind = "All";
+        _showFavorites = false; _showHistory = false; _showDownloads = false; _activeKind = "All";
         SetSection("Home");
+    }
+
+    private void ShowDownloads_Click(object sender, RoutedEventArgs e)
+    {
+        HomeHero.Visibility = Visibility.Collapsed;
+        _showFavorites = false; _showHistory = false; _showDownloads = true;
+        GroupModeBox.Visibility = Visibility.Collapsed;
+        CategoryBox.Visibility = Visibility.Collapsed;
+        TargetGroupBox.Visibility = Visibility.Collapsed;
+        CreateGroupButton.Visibility = Visibility.Collapsed;
+        AssignGroupButton.Visibility = Visibility.Collapsed;
+        PageTitleText.Text = "Descargas";
+        CatalogTitleText.Text = "Disponible sin conexión";
+        CatalogSubtitleText.Text = "Películas y episodios guardados en este equipo.";
+        _currentSection = "Catalog"; _activeKind = "All";
+        ResetFilterControls(); RefreshCategories(); ApplyFilter();
+    }
+
+    private void LoadDownloadsIntoAll()
+    {
+        foreach (var entry in _catalogState.Downloads)
+        {
+            if (!File.Exists(entry.LocalPath)) continue; // se movió o se borró fuera de la app
+            _all.Add(new MediaItem
+            {
+                Name = entry.Name, Url = entry.LocalPath, Kind = entry.Kind,
+                Category = entry.Category, Logo = entry.Logo, Source = "Descargado", SourceId = "downloads"
+            });
+        }
+        InvalidateSorted();
+    }
+
+    private async void Download_Click(object sender, RoutedEventArgs e)
+    {
+        if (MediaList.SelectedItem is not MediaItem item) { StatusText.Text = "Selecciona un elemento primero."; return; }
+        if (item.Kind != "Movie" && item.Kind != "Episode")
+        {
+            StatusText.Text = item.Kind == "Series"
+                ? "Abre la serie y descarga el episodio desde allí."
+                : "La TV en vivo no se puede descargar: no tiene un final.";
+            return;
+        }
+        if (_catalogState.Downloads.Any(d => d.OriginalUrl.Equals(item.Url, StringComparison.OrdinalIgnoreCase)))
+        {
+            StatusText.Text = "Ya está descargado. Búscalo en Descargas.";
+            return;
+        }
+
+        var name = item.Name;
+        StatusText.Text = $"Descargando {name}… 0%";
+        try
+        {
+            var entry = await DownloadManager.DownloadAsync(item, percent =>
+                Dispatcher.BeginInvoke(new Action(() => StatusText.Text = $"Descargando {name}… {percent:0}%")));
+            _catalogState.Downloads.Add(entry);
+            CatalogStore.Save(_catalogState);
+            _all.Add(new MediaItem
+            {
+                Name = entry.Name, Url = entry.LocalPath, Kind = entry.Kind,
+                Category = entry.Category, Logo = entry.Logo, Source = "Descargado", SourceId = "downloads"
+            });
+            InvalidateSorted();
+            if (_showDownloads) ApplyFilter();
+            StatusText.Text = $"{name} descargado. Disponible sin conexión en Descargas.";
+        }
+        catch (Exception ex) { Error("No se pudo descargar", ex); }
+    }
+
+    private void OpenExternal_Click(object sender, RoutedEventArgs e)
+    {
+        if (MediaList.SelectedItem is not MediaItem item) { StatusText.Text = "Selecciona un elemento primero."; return; }
+        if (item.Kind == "Series") { StatusText.Text = "Abre la serie y elige un episodio."; return; }
+        if (string.IsNullOrWhiteSpace(item.Url)) { StatusText.Text = "Este elemento no tiene una dirección reproducible."; return; }
+        try
+        {
+            Process.Start(new ProcessStartInfo(item.Url) { UseShellExecute = true });
+            StatusText.Text = $"Abriendo {item.Name} con el reproductor predeterminado de Windows.";
+        }
+        catch (Exception ex) { Error("No se pudo abrir con un reproductor externo", ex); }
     }
 
     private async void OpenEpg_Click(object sender, RoutedEventArgs e)

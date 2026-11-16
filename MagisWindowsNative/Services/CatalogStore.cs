@@ -15,6 +15,21 @@ public sealed class CatalogState
     public List<PlaylistSource> Sources { get; set; } = new();
     /// <summary>The bundled public lists were added to Sources once (see PublicPlaylists).</summary>
     public bool PublicPlaylistsSeeded { get; set; }
+    /// <summary>The Archive.org public-domain movie source was added once (see ArchiveOrgCatalog).</summary>
+    public bool ArchiveMoviesSeeded { get; set; }
+    /// <summary>Movies and episodes saved to disk for offline viewing (see DownloadManager).</summary>
+    public List<DownloadedItem> Downloads { get; set; } = new();
+}
+public sealed class DownloadedItem
+{
+    public string Name { get; set; } = "";
+    public string OriginalUrl { get; set; } = "";
+    public string LocalPath { get; set; } = "";
+    public string Kind { get; set; } = "Movie";
+    public string Category { get; set; } = "";
+    public string Logo { get; set; } = "";
+    public string Source { get; set; } = "";
+    public DateTime DownloadedAt { get; set; }
 }
 public sealed class HistoryEntry
 {
