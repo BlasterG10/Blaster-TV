@@ -1,1 +1,281 @@
-YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éíß^}N‹Z–‹­¦ëeŠw¬ÕÕÍ¥¹œMåÍÑ•´¹]¥¹‘½İÌì)ÕÍ¥¹œMåÍÑ•´¹]¥¹‘½İÌ¹%¹ÁÕĞì)ÕÍ¥¹œMåÍÑ•´¹]¥¹‘½İÌ¹Q¡É•…‘¥¹œì)ÕÍ¥¹œMåÍÑ•´¹IÕ¹Ñ¥µ”¹%¹Ñ•É½ÁM•ÉÙ¥•Ìì)ÕÍ¥¹œMåÍÑ•´¹]¥¹‘½İÌ¹%¹Ñ•É½Àì)ÕÍ¥¹œ1¥‰Y1M¡…ÉÀ¹M¡…É•ì()¹…µ•ÍÁ…”5…¥Í]¥¹‘½İÍ9…Ñ¥Ù”ì()ÁÕ‰±¥ŒÁ…ÉÑ¥…°±…ÍÌA±…å•É]¥¹‘½Ü€è]¥¹‘½Ü)ì(€€€ÁÉ¥Ù…Ñ”É•…‘½¹±ä5•‘¥…A±…å•È}Á±…å•Èì(€€€ÁÉ¥Ù…Ñ”É•…‘½¹±äÑ¥½¸ñ¥¹Ğø}¡…¹•¡…¹¹•°ì(€€€ÁÉ¥Ù…Ñ”É•…‘½¹±äÑ¥½¸}Ñ½±•Õ¥‘”ì(€€€ÁÉ¥Ù…Ñ”É•…‘½¹±ä¥ÍÁ…Ñ¡•ÉQ¥µ•È}Ñ¥µ•Èì(€€€ÁÉ¥Ù…Ñ”A±…å•É½¹ÑÉ½±Í]¥¹‘½Üü}½¹ÑÉ½±Ìì(€€€ÁÉ¥Ù…Ñ”‰½½°}™Õ±±ÍÉ••¸ì(€€€ÁÉ¥Ù…Ñ”‰½½°}…±±½İ±½Í”ì(€€€ÁÉ¥Ù…Ñ”‰½½°}½¹ÑÉ½±ÍM¡½İ¸ì(€€€ÁÉ¥Ù…Ñ”É•…‘½¹±ä¥ÍÁ…Ñ¡•ÉQ¥µ•È}ÕÉÍ½ÉQ¥µ•Èì(€€€ÁÉ¥Ù…Ñ”É•…‘½¹±ä¥ÍÁ…Ñ¡•ÉQ¥µ•È}¡¥‘•½¹ÑÉ½±ÍQ¥µ•Èì(€€€ÁÉ¥Ù…Ñ”MåÍÑ•´¹É…İ¥¹œ¹A½¥¹Ğ}±…ÍÑÕÉÍ½ÉA½Í¥Ñ¥½¸ì(€€€ÁÉ¥Ù…Ñ”‰½½°}¡…ÍÕÉÍ½ÉA½Í¥Ñ¥½¸ì(€€€ÁÉ¥Ù…Ñ”]¥¹‘½İMÑå±”}ÁÉ•Ù¥½ÕÍMÑå±”ì(€€€ÁÉ¥Ù…Ñ”I•Í¥é•5½‘”}ÁÉ•Ù¥½ÕÍI•Í¥é•5½‘”ì(€€€ÁÉ¥Ù…Ñ”]¥¹‘½İMÑ…Ñ”}ÁÉ•Ù¥½ÕÍMÑ…Ñ”ì((€€€€¼¼¼€ñÍÕµµ…ÉäùI…¥Í•İ¡•¹•Ù•ÈÑ¡”™±½…Ñ¥¹œ½¹ÑÉ½±Ì‰…È…ÁÁ•…ÉÌ€¡ÑÉÕ”¤½È¡¥‘•Ì€¡™…±Í”¤¸Q¡”¡…¹¹•°Õ¥‘”™½±±½İÌ¥Ğ¸ğ½ÍÕµµ…Éäø(€€€ÁÕ‰±¥Œ•Ù•¹ĞÑ¥½¸ñ‰½½°øü½¹ÑÉ½±ÍY¥Í¥‰¥±¥Ñå¡…¹•ì((€€€m±±%µÁ½ÉĞ ‰ÕÍ•ÈÌÈ¹‘±°ˆ¥t(€€€ÁÉ¥Ù…Ñ”ÍÑ…Ñ¥Œ•áÑ•É¸‰½½°•ÑÕÉÍ½ÉA½Ì¡½ÕĞMåÍÑ•´¹É…İ¥¹œ¹A½¥¹ĞÁ½¥¹Ğ¤ì((€€€ÁÕ‰±¥ŒA±…å•É]¥¹‘½Ü¡5•‘¥…A±…å•ÈÁ±…å•È°Ñ¥½¸ñ¥¹Ğø¡…¹•¡…¹¹•°°Ñ¥½¸Ñ½±•Õ¥‘”¤(€€€ì(€€€€€€€%¹¥Ñ¥…±¥é•½µÁ½¹•¹Ğ ¤ì(€€€€€€€}Á±…å•È€ôÁ±…å•Èì(€€€€€€€}¡…¹•¡…¹¹•°€ô¡…¹•¡…¹¹•°ì(€€€€€€€}Ñ½±•Õ¥‘”€ôÑ½±•Õ¥‘”ì(€€€€€€€Y¥‘•½MÕÉ™…”¹1½…‘•€¬ôY¥‘•½MÕÉ™…•}1½…‘•ì(€€€€€€€}Á±…å•È¹A±…å¥¹œ€¬ôA±…å•É}A±…å¥¹œì(€€€€€€€}Ñ¥µ•È€ô¹•Ü¥ÍÁ…Ñ¡•ÉQ¥µ•Èì%¹Ñ•ÉÙ…°€ôQ¥µ•MÁ…¸¹É½µ5¥±±¥Í•½¹‘Ì ĞÀÀ¤ôì(€€€€€€€}Ñ¥µ•È¹Q¥¬€¬ô€¡|°|¤€ôø}½¹ÑÉ½±Ìü¹UÁ‘…Ñ•AÉ½É•ÍÌ ¤ì(€€€€€€€}Ñ¥µ•È¹MÑ…ÉĞ ¤ì((€€€€€€€}¡¥‘•½¹ÑÉ½±ÍQ¥µ•È€ô¹•Ü¥ÍÁ…Ñ¡•ÉQ¥µ•Èì%¹Ñ•ÉÙ…°€ôQ¥µ•MÁ…¸¹É½µM•½¹‘Ì Ü¤ôì(€€€€€€€}¡¥‘•½¹ÑÉ½±ÍQ¥µ•È¹Q¥¬€¬ô€¡|°|¤€ôø!¥‘•½¹ÑÉ½±Í%™A±…å¥¹œ ¤ì(€€€€€€€}ÕÉÍ½ÉQ¥µ•È€ô¹•Ü¥ÍÁ…Ñ¡•ÉQ¥µ•Èì%¹Ñ•ÉÙ…°€ôQ¥µ•MÁ…¸¹É½µ5¥±±¥Í•½¹‘Ì ÄÔÀ¤ôì(€€€€€€€}ÕÉÍ½ÉQ¥µ•È¹Q¥¬€¬ô€¡|°|¤€ôø•Ñ•ÑÕÉÍ½É5½Ù•µ•¹Ğ ¤ì(€€€€€€€}ÕÉÍ½ÉQ¥µ•È¹MÑ…ÉĞ ¤ì((€€€€€€€1½…‘•€¬ô€¡|°|¤€ôøì¹ÍÕÉ•½¹ÑÉ½±Ì ¤ìM¡½İ½¹ÑÉ½±Ì ¤ìôì(€€€€€€€AÉ•Ù¥•İ5½ÕÍ•5½Ù”€¬ô€¡|°|¤€ôøM¡½İ½¹ÑÉ½±Ì ¤ì(€€€€€€€AÉ•Ù¥•İ5½ÕÍ•½İ¸€¬ô€¡|°|¤€ôøM¡½İ½¹ÑÉ½±Ì ¤ì(€€€€€€€1½…Ñ¥½¹¡…¹•€¬ô€¡|°|¤€ôøA½Í¥Ñ¥½¹½¹ÑÉ½±Ì ¤ì(€€€€€€€M¥é•¡…¹•€¬ô€¡|°|¤€ôøA½Í¥Ñ¥½¹½¹ÑÉ½±Ì ¤ì(€€€€€€€MÑ…Ñ•¡…¹•€¬ô€¡|°|¤€ôøA½Í¥Ñ¥½¹½¹ÑÉ½±Ì ¤ì(€€€€€€€%ÍY¥Í¥‰±•¡…¹•€¬ô€¡|°”¤€ôø(€€€€€€€ì(€€€€€€€€€€€¥˜€ ¡‰½½°¥”¹9•İY…±Õ”¤ì¹ÍÕÉ•½¹ÑÉ½±Ì ¤ìA½Í¥Ñ¥½¹½¹ÑÉ½±Ì ¤ìM¡½İ½¹ÑÉ½±Ì ¤ìô(€€€€€€€€€€€•±Í”ì}¡¥‘•½¹ÑÉ½±ÍQ¥µ•È¹MÑ½À ¤ì}½¹ÑÉ½±Ìü¹!¥‘” ¤ìM•Ñ½¹ÑÉ½±ÍM¡½İ¸¡™…±Í”¤ìô(€€€€€€€ôì(€€€€€€€±½Í¥¹œ€¬ôA±…å•É]¥¹‘½İ}±½Í¥¹œì(€€€ô((€€€ÁÕ‰±¥ŒÙ½¥M•ÑQ¥Ñ±”¡ÍÑÉ¥¹œÑ¥Ñ±”¤(€€€ì(€€€€€€€Q¥Ñ±”€ôÑ¥Ñ±”ì(€€€€€€€€¼¼Q¡”Á±…å•Èİ¥¹‘½Üµ…ä¹½Ğ¡…Ù”‰••¸Í¡½İ¸å•Ğ¸•™•ÈÉ•…Ñ¥½¸½˜Ñ¡”(€€€€€€€€¼¼½İ¹•½¹ÑÉ½±Ìİ¥¹‘½ÜÕ¹Ñ¥°1½…‘•½%ÍY¥Í¥‰±•¡…¹•¸(€€€€€€€}½¹ÑÉ½±Ìü¹M•ÑQ¥Ñ±”¡Ñ¥Ñ±”¤ì(€€€ô((€€€ÁÕ‰±¥ŒÙ½¥M•ÑA±…å‰…­MÑ…ÑÕÌ¡ÍÑÉ¥¹œµ•ÍÍ…”¤(€€€ì(€€€€€€€¥˜€ …¥ÍÁ…Ñ¡•È¹¡•]yöÚ$z{-®éÜj×–b…ö6öçG&öÇ56†÷vâÓÒ6†÷vâ’&WGW&ã°¢ö6öçG&öÇ56†÷vâÒ6†÷vã°¢6öçG&öÇ5f—6–&–Æ—G”6†ævVCòä–çfö¶R‡6†÷vâ“°¢Ğ ¢&—fFRfö–B7F÷Æ–&6²‚¢°¢ö†–FT6öçG&öÇ5F–ÖW"å7F÷‚“°¢÷Æ–W"å7F÷‚“°¢ö6öçG&öÇ3òå6WEÆ–&6µ7FGW2‚$FWFVæ–Fò"“°¢Ğ ¢V&Æ–2fö–BFövvÆTgVÆÇ67&VVâ‚¢°¢–b‚ögVÆÇ67&VVâ¢°¢÷&Wf–÷W57G–ÆRÒv–æF÷u7G–ÆS°¢÷&Wf–÷W5&W6—¦TÖöFRÒ&W6—¦TÖöFS°¢÷&Wf–÷W57FFRÒv–æF÷u7FFS°¢v–æF÷u7FFRÒv–æF÷u7FFRäæ÷&ÖÃ°¢v–æF÷u7G–ÆRÒv–æF÷u7G–ÆRäæöæS°¢&W6—¦TÖöFRÒ&W6—¦TÖöFRäæõ&W6—¦S°¢ÆVgBÒ²F÷Ò°¢v–GF‚Ò7—7FVÕ&ÖWFW'2å&–Ö'•67&VVåv–GFƒ°¢†V–v‡BÒ7—7FVÕ&ÖWFW'2å&–Ö'•67&VVä†V–v‡C°¢v–æF÷u7FFRÒv–æF÷u7FFRäÖ†–Ö—¦VC°¢ögVÆÇ67&VVâÒG'VS°¢ö6öçG&öÇ3òå6WEÆ–&6µ7FGW2‚%çFÆÆ6ö×ÆWF+rW62&6Æ—""“°¢Ğ¢VÇ6P¢°¢v–æF÷u7FFRÒv–æF÷u7FFRäæ÷&ÖÃ°¢v–æF÷u7G–ÆRÒ÷&Wf–÷W57G–ÆS°¢&W6—¦TÖöFRÒ÷&Wf–÷W5&W6—¦TÖöFS°¢v–æF÷u7FFRÒ÷&Wf–÷W57FFS°¢ögVÆÇ67&VVâÒfÇ6S°¢Ğ¢÷6—F–öä6öçG&öÇ2‚“°¢Ğ ¢&—fFRfö–Bv–æF÷uõ&Wf–Wt¶W”F÷vâ†ö&¦V7B6VæFW"Â¶W”WfVçD&w2R¢°¢f"wV–FT¶W’ÒRä¶W’ÓÒ¶W’ärÇÂRä¶W’ÓÒ¶W’äVçFW"ÇÂRä¶W’ÓÒ¶W’åF#°¢òòf÷"F†RwV–FR¶W’F†RFövvÆR'Vç2f—'7C¢–bF†RwV–FR—2öæÇ’†–FFVâFövWF†W"v—F‚F†P¢òò&"ÂF†R¶W’'&–æw2—B&6²–ç7FVBöb6Æ÷6–ær—Bà¢–b‚wV–FT¶W’’6†÷t6öçG&öÇ2‚“°¢–b†Rä¶W’ÓÒ¶W’äc’²FövvÆTgVÆÇ67&VVâ‚“²Rä†æFÆVBÒG'VS²Ğ¢VÇ6R–b†Rä¶W’ÓÒ¶W’äW66RbbögVÆÇ67&VVâ’²FövvÆTgVÆÇ67&VVâ‚“²Rä†æFÆVBÒG'VS²Ğ¢VÇ6R–b†Rä¶W’ÓÒ¶W’å76RÇÂRä¶W’ÓÒ¶W’ä²¢°¢÷Æ–W"åW6R‚“°¢6†÷t6öçG&öÇ2‚“°¢Rä†æFÆVBÒG'VS°¢Ğ¢VÇ6R–b†wV–FT¶W’¢°¢÷FövvÆTwV–FR‚“°¢6†÷t6öçG&öÇ2‚“°¢Rä†æFÆVBÒG'VS°¢Ğ¢VÇ6R–b†Rä¶W’ÓÒ¶W’åvUW¢°¢ö6†ævT6†ææVÂ‚Ó“°¢6†÷t6öçG&öÇ2‚“°¢Rä†æFÆVBÒG'VS°¢Ğ¢VÇ6R–b†Rä¶W’ÓÒ¶W’åvTF÷vâ¢°¢ö6†ævT6†ææVÂƒ“°¢6†÷t6öçG&öÇ2‚“°¢Rä†æFÆVBÒG'VS°¢Ğ¢Ğ ¢&—fFRfö–BÆ–W%v–æF÷uô6Æ÷6–ær†ö&¦V7Cò6VæFW"Â7—7FVÒä6ö×öæVçDÖöFVÂä6æ6VÄWfVçD&w2R¢°¢–b‚öÆÆ÷t6Æ÷6R¢°¢Rä6æ6VÂÒG'VS°¢÷Æ–W"å7F÷‚“°¢†–FR‚“°¢&WGW&ã°¢Ğ¢÷F–ÖW"å7F÷‚“°¢ö7W'6÷%F–ÖW"å7F÷‚“°¢ö†–FT6öçG&öÇ5F–ÖW"å7F÷‚“°¢÷Æ–W"åÆ––ærÓÒÆ–W%õÆ––æs°¢–b…ö6öçG&öÇ2—2æ÷BçVÆÂ¢°¢ö6öçG&öÇ2ä6Æ÷6R‚“°¢ö6öçG&öÇ2ÒçVÆÃ°¢Ğ¢f–FVõ7W&f6RäÖVF–Æ–W"ÒçVÆÃ°¢f–FVõ7W&f6RäF—7÷6R‚“°¢Ğ ¢V&Æ–2fö–B6‡WFF÷vâ‚¢°¢öÆÆ÷t6Æ÷6RÒG'VS°¢6Æ÷6R‚“°¢Ğ§Ğ
+using System.Windows;
+using System.Windows.Input;
+using System.Windows.Threading;
+using System.Runtime.InteropServices;
+using System.Windows.Interop;
+using LibVLCSharp.Shared;
+
+namespace MagisWindowsNative;
+
+public partial class PlayerWindow : Window
+{
+    private readonly MediaPlayer _player;
+    private readonly Action<int> _changeChannel;
+    private readonly Action _toggleGuide;
+    private readonly DispatcherTimer _timer;
+    private PlayerControlsWindow? _controls;
+    private bool _fullscreen;
+    private bool _allowClose;
+    private bool _controlsShown;
+    private readonly DispatcherTimer _cursorTimer;
+    private readonly DispatcherTimer _hideControlsTimer;
+    private System.Drawing.Point _lastCursorPosition;
+    private bool _hasCursorPosition;
+    private WindowStyle _previousStyle;
+    private ResizeMode _previousResizeMode;
+    private WindowState _previousState;
+
+    /// <summary>Raised whenever the floating controls bar appears (true) or hides (false). The channel guide follows it.</summary>
+    public event Action<bool>? ControlsVisibilityChanged;
+
+    [DllImport("user32.dll")]
+    private static extern bool GetCursorPos(out System.Drawing.Point point);
+
+    public PlayerWindow(MediaPlayer player, Action<int> changeChannel, Action toggleGuide)
+    {
+        InitializeComponent();
+        _player = player;
+        _changeChannel = changeChannel;
+        _toggleGuide = toggleGuide;
+        VideoSurface.Loaded += VideoSurface_Loaded;
+        _player.Playing += Player_Playing;
+        _timer = new DispatcherTimer { Interval = TimeSpan.FromMilliseconds(400) };
+        _timer.Tick += (_, _) => _controls?.UpdateProgress();
+        _timer.Start();
+
+        _hideControlsTimer = new DispatcherTimer { Interval = TimeSpan.FromSeconds(7) };
+        _hideControlsTimer.Tick += (_, _) => HideControlsIfPlaying();
+        _cursorTimer = new DispatcherTimer { Interval = TimeSpan.FromMilliseconds(150) };
+        _cursorTimer.Tick += (_, _) => DetectCursorMovement();
+        _cursorTimer.Start();
+
+        Loaded += (_, _) => { EnsureControls(); ShowControls(); };
+        PreviewMouseMove += (_, _) => ShowControls();
+        PreviewMouseDown += (_, _) => ShowControls();
+        LocationChanged += (_, _) => PositionControls();
+        SizeChanged += (_, _) => PositionControls();
+        StateChanged += (_, _) => PositionControls();
+        IsVisibleChanged += (_, e) =>
+        {
+            if ((bool)e.NewValue) { EnsureControls(); PositionControls(); ShowControls(); }
+            else { _hideControlsTimer.Stop(); _controls?.Hide(); SetControlsShown(false); }
+        };
+        Closing += PlayerWindow_Closing;
+    }
+
+    public void SetTitle(string title)
+    {
+        Title = title;
+        // The player window may not have been shown yet. Defer creation of the
+        // owned controls window until Loaded/IsVisibleChanged.
+        _controls?.SetTitle(title);
+    }
+
+    public void SetPlaybackStatus(string message)
+    {
+        if (!Dispatcher.CheckAccess())
+        {
+            Dispatcher.BeginInvoke(new Action(() => SetPlaybackStatus(message)));
+            return;
+        }
+        if (IsLoaded && IsVisible) EnsureControls();
+        _controls?.SetPlaybackStatus(message);
+    }
+
+    private void VideoSurface_Loaded(object sender, RoutedEventArgs e)
+    {
+        VideoSurface.Loaded -= VideoSurface_Loaded;
+        VideoSurface.MediaPlayer = _player;
+        SetPlaybackStatus("Video listo");
+    }
+
+    private void Player_Playing(object? sender, EventArgs e)
+        => Dispatcher.BeginInvoke(new Action(() =>
+        {
+            _controls?.RefreshTrackOptions();
+            ShowControls();
+        }));
+
+    private void EnsureControls()
+    {
+        if (_controls is not null) return;
+        if (!IsLoaded || !IsVisible) return;
+        _controls = new PlayerControlsWindow(_player, ToggleFullscreen, StopPlayback, _changeChannel, _toggleGuide);
+        _controls.Owner = this;
+        _controls.SetTitle(Title);
+        _controls.SetPlaybackStatus("Preparado");
+        _controls.Show();
+        PositionControls();
+    }
+
+    private void PositionControls()
+    {
+        if (_controls is null || !IsVisible) return;
+        try
+        {
+            const double margin = 20;
+            _controls.Width = Math.Max(650, ActualWidth - margin * 2);
+            _controls.Height = 146;
+            _controls.Left = Left + margin;
+            _controls.Top = Top + Math.Max(0, ActualHeight - _controls.Height - margin - (WindowStyle == WindowStyle.None ? 0 : 8));
+            if (!_controls.IsVisible) _controls.Show();
+        }
+        catch { /* Window can be between initialization and first layout pass. */ }
+    }
+
+    private void DetectCursorMovement()
+    {
+        if (!IsVisible || !GetCursorPos(out var point)) return;
+        if (!_hasCursorPosition || point != _lastCursorPosition)
+        {
+            _lastCursorPosition = point;
+            _hasCursorPosition = true;
+            var screenBounds = new System.Drawing.Rectangle(
+                (int)Left, (int)Top, (int)Math.Max(1, ActualWidth), (int)Math.Max(1, ActualHeight));
+            if (screenBounds.Contains(point.X, point.Y))
+                ShowControls();
+        }
+    }
+
+    private void ShowControls()
+    {
+        if (!IsVisible) return;
+        EnsureControls();
+        if (_controls is null) return;
+        PositionControls();
+        if (!_controls.IsVisible) _controls.Show();
+        _controls.ActivateOverlay();
+        _hideControlsTimer.Stop();
+        if (_player.IsPlaying) _hideControlsTimer.Start();
+        SetControlsShown(true);
+    }
+
+    /// <summary>
+    /// Called by the guide while the user is working in it (mouse, keys, scrolling) so the bar
+    /// and the guide stay on screen together and are hidden together after the idle time.
+    /// </summary>
+    public void KeepControlsAlive()
+    {
+        if (_controls is { IsVisible: true })
+        {
+            _hideControlsTimer.Stop();
+            if (_player.IsPlaying) _hideControlsTimer.Start();
+        }
+        else ShowControls();
+    }
+
+    private void HideControlsIfPlaying()
+    {
+        _hideControlsTimer.Stop();
+        if (_player.IsPlaying && _controls is not null)
+        {
+            _controls.Hide();
+            SetControlsShown(false);
+        }
+    }
+
+    // The guide listens to this so that it appears and disappears at exactly the same moment as the bar.
+    private void SetControlsShown(bool shown)
+    {
+        if (_controlsShown == shown) return;
+        _controlsShown = shown;
+        ControlsVisibilityChanged?.Invoke(shown);
+    }
+
+    private void StopPlayback()
+    {
+        _hideControlsTimer.Stop();
+        _player.Stop();
+        _controls?.SetPlaybackStatus("Detenido");
+    }
+
+    public void ToggleFullscreen()
+    {
+        if (!_fullscreen)
+        {
+            _previousStyle = WindowStyle;
+            _previousResizeMode = ResizeMode;
+            _previousState = WindowState;
+            WindowState = WindowState.Normal;
+            WindowStyle = WindowStyle.None;
+            ResizeMode = ResizeMode.NoResize;
+            Left = 0; Top = 0;
+            Width = SystemParameters.PrimaryScreenWidth;
+            Height = SystemParameters.PrimaryScreenHeight;
+            WindowState = WindowState.Maximized;
+            _fullscreen = true;
+            _controls?.SetPlaybackStatus("Pantalla completa Â· Esc para salir");
+        }
+        else
+        {
+            WindowState = WindowState.Normal;
+            WindowStyle = _previousStyle;
+            ResizeMode = _previousResizeMode;
+            WindowState = _previousState;
+            _fullscreen = false;
+        }
+        PositionControls();
+    }
+
+    private void Window_PreviewKeyDown(object sender, KeyEventArgs e)
+    {
+        var guideKey = e.Key == Key.G || e.Key == Key.Enter || e.Key == Key.Tab;
+        // For the guide key the toggle runs first: if the guide is only hidden together with the
+        // bar, the key brings it back instead of closing it.
+        if (!guideKey) ShowControls();
+        if (e.Key == Key.F11) { ToggleFullscreen(); e.Handled = true; }
+        else if (e.Key == Key.Escape && _fullscreen) { ToggleFullscreen(); e.Handled = true; }
+        else if (e.Key == Key.Space || e.Key == Key.K)
+        {
+            _player.Pause();
+            ShowControls();
+            e.Handled = true;
+        }
+        else if (guideKey)
+        {
+            _toggleGuide();
+            ShowControls();
+            e.Handled = true;
+        }
+        else if (e.Key == Key.PageUp)
+        {
+            _changeChannel(-1);
+            ShowControls();
+            e.Handled = true;
+        }
+        else if (e.Key == Key.PageDown)
+        {
+            _changeChannel(1);
+            ShowControls();
+            e.Handled = true;
+        }
+    }
+
+    private void PlayerWindow_Closing(object? sender, System.ComponentModel.CancelEventArgs e)
+    {
+        if (!_allowClose)
+        {
+            e.Cancel = true;
+            _player.Stop();
+            Hide();
+            return;
+        }
+        _timer.Stop();
+        _cursorTimer.Stop();
+        _hideControlsTimer.Stop();
+        _player.Playing -= Player_Playing;
+        if (_controls is not null)
+        {
+            _controls.Close();
+            _controls = null;
+        }
+        VideoSurface.MediaPlayer = null;
+        VideoSurface.Dispose();
+    }
+
+    public void Shutdown()
+    {
+        _allowClose = true;
+        Close();
+    }
+}

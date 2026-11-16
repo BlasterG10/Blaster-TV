@@ -1,1 +1,242 @@
-YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éíçÞuN‹Z–‹­¦ëeŠw¬ÔŒ5…¥Ì]¥¹‘½ÝÌ9…Ñ¥Ù”ƒŠPÁÉ½å•Ñ¼¥¹¥¥…°4(4)Á±¥…§Í¸‘”•ÍÉ¥Ñ½É¥¼]AÁ…É„]¥¹‘½ÝÌ€ÄÄ°½¸…Ó…±½¼4ÍT½4ÍTàä½¹•á§Í¸aÑÉ•…´½‘•Ì½µÁ…Ñ¥‰±”°äÉ•ÁÉ½‘Õ§Í¸µ•‘¥…¹Ñ”1¥‰Y1M¡…ÉÀ¸4(4(ŒŒE×¤¥¹±Õå”•ÍÑ”ÁÉ¥µ•È‰Õ¥±4(´%µÁ½ÉÑ…È±¥ÍÑ…Ì4ÍT½4ÍTà‘•Í‘”…É¡¥Ù¼±½…°¼UI0!QQ@½!QQAL¸4(´¹…±¥é…È€aQ%9€°¹½µ‰É”°É½ÕÀµÑ¥Ñ±•€äÑÙœµ±½½€¸4(´½¹•Ñ…È„Õ¸Í•ÉÙ¥‘½ÈaÑÉ•…´…ÕÑ½É¥é…‘¼½¸UI0°ÕÍÕ…É¥¼ä½¹ÑÉ…Í—Å„¸4(´½¹ÍÕ±Ñ…È…Ñ•½Ëµ…Ì‘”QX•¸Ù¥Ù¼°Á•³µÕ±…ÌäÍ•É¥•Ìµ•‘¥…¹Ñ”±…Ì…¥½¹•ÌaÑÉ•…´½ÉÉ•ÍÁ½¹‘¥•¹Ñ•Ì¸4(´‰É¥È±„™¥¡„‘”•Á¥Í½‘¥½Ì‘”Õ¹„Í•É¥”äÉ•ÁÉ½‘Õ¥È•°•Á¥Í½‘¥¼Í•±•¥½¹…‘¼¸4(´I•ÁÉ½‘Õ¥È•¹±…•Ì½µÁ…Ñ¥‰±•Ì½¸Y1¸4(´Õ…É‘…È½Á¥½¹…±µ•¹Ñ”±…ÌÉ•‘•¹¥…±•Ì½¸AA$‘”]¥¹‘½ÝÌ€¡Á•É™¥°‘•°ÕÍÕ…É¥¼…ÑÕ…°¤¸4(´¥™É…È½¸AA$•°…Ó…±½¼±½…°°¥¹±Õ¥‘½Ì™…Ù½É¥Ñ½Ì”¡¥ÍÑ½É¥…°°Á…É„¹¼‘•©…ÈUI1ÌaÑÉ•…´½¸É•‘•¹¥…±•Ì•¸Ñ•áÑ¼Á±…¹¼¸4(´5½ÍÑÉ…ÈÑ…É©•Ñ…Ì½µÁ…Ñ…Ì½¸±½½Ñ¥Á½Ì½…ÉÑ•±•ÌÕ…¹‘¼•°ÁÉ½Ù••‘½È±½ÌÍÕµ¥¹¥ÍÑÉ„ì±„±¥ÍÑ„ÕÍ„Ù¥ÉÑÕ…±¥é…§Í¸äÉ•¥±…©”‘”½¹ÑÉ½±•Ì¸4(´	ÕÍ…ÈÁ½È¹½µ‰É”¼…Ñ•½Ëµ„¸4(´¥±ÑÉ…ÈÁ½È…Ñ•½Ëµ„¸4(´…Ù½É¥Ñ½ÌÁ•ÉÍ¥ÍÑ•¹Ñ•Ì¸4(´!¥ÍÑ½É¥…°‘”É•ÁÉ½‘Õ§Í¸€£é±Ñ¥µ½Ì€ÄÀÀ•±•µ•¹Ñ½Ì¤Õ…É‘…‘¼±½…±µ•¹Ñ”¸4(´%¹Ñ•É™…è½ÍÕÉ„‘”QX‘”•ÍÉ¥Ñ½É¥¼°¥¹ÍÁ¥É…‘„•¸•°™±Õ©¼‘”¹…Ù•…§Í¸½‰Í•ÉÙ…‘¼°Á•É¼½¸¥‘•¹Ñ¥‘…Ù¥ÍÕ…°ÁÉ½Á¥„¸4(4(ŒŒI•ÅÕ¥Í¥Ñ½Ì4(´]¥¹‘½ÝÌ€ÄÄàØÐ¸4(´Y¥ÍÕ…°MÑÕ‘¥¼€ÈÀÈØ¼€¹9P€ÄÀM,½¸…É„‘”ÑÉ…‰…©¼€¨©•Í…ÉÉ½±±¼‘”•ÍÉ¥Ñ½É¥¼‘”€¹9P¨¨¸4(´•Í¼„%¹Ñ•É¹•ÐÁ…É„É•ÍÑ…ÕÉ…ÈÁ…ÅÕ•Ñ•Ì9Õ•Ð¸4(´U¸Í•ÉÙ¥¥¼%AQX½±¥ÍÑ„ä•¹±…•ÌÅÕ”Ñ•¹…Ì‘•É•¡¼„ÕÑ¥±¥é…È¸4(4(ŒŒ‰É¥Èä½µÁ¥±…È4(Ä¸áÑÉ…”•°i%@¸4(È¸‰É”5…¥Í]¥¹‘½ÝÍ9…Ñ¥Ù”¹ÍÁÉ½©€•¸Y¥ÍÕ…°MÑÕ‘¥¼¸4(Ì¸A•Éµ¥Ñ”É•ÍÑ…ÕÉ…È±½ÌÁ…ÅÕ•Ñ•Ì9Õ•Ð¸4(Ð¸M•±•¥½¹„½¹™¥ÕÉ…§Í¸I•±•…Í•€äÁ±…Ñ…™½Éµ„àØÑ€¸4(Ô¸©•ÕÑ„½¸ÔÁ…É„ÁÉ½‰…È¸4(4)Q…µ‰§¥¸‘•Í‘”A½Ý•ÉM¡•±°•¸±„…ÉÁ•Ñ„‘•°ÁÉ½å•Ñ¼è4)Á½Ý•ÉÍ¡•±°4)‘½Ñ¹•ÐÉ•ÍÑ½É”4)‘½Ñ¹•Ð‰Õ¥±€µŒI•±•…Í”4)‘½Ñ¹•ÐÉÕ¸4)€4(4(ŒŒAÕ‰±¥…È½µ¼…Á±¥…§Í¸]¥¹‘½ÝÌ4)½¸€¹9P€ÄÀM,¥¹ÍÑ…±…‘¼è4)Á½Ý•ÉÍ¡•±°4)‘½Ñ¹•ÐÁÕ‰±¥Í €µŒI•±•…Í”€µÈÝ¥¸µàØÐ€´µÍ•±˜µ½¹Ñ…¥¹•ÑÉÕ”€½ÀéAÕ‰±¥Í¡M¥¹±•¥±”õÑÉÕ”4)€4)°•©•ÕÑ…‰±”Í”•¹•É„‘•¹ÑÉ¼‘”‰¥¹qqI•±•…Í•qq¹•ÐÄÀ¸ÀµÝ¥¹‘½ÝÍqqÝ¥¸µàØÑqqÁÕ‰±¥Í¡qq€¸4(4(ŒŒ½¹•á§Í¸4ÍT4)AÕ±Í„€¨©‰É¥È4ÍT¨¨äÍ•±•¥½¹„ÑÔ…É¡¥Ù¼€¹´ÍÕ€¼€¹´ÍÔá€¸Q…µ‰§¥¸ÁÕ•‘•Ì¥µÁ½ÉÑ…ÈÕ¹„±¥ÍÑ„É•µ½Ñ„½¸€¨©4ÍTÁ½ÈUI0¨¨¸1…ÌUI0!QQ@½!QQAL½IQM@½IQ5@ÅÕ”½¹Ñ•¹„Í”…É•…¸…°…Ó…±½¼¸4(4(ŒŒ½¹•á§Í¸aÑÉ•…´4)AÕ±Í„€¨©½¹•Ñ…ÈaÑÉ•…´¨¨”¥¹ÑÉ½‘Õ”è4(´UI0‰…Í”‘•°ÁÉ½Ù••‘½È°Á½È•©•µÁ±¼¡ÑÑÁÌè¼½Í•ÉÙ¥‘½Èµ•©•µÁ±¼¹Ñ±èàÀàÁ€4(´UÍÕ…É¥¼4(´½¹ÑÉ…Í—Å„4(4)AÕ•‘•Ìµ…É…È€¨©I•½É‘…ÈÉ•‘•¹¥…±•Ì¨¨¸M”Õ…É‘…¸¥™É…‘…Ì½¸AA$äÍ½±¼•°µ¥Íµ¼ÕÍÕ…É¥¼‘”]¥¹‘½ÝÌÁÕ•‘”‘•Í¥™É…É±…Ì¸°¡¥ÍÑ½É¥…°ä™…Ù½É¥Ñ½ÌÑ…µ‰§¥¸Í”Õ…É‘…¸¥™É…‘½ÌÁ½ÉÅÕ”±…ÌUI0aÑÉ•…´ÍÕ•±•¸¥¹±Õ¥ÈÕÍÕ…É¥¼ä½¹ÑÉ…Í—Å„¸4(4(ŒŒ5•©½É…Ì‘”•ÍÑ„¥Ñ•É…§Í¸€¡±¥•É•é„ä™±Õ¥‘•è¤4(´M”½¹Í•ÉÙ„]A¹…Ñ¥Ù¼ä1¥‰Y1M¡…ÉÀì¹¼Í”…É•„½ÑÉ¼™É…µ•Ý½É¬‘”¥¹Ñ•É™…è¹¤½ÑÉ¼µ½Ñ½ÈµÕ±Ñ¥µ•‘¥„¸4(´1¥ÍÑ„½¸Ù¥ÉÑÕ…±¥é…§Í»yÖÚ$z{-®éÜj×÷–÷26–â6Ö&–"Æw'W6œ;6â&–æ6—ÂF—ò(i":×2÷&Vvœ;6âàÐ¢ÒÆw\:Ö„ÔÅEb6–wVR6–VæFòVæ–×÷'F6œ;6âÆö6ÂFW6FRVÂ'FFò¢¤w\:ÖUr¢¢âVÂV×&V¦Ö–VçFòW6GfrÖ–FòWuö6†ææVÅö–F7VæFòW†—7FR’Â6öÖòÇFW&æF—fÂVÂæöÖ'&RFVÂ6æÂàÐ¢Ò6’VÂ&÷fVVF÷"æò÷'F:×2ôUrÂÆÆ–66œ;6â–æF–6&Vvœ;6âæò–FVçF–f–6Fòw\:Öæò6&vFVâÇVv"FR–çfVçF"W6÷2FF÷2àÐ Ð Ð¢22gVVçFW2Ü;¦ÇF—ÆW2„Ó5RôÓ5S‚’‡G&VÒÐ¢¢¤W7F6V66œ;6â&VV×Æ¦VÂfÇV¦òçFW&–÷"FRVæ6öÆÆ—7Fö6öæW†œ;6ââ¢ Ð¤Æ&–&Æ–÷FV6FÖ—FRf&–2gVVçFW2ÆfW¢â'&R¢¤FÖ–æ—7G&"gVVçFW2¢¢VâVÂÖVì;¢ÆFW&Â’W6¢¤Ó5R÷"U$Â¢¢Â¢¤&6†—fòÓ5R¢¢ò¢¥‡G&VÒ6öFW2¢¢&&Vv—7G&"FçF2gVVçFW26öÖòæV6W6—FW2àÐ Ð¢ÒFöF2Æ2gVVçFW27F—f26R6öÖ&–æâVâÆÖ—6Öw\:ÖFREb’6L:ÆövòàÐ¢Ò6FgVVçFRVVFR7F—f'6RòFW67F—f'6R6–â&÷'&&ÆÂòVÆ–Ö–æ'6RW&ÖæVçFVÖVçFRàÐ¢Ò¢¤7GVÆ—¦"gVVçFW2¢¢gVVÇfRFW66&v"Æ2Æ—7F27F—f2’7GVÆ—¦Æ÷26æÆW2àÐ¢ÒÆ26öæW†–öæW2‡G&VÒ6RÖçF–VæVâ6W&F2÷"gVVçFS²Æ26W&–W26öç7VÇFâW—6öF–÷26öçG&VÂ6W'f–F÷"FVÂVR&ö6VFVâàÐ¢ÒÆ2gVVçFW2Â–æ6ÇV–F÷2Æ÷2FF÷2FR6öæW†œ;6â‡G&VÒ’Æ2U$ÂÓ5RVRVVFâ–æ6ÇV—"Fö¶Vç2Â6RwV&FâFVçG&òFR6FÆöræ§6öæÂ6–g&Fò6öâE’&VÂW7V&–ò7GVÂFRv–æF÷w2àÐ¢ÒÆ2Æ—7F2Ó5RôÓ5S‚6R6&vâ6öÖòEbVâf—fòâÆ2VÌ:Ö7VÆ2’6W&–W26R6öÆ–6—Fâ6F6öæW†œ;6â‡G&VÒ7VæFò6R'&RVÂ6L:Æövòò7R6V66œ;6âàÐ Ð¥&&ö&#¢&Vv—7G&F÷2Æ—7F2Ó5R’öòF÷27VVçF2‡G&VÒÂL:–¦Æ27F—f2ÂVÇ6¢¤7GVÆ—¦"gVVçFW2¢¢’'&R¢¥EbVâf—fò¢¢ò¢¤6L:Æövò¢¢âVÂf–ÇG&ò¢¥6W'f–F÷"¢¢W&Ö—FR—6Æ"VÂ6öçFVæ–FòFR6FgVVçFRàÐ Ð Ð¢226L:Æövò&–W'FòFRVÌ:Ö7VÆ2’6W&–W0Ð¤Â–æ–6–"ÂÆ;FRVæfW¢G&W2Æ—7F2Ó5S¢&6†—fRvF6‚’Æ—7F2FRVÌ:Ö7VÆ2’6W&–W2FRFöÖ–æ–ò;¦&Æ–6òâ&6†—fRvF6‚ÖçF–VæR7RfVVB7GVÆ—¦Fó²ÆÆògVVÇfR6öç7VÇF"Â–æ–6–"7VæFòÆ66Œ:’F–VæRÜ:2FR6V—2†÷&2âFÖ&œ:–âVVFW2W6"¢¤7GVÆ—¦"gVVçFW2¢¢âÆ2G&W2gVVçFW26RFÖ–æ—7G&â6öÖò7VÇV–W"÷G&Æ—7F’VVFVâFW67F—f'6RòVÆ–Ö–æ'6RàÐ Ð¤Æ2gVVçFW2FV6Æ&â7W2ö'&2FRFöÖ–æ–ò;¦&Æ–6òòÆ–'&W2&6ö×'F—"âÆ÷2FW&V6†÷2FWVæFVâFVÂL:×GVÆò’VÂFW'&—F÷&–ó²fW&–f–6çFW2FR&VF—7G&–'V—"âÆW6VæÆ6W2Æ÷2Æö¦Ö–VçF÷2÷&–v–æÆW2’æòÆö¦Æ÷2l:ÖFV÷2àÐ Ð¢22–æ–6–òÜ:2,:–FðÐ¤Æ&–ÖW&V¦V7V6œ;6â6&v6–æ6òÆ—7F2vVæW&ÆW2âÆ2Æ—7F2&Vv–öæÆW2’FR6FVv÷,:Ö&VGVæFçFW26–wVVâF—7öæ–&ÆW2Vâ¢¤FÖ–æ—7G&"gVVçFW2¢¢ÂW&òVVFâFW67F—fF2&Wf—F"“FW66&v2&WWF–F2Â'&æ6"âÆ2Æ—7F2Ó5Rf<:Ö2FÖ&œ:–â6RwV&FâVâ66Œ:’ÂWf—FæFò&WWF—"VæFW66&v6–â6öçFVæ–FòVâ6F–æ–6–òàÐ Ð¢22–FVçF–FBf—7VÂÖv—5E`Ð¢ÒÆövòR–6öæòFRÆ–66œ;6â–çFVw&F÷2VâÆ&'&ÆFW&ÂÂæVÂ&–æ6—ÂÂ–6öæòFRfVçFæ’V¦V7WF&ÆRàÐ¢ÒÆWFFRÖ&6Ö÷&Fò÷67W&òÂf–öÆWF’ÖvVçFàÐ¢ÒVÂæöÖ'&RFVÂV¦V7WF&ÆRV&Æ–6FòW2Öv—5EbæW†VàÐ¢ÒÆ2–Ü:vVæW2FRÖ&6W7L:âVâ76WG2öàÐ 
+# Magis Windows Native â€” proyecto inicial
+
+AplicaciÃ³n de escritorio WPF para Windows 11, con catÃ¡logo M3U/M3U8 y conexiÃ³n Xtream Codes compatible, y reproducciÃ³n mediante LibVLCSharp.
+
+## QuÃ© incluye este primer build
+- Importar listas M3U/M3U8 desde archivo local o URL HTTP/HTTPS.
+- Analizar `#EXTINF`, nombre, `group-title` y `tvg-logo`.
+- Conectar a un servidor Xtream autorizado con URL, usuario y contraseÃ±a.
+- Consultar categorÃ­as de TV en vivo, pelÃ­culas y series mediante las acciones Xtream correspondientes.
+- Abrir la ficha de episodios de una serie y reproducir el episodio seleccionado.
+- Reproducir enlaces compatibles con VLC.
+- Guardar opcionalmente las credenciales con DPAPI de Windows (perfil del usuario actual).
+- Cifrar con DPAPI el catÃ¡logo local, incluidos favoritos e historial, para no dejar URLs Xtream con credenciales en texto plano.
+- Mostrar tarjetas compactas con logotipos/carteles cuando el proveedor los suministra; la lista usa virtualizaciÃ³n y reciclaje de controles.
+- Buscar por nombre o categorÃ­a.
+- Filtrar por categorÃ­a.
+- Favoritos persistentes.
+- Historial de reproducciÃ³n (Ãºltimos 100 elementos) guardado localmente.
+- Interfaz oscura de TV de escritorio, inspirada en el flujo de navegaciÃ³n observado, pero con identidad visual propia.
+
+## Requisitos
+- Windows 11 x64.
+- Visual Studio 2026 o .NET 10 SDK con carga de trabajo **Desarrollo de escritorio de .NET**.
+- Acceso a Internet para restaurar paquetes NuGet.
+- Un servicio IPTV/lista y enlaces que tengas derecho a utilizar.
+
+## Abrir y compilar
+1. Extrae el ZIP.
+2. Abre `MagisWindowsNative.csproj` en Visual Studio.
+3. Permite restaurar los paquetes NuGet.
+4. Selecciona configuraciÃ³n `Release` y plataforma `x64`.
+5. Ejecuta con F5 para probar.
+
+TambiÃ©n desde PowerShell en la carpeta del proyecto:
+```powershell
+dotnet restore
+dotnet build -c Release
+dotnet run
+```
+
+## Publicar como aplicaciÃ³n Windows
+Con .NET 10 SDK instalado:
+```powershell
+dotnet publish -c Release -r win-x64 --self-contained true /p:PublishSingleFile=true
+```
+El ejecutable se genera dentro de `bin\\Release\\net10.0-windows\\win-x64\\publish\\`.
+
+## ConexiÃ³n M3U
+Pulsa **Abrir M3U** y selecciona tu archivo `.m3u` o `.m3u8`. TambiÃ©n puedes importar una lista remota con **M3U por URL**. Las URL HTTP/HTTPS/RTSP/RTMP que contenga se agregan al catÃ¡logo.
+
+## ConexiÃ³n Xtream
+Pulsa **Conectar Xtream** e introduce:
+- URL base del proveedor, por ejemplo `https://servidor-ejemplo.tld:8080`
+- Usuario
+- ContraseÃ±a
+
+Puedes marcar **Recordar credenciales**. Se guardan cifradas con DPAPI y solo el mismo usuario de Windows puede descifrarlas. El historial y favoritos tambiÃ©n se guardan cifrados porque las URL Xtream suelen incluir usuario y contraseÃ±a.
+
+## Mejoras de esta iteraciÃ³n (ligereza y fluidez)
+- Se conserva WPF nativo y LibVLCSharp; no se agrega otro framework de interfaz ni otro motor multimedia.
+- Lista con virtualizaciÃ³n y reciclaje de controles para no crear todas las filas visuales simultÃ¡neamente.
+- Tarjetas compactas con imÃ¡genes de proveedor a tamaÃ±o reducido y placeholder visual cuando no hay logo/cartel.
+- Timeout de red de 25 segundos y tolerancia a servidores que no publiquen categorÃ­as, sin bloquear la interfaz durante las llamadas asÃ­ncronas.
+- Historial y favoritos cifrados localmente con DPAPI; se migra automÃ¡ticamente el antiguo `catalog.json` JSON a formato cifrado al abrir.
+
+## Alcance y limitaciones de este build
+- Las series abren una ventana ligera con la lista de episodios devuelta por el proveedor. La estructura de temporadas depende de los datos que entregue el servidor.
+- La importaciÃ³n de EPG/XMLTV estÃ¡ disponible desde archivo. La sincronizaciÃ³n automÃ¡tica de EPG remota queda pendiente.
+- Las listas M3U se pueden importar desde archivo o URL HTTP/HTTPS.
+- El APK inspeccionado incluye librerÃ­as Android ARM de VLC/OpenVPN y referencias a TMDB, EPG y Xtream. No se copian su cÃ³digo, recursos de marca, endpoints privados, claves, ni componentes Android a este proyecto.
+- No incluye VPN ni tÃ©cnicas para saltar bloqueos, DRM o controles de acceso. La reproducciÃ³n depende de la compatibilidad del stream y de los permisos del proveedor.
+
+## Notas de seguridad
+Usa solo credenciales y fuentes de contenido propias o autorizadas. No compartas capturas que muestren usuario, contraseÃ±a o tokens.
+
+
+## Interfaz visual moderna
+La actualizaciÃ³n visual incorpora navegaciÃ³n lateral, barra superior de bÃºsqueda y categorÃ­as, panel destacado, reproductor integrado en la cabecera, catÃ¡logo con tarjetas compactas, estados hover/selecciÃ³n, paleta oscura azul-violeta y controles consistentes. Se mantiene una identidad visual propia, sin copiar marcas ni recursos de Disney o Netflix.
+
+La interfaz fue editada en XAML, pero debe compilarse y probarse en Windows 11. No se ha validado visualmente en este entorno.
+
+
+## VersiÃ³n consolidada: catÃ¡logo, historial y EPG
+- La interfaz moderna se conserva.
+- La guÃ­a EPG permite importar archivos XMLTV (`.xml`, `.xmltv` y `.gz`) y muestra canal, horario, tÃ­tulo y descripciÃ³n. El horario se convierte a la zona local de Windows.
+- Se aÃ±ade la secciÃ³n **Continuar viendo**, alimentada por el historial local de reproducciÃ³n.
+- Se mantienen favoritos, filtro de categorÃ­as, bÃºsqueda, M3U local/remoto y conexiÃ³n Xtream.
+- El historial guarda hasta 100 elementos y se almacena en `%LOCALAPPDATA%\\MagisWindowsNative\\catalog.json`.
+- Las credenciales Xtream se almacenan con DPAPI en el perfil de Windows del usuario.
+
+## PublicaciÃ³n
+Desde PowerShell en la carpeta del `.csproj`:
+```powershell
+dotnet restore
+dotnet build -c Release
+dotnet publish -c Release -r win-x64 --self-contained true /p:PublishSingleFile=true
+```
+Comprueba el directorio `bin\\Release\\net10.0-windows\\win-x64\\publish\\`. MantÃ©n junto al EXE cualquier archivo de runtime de VLC que el publish genere.
+
+## LÃ­mites conocidos de esta entrega
+- La guÃ­a XMLTV se importa desde archivo local; la descarga automÃ¡tica desde URL y el emparejamiento automÃ¡tico de `tvg-id` con XMLTV no estÃ¡n implementados.
+- El apartado de series obtiene el catÃ¡logo Xtream; la navegaciÃ³n completa por temporadas y episodios requiere la siguiente integraciÃ³n de `get_series_info`.
+- No se incluye una clave TMDB. Las imÃ¡genes/portadas remotas y metadatos TMDB requieren una clave propia y su integraciÃ³n posterior.
+- No se incluye contenido, listas, credenciales, claves ni servidores de proveedores. Usa Ãºnicamente fuentes y servicios autorizados.
+- Este cÃ³digo fuente debe compilarse y probarse en Windows 11 antes de considerarlo un instalador final. No se pudo ejecutar una compilaciÃ³n Windows en el entorno de generaciÃ³n.
+
+
+## IteraciÃ³n Premium â€” series y controles de reproducciÃ³n
+Nuevas funciones aÃ±adidas en esta iteraciÃ³n:
+- Detalle de episodios Xtream mediante `get_series_info`, con agrupaciÃ³n por temporadas y construcciÃ³n de enlaces de episodio.
+- Ventana de selecciÃ³n de episodios; doble clic o botÃ³n de reproducciÃ³n abre el episodio seleccionado en LibVLC.
+- Pantalla completa de la ventana con `F11`; `Esc` restaura la ventana.
+- ReproducciÃ³n centralizada en un mÃ©todo comÃºn que actualiza el historial local (mÃ¡ximo 100 elementos).
+- Se conserva la guÃ­a XMLTV local, favoritos, filtros, bÃºsqueda, M3U local/remoto y credenciales DPAPI.
+
+## VerificaciÃ³n en Windows requerida
+Esta entrega es cÃ³digo fuente actualizado. No se ha compilado en este entorno porque no tiene instalado el SDK de .NET. En Windows 11, desde la carpeta del proyecto, ejecutar:
+```powershell
+dotnet restore
+dotnet build -c Release
+dotnet run -c Release
+```
+Pruebas manuales recomendadas:
+1. Importar la M3U de demostraciÃ³n y reproducir.
+2. Conectar un servidor Xtream autorizado.
+3. Abrir Series, seleccionar una serie y pulsar Episodios.
+4. Probar reproducciÃ³n de un episodio.
+5. Probar F11 y Esc durante reproducciÃ³n.
+6. Importar un XMLTV local y comprobar horarios.
+7. Cerrar y volver a abrir para comprobar favoritos y credenciales guardadas.
+
+## Funciones aÃºn no terminadas
+- IntegraciÃ³n TMDB completa: requiere que el usuario configure su propia API key; esta entrega no incluye una clave.
+- Descarga remota/automÃ¡tica y sincronizaciÃ³n EPG por `tvg-id`.
+- SincronizaciÃ³n de progreso exacto (posiciÃ³n/duraciÃ³n) y reanudaciÃ³n automÃ¡tica; el historial actual registra elementos reproducidos, no el segundo exacto.
+- Pistas de audio y selecciÃ³n de subtÃ­tulos desde la interfaz.
+- Perfiles mÃºltiples y controles parentales.
+- Instalador firmado, actualizaciones automÃ¡ticas y pruebas de rendimiento en distintos equipos.
+
+No se debe describir esta entrega como producto final validado hasta completar las pruebas anteriores en Windows 11.
+
+
+## CorrecciÃ³n de compilaciÃ³n â€” noviembre 2026
+Se restauraron los mÃ©todos que faltaban en `MainWindow.xaml.cs`:
+- `PlayMediaItem(MediaItem)`: punto Ãºnico de reproducciÃ³n para elementos del catÃ¡logo y episodios; valida la URL y registra historial.
+- `Window_KeyDown`: gestiona los atajos de teclado.
+- `ToggleFullscreen`: alterna pantalla completa con F11 y restaura con Esc.
+El evento XAML `PreviewKeyDown="Window_KeyDown"` coincide con el mÃ©todo implementado.
+
+
+## CorrecciÃ³n Premium Fix 2 â€” controles de pantalla, audio y subtÃ­tulos
+- Se aÃ±ade un botÃ³n visible de pantalla completa al panel del reproductor; tambiÃ©n se mantienen `F11` y `Esc`. Esta acciÃ³n maximiza la ventana de la aplicaciÃ³n y restaura su tamaÃ±o anterior.
+- Se aÃ±aden selectores de pistas de audio y subtÃ­tulos integrados en el stream, consultados desde LibVLC al comenzar la reproducciÃ³n.
+- El selector de subtÃ­tulos incluye la opciÃ³n **Desactivados**.
+- La disponibilidad y los nombres de pistas dependen de lo que publique cada stream; algunas listas no ofrecen pistas alternativas o subtÃ­tulos seleccionables.
+
+**Pendiente de validaciÃ³n en Windows:** compilar y probar con streams que tengan varias pistas de audio y subtÃ­tulos. Esta iteraciÃ³n no implementa todavÃ­a carga de archivos externos `.srt`/`.ass`, sincronizaciÃ³n/retardo de subtÃ­tulos, ni selecciÃ³n de dispositivos de salida de audio.
+
+
+## Reproductor independiente
+
+Al iniciar un canal, pelÃ­cula o episodio se abre una ventana de reproducciÃ³n independiente maximizada. Incluye pausa, detener, barra de progreso con bÃºsqueda, volumen, selecciÃ³n de pistas de audio y subtÃ­tulos, y pantalla completa con F11/Esc. Cerrar la ventana detiene la reproducciÃ³n y devuelve el control a la biblioteca.
+
+
+## CatÃ¡logo externo de metadatos (OMDb + TVmaze)
+
+La opciÃ³n **Descubrir catÃ¡logo** abre una ventana independiente para consultar pelÃ­culas y series sin alterar las listas M3U/Xtream ni el reproductor.
+
+- **PelÃ­culas:** bÃºsqueda y fichas completas mediante OMDb. Requiere una clave API propia configurada en la variable de entorno `OMDB_API_KEY`.
+- **Series:** bÃºsqueda, sinopsis, pÃ³steres y episodios mediante la API pÃºblica de TVmaze.
+- **Importante:** OMDb y TVmaze aportan metadatos, no archivos de vÃ­deo ni URL de reproducciÃ³n. Los episodios mostrados desde TVmaze son informativos; para reproducir se necesita una fuente legÃ­tima M3U/Xtream que ya proporcione el enlace.
+- **AtribuciÃ³n:** los datos de TVmaze deben atribuirse a TVmaze y estÃ¡n sujetos a sus condiciones/licencia CC BY-SA. Consulta https://www.tvmaze.com/api. OMDb: https://www.omdbapi.com/.
+
+### Configurar OMDb en Windows PowerShell
+
+ObtÃ©n tu propia clave desde https://www.omdbapi.com/apikey.aspx y configura la variable para tu usuario:
+
+```powershell
+setx OMDB_API_KEY "TU_CLAVE_OMDB"
+```
+
+Cierra y vuelve a abrir Visual Studio Code para que la aplicaciÃ³n reciba la variable. TVmaze no requiere clave para sus endpoints pÃºblicos. No guardes claves API en el cÃ³digo ni las subas a GitHub.
+
+## Configuracion automatica (Windows)
+
+Para configurar OMDb de forma local y compilar/iniciar la aplicacion sin escribir comandos:
+
+1. Instala **.NET 10 SDK** para Windows si aun no esta instalado: https://dotnet.microsoft.com/download/dotnet/10.0
+2. Haz doble clic en `INICIAR-BLASTER-TV.bat`.
+3. Cuando lo solicite, pega tu clave OMDb. La entrada se muestra oculta y el script guarda la variable `OMDB_API_KEY` en el entorno de tu usuario de Windows; no escribe la clave en el proyecto ni en el ZIP.
+4. El script ejecuta `dotnet restore`, `dotnet build -c Release` y, si compila correctamente, inicia la aplicacion.
+
+La clave OMDb es opcional: si se omite, la consulta de series mediante TVmaze sigue disponible, pero la busqueda de peliculas OMDb no podra autenticarse. No compartas la clave por chat ni la subas a GitHub. Si cambias la clave, vuelve a ejecutar el archivo BAT.
+
+El script no es un instalador MSI ni publica un EXE independiente; es un asistente local de configuracion, compilacion e inicio.
+
+## Organizar canales por grupos, paÃ­s o servidor
+En la barra superior de la biblioteca:
+1. En el primer selector elige **CategorÃ­a**, **PaÃ­s**, **Servidor** o **Mis grupos**.
+2. En el segundo selector elige el valor que quieres mostrar o **Todos**.
+3. Para crear una colecciÃ³n propia, pulsa **ï¼‹ Grupo** y escribe un nombre.
+4. Selecciona uno o varios canales (Ctrl/Shift permite selecciÃ³n mÃºltiple), elige el grupo de destino y pulsa **Asignar selecciÃ³n**.
+5. Para quitar canales de un grupo, elige **Sin asignar** como destino y vuelve a pulsar **Asignar selecciÃ³n**.
+
+Las categorÃ­as de Xtream se obtienen de las acciones de categorÃ­as del proveedor y se relacionan mediante `category_id`. Las listas M3U utilizan `group-title` y `tvg-country`; el selector **Servidor** agrupa por el host de cada URL de stream. El paÃ­s se infiere de los metadatos y nombres reconocibles; si no hay datos suficientes se muestra **Sin paÃ­s identificado**. Puedes completar esa organizaciÃ³n manualmente con **Mis grupos**.
+
+## NavegaciÃ³n de Inicio, TV en vivo y CatÃ¡logo
+- **Inicio** conserva el panel destacado/Ã¡rea de entrada de la aplicaciÃ³n. Ese panel se oculta en las demÃ¡s secciones para liberar espacio.
+- **TV en vivo** abre una guÃ­a dentro de la ventana principal; los canales se agrupan por paÃ­s y categorÃ­a y muestran el programa actual/siguiente si se ha importado un XMLTV compatible. Selecciona un canal y pulsa Reproducir o haz doble clic para abrir el reproductor independiente.
+- **CatÃ¡logo** reÃºne TV en vivo, pelÃ­culas y series. Si estÃ¡s conectado a Xtream, carga bajo demanda los tipos que todavÃ­a no se han solicitado en la sesiÃ³n y los agrupa primero por tipo y despuÃ©s por paÃ­s/regiÃ³n.
+- En CatÃ¡logo, el selector superior permite filtrar por paÃ­s/regiÃ³n, categorÃ­a, servidor o grupos propios sin cambiar la agrupaciÃ³n principal tipo â†’ paÃ­s/regiÃ³n.
+- La guÃ­a XMLTV sigue siendo una importaciÃ³n local desde el apartado **GuÃ­a EPG**. El emparejamiento usa `tvg-id` o `epg_channel_id` cuando existe y, como alternativa, el nombre del canal.
+- Si el proveedor no aporta paÃ­s/EPG, la aplicaciÃ³n indica regiÃ³n no identificada o guÃ­a no cargada en lugar de inventar esos datos.
+
+
+## Fuentes mÃºltiples (M3U/M3U8 y Xtream)
+**Esta secciÃ³n reemplaza el flujo anterior de una sola lista/conexiÃ³n.**
+La biblioteca admite varias fuentes a la vez. Abre **Administrar fuentes** en el menÃº lateral y usa **M3U por URL**, **Archivo M3U** o **Xtream Codes** para registrar tantas fuentes como necesites.
+
+- Todas las fuentes activas se combinan en la misma guÃ­a de TV y catÃ¡logo.
+- Cada fuente puede activarse o desactivarse sin borrarla, o eliminarse permanentemente.
+- **Actualizar fuentes** vuelve a descargar las listas activas y actualiza los canales.
+- Las conexiones Xtream se mantienen separadas por fuente; las series consultan episodios contra el servidor del que proceden.
+- Las fuentes, incluidos los datos de conexiÃ³n Xtream y las URL M3U que puedan incluir tokens, se guardan dentro de `catalog.json`, cifrado con DPAPI para el usuario actual de Windows.
+- Las listas M3U/M3U8 se cargan como TV en vivo. Las pelÃ­culas y series se solicitan a cada conexiÃ³n Xtream cuando se abre el catÃ¡logo o su secciÃ³n.
+
+Para probar: registra dos listas M3U y/o dos cuentas Xtream, dÃ©jalas activas, pulsa **Actualizar fuentes** y abre **TV en vivo** o **CatÃ¡logo**. El filtro **Servidor** permite aislar el contenido de cada fuente.
+
+
+## CatÃ¡logo abierto de pelÃ­culas y series
+Al iniciar, la app aÃ±ade una vez tres listas M3U: Archive Watch y listas de pelÃ­culas y series de dominio pÃºblico. Archive Watch mantiene su feed actualizado; la app lo vuelve a consultar al iniciar cuando la cachÃ© tiene mÃ¡s de seis horas. TambiÃ©n puedes usar **Actualizar fuentes**. Las tres fuentes se administran como cualquier otra lista y pueden desactivarse o eliminarse.
+
+Las fuentes declaran sus obras de dominio pÃºblico o libres para compartir. Los derechos dependen del tÃ­tulo y el territorio; verifica antes de redistribuir. La app usa enlaces a los alojamientos originales y no aloja los vÃ­deos.
+
+## Inicio mÃ¡s rÃ¡pido
+La primera ejecuciÃ³n carga cinco listas generales. Las listas regionales y de categorÃ­a redundantes siguen disponibles en **Administrar fuentes**, pero quedan desactivadas para evitar 90 descargas repetidas al arrancar. Las listas M3U vacÃ­as tambiÃ©n se guardan en cachÃ©, evitando repetir una descarga sin contenido en cada inicio.
+
+## Identidad visual MagisTV
+- Logo e icono de aplicaciÃ³n integrados en la barra lateral, panel principal, icono de ventana y ejecutable.
+- Paleta de marca morado oscuro, violeta y magenta.
+- El nombre del ejecutable publicado es `MagisTV.exe`.
+- Las imÃ¡genes de marca estÃ¡n en `Assets/`.

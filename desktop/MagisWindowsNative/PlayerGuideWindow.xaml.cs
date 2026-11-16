@@ -1,3 +1,423 @@
-YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éíçM5N‹Z–‹­¦ëeŠw¬ÕÕÍ¥¹œMåÍÑ•´¹½µÁ½¹•¹Ñ5½‘•°ì)ÕÍ¥¹œMåÍÑ•´¹]¥¹‘½İÌì)ÕÍ¥¹œMåÍÑ•´¹]¥¹‘½İÌ¹½¹ÑÉ½±Ìì)ÕÍ¥¹œMåÍÑ•´¹]¥¹‘½İÌ¹…Ñ„ì)ÕÍ¥¹œMåÍÑ•´¹]¥¹‘½İÌ¹%¹ÁÕĞì)ÕÍ¥¹œ5…¥Í]¥¹‘½İÍ9…Ñ¥Ù”¹5½‘•±Ìì()¹…µ•ÍÁ…”5…¥Í]¥¹‘½İÍ9…Ñ¥Ù”ì((¼¼¼€ñÍÕµµ…Éäù=¹”É½Ü½˜Ñ¡”¥¸µÁ±…å•ÈÕ¥‘”¸]É…ÁÌ„…Ñ…±½œ¥Ñ•´…¹Ñ•±±ÌÑ¡”É½Üİ¡•Ñ¡•È¥Ğ¥ÌÁ±…å¥¹œ¸ğ½ÍÕµµ…Éäø)ÁÕ‰±¥ŒÍ•…±•±…ÍÌÕ¥‘•¹ÑÉä€è%9½Ñ¥™åAÉ½Á•ÉÑå¡…¹•)ì(€€€ÁÉ¥Ù…Ñ”½¹ÍĞÍÑÉ¥¹œÁ5¥ÍÍ¥¹œ€ô€‰×µ„A¹¼…É…‘„ˆì(€€€ÁÉ¥Ù…Ñ”‰½½°}¥ÍÕÉÉ•¹Ğì((€€€ÁÕ‰±¥ŒÕ¥‘•¹ÑÉä¡5•‘¥…%Ñ•´¥Ñ•´¤(€€€ì(€€€€€€€%Ñ•´€ô¥Ñ•´ì(€€€€€€€É½ÕÀ€ô¥Ñ•´¹-¥¹€ôô€‰1¥Ù”ˆ€ü€‰í¥Ñ•´¹½Õ¹ÑÉåÉ½ÕÁôƒ
-Üí¥Ñ•´¹…Ñ•½ÉåÉ½ÕÁôˆ€è¥Ñ•´¹…Ñ•½ÉåÉ½ÕÀì(€€€ô((€€€ÁÕ‰±¥Œ5•‘¥…%Ñ•´%Ñ•´ì•Ğìô(€€€ÁÕ‰±¥ŒÍÑÉ¥¹œÉ½ÕÀì•Ğìô(€€€ÁÕ‰±¥ŒÍÑÉ¥¹œ9…µ”€ôø%Ñ•´¹9…µ”ì(€€€ÁÕ‰±¥ŒÍÑÉ¥¹œ1½¼€ôø%Ñ•´¹1½¼ì((€€€€¼¼1¥Ù”¡…¹¹•±ÌÍ¡½ÜÑ¡”ÕÉÉ•¹ĞÁÉ½É…µµ”İ¡•¸…¸a51QXÕ¥‘”¥Ì±½…‘•ì•Ù•ÉåÑ¡¥¹œ•±Í”Í¡½İÌ¥ÑÌ…Ñ•½Éä¸(€€€ÁÕ‰±¥ŒÍÑÉ¥¹œMÕ‰Ñ¥Ñ±”(€€€ì(€€€€€€€•Ğ(€€€€€€€ì(€€€€€€€€€€€¥˜€¡%Ñ•´¹%Í1¥Ù”€˜˜€…ÍÑÉ¥¹œ¹%Í9Õ±±=ÉµÁÑä¡%Ñ•´¹ÕÉÉ•¹ÑAÉ½É…µQ¥Ñ±”¤€˜˜%Ñ•´¹ÕÉÉ•¹ÑAÉ½É…µQ¥Ñ±”€„ôÁ5¥ÍÍ¥¹œ¤(€€€€€€€€€€€€€€€É•ÑÕÉ¸%Ñ•´¹ÕÉÉ•¹ÑAÉ½É…µQ¥µ”¹½¹Ñ…¥¹Ì ŸŠLœ¤€ü€‰í%Ñ•´¹ÕÉÉ•¹ÑAÉ½É…µQ¥Ñ±•ôƒ
-Üí%Ñ•´¹ÕÉÉ•¹ÑAÉ½É…µQ¥µ•ôˆ€è%Ñ•´¹ÕÉÉ•¹ÑAÉ½É…µQ¥Ñ±”ì(€€€€€€€€€€€É•ÑÕÉ¸%Ñ•´¹…Ñ•½Éäì(€€€€€€€ô(€€€ô((€€€ÁÕ‰±¥ŒÍÑÉ¥¹œ9•áÑQ•áĞ€ôø(€€€€€€€%Ñ•´¹%Í1¥Ù”€˜˜€…ÍÑÉ¥¹œ¹%Í9Õ±±=ÉµÁÑä¡%Ñ•´¹9•áÑAÉ½É…µQ¥Ñ±”¤(€€€€€€€€€€€€ü€‰•ÍÁ×¥Ìèí%Ñ•´¹9•áÑAÉ½É…µQ¥Ñ±•ôí%Ñ•´¹9•áÑAÉ½É…µQ¥µ•ôˆ¹QÉ¥µ¹ ¤(€€€€€€€€€€€€è€ˆˆì((€€€ÁÕ‰±¥Œ‰½½°%ÍÕÉÉ•¹Ğ(€€€ì(€€€€€€€•Ğ€ôø}¥ÍÕÉÉ•¹Ğì(€€€€€€€Í•Ğ(€€€€€€€ì(€€€€€€€€€€€¥˜€¡}¥ÍÕÉÉ•¹Ğ€ôôÙ…±Õ”¤É•ÑÕÉ¸ì(€€€€€€€€€€€}¥ÍÕÉÉ•¹Ğ€ôÙ…±Õ”ì(€€€€€€€€€€€AÉ½Á•ÉÑå¡…¹•ü¹%¹Ù½­”¡Ñ¡¥Ì°¹•ÜAÉ½Á•ÉÑå¡…¹•‘Ù•¹ÑÉÌ¡¹…µ•½˜¡%ÍÕÉÉ•¹Ğ¤¤¤ì(€€€€€€€ô(€€€ô((€€€ÁÕ‰±¥Œ•Ù•¹ĞAÉ½Á•ÉÑå¡…¹•‘Ù•¹Ñ!…¹‘±•ÈüAÉ½Á•ÉÑå¡…¹•ì)ô((¼¼¼€ñÍÕµµ…Éäø(¼¼¼¡…¹¹•°½½¹Ñ•¹ĞÕ¥‘”Ñ¡…ĞÍ¥ÑÌ½¸Ñ¡”±•™ĞÍ¥‘”½˜Ñ¡”Á±…å•È¸Q¡”Ù¥‘•¼ÍÕÉ™…”¥Ì„¹…Ñ¥Ù”(¼¼¼İ¥¹‘½Ü°Í¼€¡±¥­”Ñ¡”½¹ÑÉ½±Ì‰…È¤Ñ¡”Õ¥‘”¥Ì„Í•Á…É…Ñ”İ¥¹‘½Ü½İ¹•‰äÑ¡”Á±…å•È¸(¼¼¼€ğ½ÍÕµµ…Éäø)ÁÕ‰±¥ŒÁ…ÉÑ¥…°±…ÍÌA±…å•ÉÕ¥‘•]¥¹‘½Ü€è]¥¹‘½Ü)ì(€€€ÁÉ¥Ù…Ñ”Í•…±•±…ÍÌ-¥¹‘…¡”(€€€ì(€€€€€€€ÁÕ‰±¥Œ1¥ÍĞñÕ¥‘•¹ÑÉäø¹ÑÉ¥•Ì€ô¹•Ü ¤ì(€€€€€€€ÁÕ‰±¥Œ1¥ÍĞñÍÑÉ¥¹œøÉ½ÕÁÌ€ô¹•Ü ¤ì(€€€€€€€ÁÕ‰±¥Œ¥Ñ¥½¹…Éäñ5•‘¥…%Ñ•´°Õ¥‘•¹ÑÉäø5…À€ô¹•Ü ¤ì(€€€€€€€ÁÕ‰±¥ŒÕ¥‘•¹ÑÉäüÕÉÉ•¹Ğì(€€€ô((€€€ÁÉ¥Ù…Ñ”½¹ÍĞÍÑÉ¥¹œ±±É½ÕÁÌ€ô€‰Q½‘…Ì±…Ì…Ñ•½Ëµ…Ìˆì(€€€ÁÉ¥Ù…Ñ”½¹ÍĞ‘½Õ‰±”M¥‘•5…É¥¸€ô€ÈÀì(€€€ÁÉ¥Ù…Ñ”½¹ÍĞ‘½Õ‰±”½¹ÑÉ½±ÍI•Í•ÉÙ”€ô€ÄäÀì€¼¼ÍÁ…”±•™Ğ™É•”™½ÈÑ¡”½¹ÑÉ½±Ì‰…È…ĞÑ¡”‰½ÑÑ½´((€€€ÁÉ¥Ù…Ñ”É•…‘½¹±äÕ¹Œñ%I•…‘=¹±å1¥ÍĞñ5•‘¥…%Ñ•´øø}…Ñ…±½œì(€€€ÁÉ¥Ù…Ñ”É•…‘½¹±äÑ¥½¸ñ5•‘¥…%Ñ•´°1¥ÍĞñ5•‘¥…%Ñ•´øø}…Ñ¥Ù…Ñ”ì(€€€ÁÉ¥Ù…Ñ”É•…‘½¹±ä¥Ñ¥½¹…ÉäñÍÑÉ¥¹œ°-¥¹‘…¡”ø}…¡•Ì€ô¹•Ü ¤ì(€€€ÁÉ¥Ù…Ñ”É•…‘½¹±äMåÍÑ•´¹]¥¹‘½İÌ¹Q¡É•…‘¥¹œ¹¥ÍÁ…Ñ¡•ÉQ¥µ•È}Í•…É¡Q¥µ•Èì(€€€ÁÉ¥Ù…Ñ”1¥ÍĞñÕ¥‘•¹ÑÉäø}Í¡½İ¸€ô¹•Ü ¤ì(€€€ÁÉ¥Ù…Ñ”5•‘¥…%Ñ•´ü}ÕÉÉ•¹Ğì(€€€ÁÉ¥Ù…Ñ”¥¹Ğ}ÍÕÁÁÉ•ÍÌì(€€€ÁÉ¥Ù…Ñ”‰½½°}¡½½­•ì(€€€ÁÉ¥Ù…Ñ”‰½½°}İ…¹Ñ•ì€¼¼Ñ¡”ÕÍ•È¡…ÌÑ¡”Õ¥‘”½Á•¸ì¥Ğ·}4ÖÚ$z{-®éÜj×66R¶W’äbv†Vâ¶W–&ö&BäÖöF–f–W'2ÓÒÖöF–f–W$¶W—2ä6öçG&öÃ ¢6V&6„&÷‚äfö7W2‚“°¢6V&6„&÷‚å6VÆV7DÆÂ‚“°¢Rä†æFÆVBÒG'VS°¢&WGW&ã°¢66R¶W’ärv†Vâ¶W–&ö&BäÖöF–f–W'2ÓÒÖöF–f–W$¶W—2ä6öçG&öÃ ¢†–FTwV–FR‚“°¢Rä†æFÆVBÒG'VS°¢&WGW&ã°¢Ğ¢Ğ ¢òòG—–ærç—v†W&R–âF†RwV–FR7F'G26V&6‚ÂÆ–¶REb6†ææVÂÆ—7Bà¢&—fFRfö–Bv–æF÷uõ&Wf–WuFW‡D–çWB†ö&¦V7B6VæFW"ÂFW‡D6ö×÷6—F–öäWfVçD&w2R¢°¢–b…6V&6„&÷‚ä—4¶W–&ö&Dfö7W5v—F†–âÇÂG—T&÷‚ä—4¶W–&ö&Dfö7W5v—F†–âÇÂ6FVv÷'”6öÖ&òä—4¶W–&ö&Dfö7W5v—F†–â’&WGW&ã°¢–b‡7G&–ærä—4çVÆÄ÷$V×G’†RåFW‡B’ÇÂ6†"ä—46öçG&öÂ†RåFW‡E³Ò’’&WGW&ã°¢6V&6„&÷‚äfö7W2‚“°¢6V&6„&÷‚åFW‡B³ÒRåFW‡C°¢6V&6„&÷‚ä6&WD–æFW‚Ò6V&6„&÷‚åFW‡BäÆVæwFƒ°¢Rä†æFÆVBÒG'VS°¢Ğ ¢òòÒÒÒÒÒ6öçG&öÂWfVçG2ÒÒÒÒĞ ¢&—fFRfö–BG—T&÷…õ6VÆV7F–öä6†ævVB†ö&¦V7B6VæFW"Â6VÆV7F–öä6†ævVDWfVçD&w2R¢°¢–b…÷7W&W72â’&WGW&ã°¢f–ÆÄw&÷W2‚“°¢&Vg&W6‚‚“°¢Ğ ¢&—fFRfö–B6FVv÷'”6öÖ&õõ6VÆV7F–öä6†ævVB†ö&¦V7B6VæFW"Â6VÆV7F–öä6†ævVDWfVçD&w2R¢°¢–b…÷7W&W72â’&WGW&ã°¢&Vg&W6‚‚“°¢Ğ ¢&—fFRfö–B6V&6„&÷…õFW‡D6†ævVB†ö&¦V7B6VæFW"ÂFW‡D6†ævVDWfVçD&w2R¢°¢–b…÷7W&W72â’&WGW&ã°¢÷6V&6…F–ÖW"å7F÷‚“°¢÷6V&6…F–ÖW"å7F'B‚“°¢Ğ ¢&—fFRfö–BwV–FTÆ—7EôÖ÷W6TF÷V&ÆT6Æ–6²†ö&¦V7B6VæFW"ÂÖ÷W6T'WGFöäWfVçD&w2R¢°¢–b†Rä÷&–v–æÅ6÷W&6R—2FWVæFVæ7”ö&¦V7B6÷W&6Rb`¢—FV×46öçG&öÂä6öçF–æW$g&öÔVÆVÖVçB„wV–FTÆ—7BÂ6÷W&6R’—2Æ—7D&÷„—FVÒ¢7F—fFU6VÆV7FVB‚“°¢Ğ ¢&—fFRfö–B6Æ÷6Uô6Æ–6²†ö&¦V7B6VæFW"Â&÷WFVDWfVçD&w2R’Óâ†–FTwV–FR‚“° ¢òòÒÒÒÒÒÆ6VÖVçB÷fW"F†RÆ–W"ÒÒÒÒĞ ¢&—fFRfö–B†öö´÷væW"‚¢°¢–b…ö†öö¶VBÇÂ÷væW"—2æ÷Bv–æF÷r÷væW"’&WGW&ã°¢ö†öö¶VBÒG'VS°¢÷væW"äÆö6F–öä6†ævVB³Ò…òÂò’Óâ&W÷6—F–öâ‚“°¢÷væW"å6—¦T6†ævVB³Ò…òÂò’Óâ&W÷6—F–öâ‚“°¢÷væW"å7FFT6†ævVB³Ò…òÂò’Óâ&W÷6—F–öâ‚“°¢÷væW"ä—5f—6–&ÆT6†ævVB³Ò…òÂ&w2’Óà¢°¢–b†&w2äæWufÇVR—2fÇ6R’²÷vçFVBÒfÇ6S²†–FR‚“²Ğ¢Ó°¢Ğ ¢V&Æ–2fö–B&W÷6—F–öâ‚¢°¢–b‚—5f—6–&ÆRbb—4ÆöFVBbb÷væW"—2çVÆÂ’&WGW&ã°¢–b„÷væW"—2æ÷Bv–æF÷r²—5f—6–&ÆS¢G'VRÒ÷væW"’&WGW&ã°¢G'¢°¢f"6÷W&6RÒ&W6VçFF–öå6÷W&6Räg&öÕf—7VÂ†÷væW"“°¢–b‡6÷W&6Sòä6ö×÷6—F–öåF&vWB—2çVÆÂ’&WGW&ã°¢f"÷&–v–âÒ6÷W&6Rä6ö×÷6—F–öåF&vWBåG&ç6f÷&Ôg&öÔFWf–6RåG&ç6f÷&Ò†÷væW"åö–çEFõ67&VVâ†æWrö–çBƒÂ’’“°¢v–GF‚ÒC3°¢ÆVgBÒ÷&–v–âå‚²6–FTÖ&v–ã°¢F÷Ò÷&–v–âå’²6–FTÖ&v–ã°¢†V–v‡BÒÖF‚äÖ‚ƒ3#Â÷væW"ä7GVÄ†V–v‡BÒ6–FTÖ&v–âÒ6öçG&öÇ5&W6W'fR“°¢Ğ¢6F6‚²ò¢F†R÷væW"6â&R&WGvVVâ–æ—F–Æ—¦F–öâæB—G2f—'7BÆ–÷WB72â¢òĞ¢Ğ§Ğ
+using System.ComponentModel;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Input;
+using MagisWindowsNative.Models;
+
+namespace MagisWindowsNative;
+
+/// <summary>One row of the in-player guide. Wraps a catalog item and tells the row whether it is playing.</summary>
+public sealed class GuideEntry : INotifyPropertyChanged
+{
+    private const string EpgMissing = "GuÃ­a EPG no cargada";
+    private bool _isCurrent;
+
+    public GuideEntry(MediaItem item)
+    {
+        Item = item;
+        Group = item.Kind == "Live" ? $"{item.CountryGroup} Â· {item.CategoryGroup}" : item.CategoryGroup;
+    }
+
+    public MediaItem Item { get; }
+    public string Group { get; }
+    public string Name => Item.Name;
+    public string Logo => Item.Logo;
+
+    // Live channels show the current programme when an XMLTV guide is loaded; everything else shows its category.
+    public string Subtitle
+    {
+        get
+        {
+            if (Item.IsLive && !string.IsNullOrEmpty(Item.CurrentProgramTitle) && Item.CurrentProgramTitle != EpgMissing)
+                return Item.CurrentProgramTime.Contains('â€“') ? $"{Item.CurrentProgramTitle} Â· {Item.CurrentProgramTime}" : Item.CurrentProgramTitle;
+            return Item.Category;
+        }
+    }
+
+    public string NextText =>
+        Item.IsLive && !string.IsNullOrEmpty(Item.NextProgramTitle)
+            ? $"DespuÃ©s: {Item.NextProgramTitle} {Item.NextProgramTime}".TrimEnd()
+            : "";
+
+    public bool IsCurrent
+    {
+        get => _isCurrent;
+        set
+        {
+            if (_isCurrent == value) return;
+            _isCurrent = value;
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(IsCurrent)));
+        }
+    }
+
+    public event PropertyChangedEventHandler? PropertyChanged;
+}
+
+/// <summary>
+/// Channel/content guide that sits on the left side of the player. The video surface is a native
+/// window, so (like the controls bar) the guide is a separate window owned by the player.
+/// </summary>
+public partial class PlayerGuideWindow : Window
+{
+    private sealed class KindCache
+    {
+        public List<GuideEntry> Entries = new();
+        public List<string> Groups = new();
+        public Dictionary<MediaItem, GuideEntry> Map = new();
+        public GuideEntry? Current;
+    }
+
+    private const string AllGroups = "Todas las categorÃ­as";
+    private const double SideMargin = 20;
+    private const double ControlsReserve = 190; // space left free for the controls bar at the bottom
+
+    private readonly Func<IReadOnlyList<MediaItem>> _catalog;
+    private readonly Action<MediaItem, List<MediaItem>> _activate;
+    private readonly Dictionary<string, KindCache> _caches = new();
+    private readonly System.Windows.Threading.DispatcherTimer _searchTimer;
+    private List<GuideEntry> _shown = new();
+    private MediaItem? _current;
+    private int _suppress;
+    private bool _hooked;
+    private bool _wanted; // the user has the guide open; it may still be hidden together with the controls bar
+
+    /// <summary>Raised while the user works in the guide, so the player keeps the controls bar (and the guide) on screen.</summary>
+    public event Action? Interacted;
+
+    /// <summary>True from the moment the guide is opened until the user closes it, even while it is hidden with the bar.</summary>
+    public bool IsOpen => _wanted;
+
+    public PlayerGuideWindow(Func<IReadOnlyList<MediaItem>> catalog, Action<MediaItem, List<MediaItem>> activate)
+    {
+        InitializeComponent();
+        _catalog = catalog;
+        _activate = activate;
+        TypeBox.Items.Add("Todo");
+        TypeBox.Items.Add("TV en vivo");
+        TypeBox.Items.Add("PelÃ­culas");
+        TypeBox.Items.Add("Series");
+        _searchTimer = new System.Windows.Threading.DispatcherTimer { Interval = TimeSpan.FromMilliseconds(150) };
+        _searchTimer.Tick += (_, _) =>
+        {
+            _searchTimer.Stop();
+            Refresh();
+        };
+        PreviewMouseMove += (_, _) => Interacted?.Invoke();
+        PreviewMouseDown += (_, _) => Interacted?.Invoke();
+        PreviewMouseWheel += (_, _) => Interacted?.Invoke();
+        PreviewKeyDown += (_, _) => Interacted?.Invoke();
+    }
+
+    public void Open(MediaItem? current)
+    {
+        _wanted = true;
+        HookOwner();
+        _caches.Clear();
+        _current = current;
+        _suppress++;
+        try
+        {
+            TypeBox.SelectedItem = current?.Kind switch
+            {
+                "Live" => "TV en vivo",
+                "Movie" => "PelÃ­culas",
+                "Series" or "Episode" => "Series",
+                _ => "Todo"
+            };
+            SearchBox.Text = string.Empty;
+            FillGroups();
+        }
+        finally { _suppress--; }
+
+        Refresh();
+        Reposition();
+        Show();
+        Activate();
+        ScrollToSelected(focus: true);
+    }
+
+    /// <summary>Closes the guide for good (Esc, âœ•, G).</summary>
+    public void HideGuide()
+    {
+        _wanted = false;
+        _searchTimer.Stop();
+        Hide();
+        Owner?.Activate();
+    }
+
+    /// <summary>Shows the guide again after it was hidden together with the bar, keeping the keyboard on the list.</summary>
+    public void Reveal()
+    {
+        if (!_wanted) return;
+        if (!IsVisible)
+        {
+            Reposition();
+            Show();
+        }
+        Activate();
+        ScrollToSelected(focus: true);
+    }
+
+    /// <summary>
+    /// Follows the floating controls bar: the guide is hidden at the same moment as the bar and comes
+    /// back with it, without stealing keyboard focus from the player.
+    /// </summary>
+    public void SetControlsVisible(bool visible)
+    {
+        if (!_wanted) return;
+        if (visible)
+        {
+            if (IsVisible) return;
+            Reposition();
+            Show(); // ShowActivated="False": the player keeps the keyboard
+        }
+        else if (IsVisible)
+        {
+            var hadFocus = IsActive;
+            _searchTimer.Stop();
+            Hide();
+            if (hadFocus) Owner?.Activate();
+        }
+    }
+
+    /// <summary>Marks the item that is now playing (called by the main window on every channel change).</summary>
+    public void SetCurrent(MediaItem? item)
+    {
+        _current = item;
+        foreach (var cache in _caches.Values)
+        {
+            if (cache.Current is not null) { cache.Current.IsCurrent = false; cache.Current = null; }
+            if (item is not null && cache.Map.TryGetValue(item, out var entry))
+            {
+                entry.IsCurrent = true;
+                cache.Current = entry;
+            }
+        }
+    }
+
+    // ----- data -----
+
+    private static string? KindOf(string? label) => label switch
+    {
+        "TV en vivo" => "Live",
+        "PelÃ­culas" => "Movie",
+        "Series" => "Series",
+        _ => null
+    };
+
+    // Entries for one content type are built and sorted once per time the guide is opened.
+    private KindCache GetCache(string? kind)
+    {
+        var key = kind ?? "All";
+        if (_caches.TryGetValue(key, out var existing)) return existing;
+
+        var names = StringComparer.CurrentCulture;
+        var entries = _catalog()
+            .Where(x => x.Kind != "Episode" && (kind is null || x.Kind == kind))
+            .Select(x => new GuideEntry(x))
+            .ToList();
+
+        var groups = new HashSet<string>(entries.Select(e => e.Group), StringComparer.Ordinal).ToList();
+        groups.Sort(names);
+        var rank = new Dictionary<string, int>(groups.Count, StringComparer.Ordinal);
+        for (var i = 0; i < groups.Count; i++) rank[groups[i]] = i;
+
+        var cache = new KindCache
+        {
+            Groups = groups,
+            Entries = entries.OrderBy(e => rank[e.Group]).ThenBy(e => e.Item.Name, names).ToList()
+        };
+        foreach (var entry in cache.Entries) cache.Map[entry.Item] = entry;
+        if (_current is not null && cache.Map.TryGetValue(_current, out var currentEntry))
+        {
+            currentEntry.IsCurrent = true;
+            cache.Current = currentEntry;
+        }
+        _caches[key] = cache;
+        return cache;
+    }
+
+    private void FillGroups()
+    {
+        var cache = GetCache(KindOf(TypeBox.SelectedItem as string));
+        _suppress++;
+        try
+        {
+            CategoryCombo.Items.Clear();
+            CategoryCombo.Items.Add(AllGroups);
+            foreach (var group in cache.Groups) CategoryCombo.Items.Add(group);
+            CategoryCombo.SelectedIndex = 0;
+        }
+        finally { _suppress--; }
+    }
+
+    private void Refresh()
+    {
+        var cache = GetCache(KindOf(TypeBox.SelectedItem as string));
+        var selectedGroup = CategoryCombo.SelectedItem as string;
+        var group = selectedGroup is null || selectedGroup == AllGroups ? null : selectedGroup;
+        var query = SearchBox.Text.Trim();
+
+        var shown = new List<GuideEntry>();
+        foreach (var entry in cache.Entries)
+        {
+            if (group is not null && !entry.Group.Equals(group, StringComparison.Ordinal)) continue;
+            if (query.Length > 0 &&
+                !entry.Item.Name.Contains(query, StringComparison.OrdinalIgnoreCase) &&
+                !entry.Group.Contains(query, StringComparison.OrdinalIgnoreCase)) continue;
+            shown.Add(entry);
+        }
+        _shown = shown;
+
+        var view = new ListCollectionView(shown);
+        view.GroupDescriptions.Add(new PropertyGroupDescription(nameof(GuideEntry.Group)));
+        GuideList.ItemsSource = view;
+        CountText.Text = $"{shown.Count:N0} elementos";
+
+        // While searching the first match is selected; otherwise the playing item is.
+        GuideEntry? target = null;
+        if (query.Length > 0) target = shown.Count > 0 ? shown[0] : null;
+        else if (cache.Current is not null && shown.Contains(cache.Current)) target = cache.Current;
+        if (target is not null)
+        {
+            GuideList.SelectedItem = target;
+            ScrollToSelected(focus: false);
+        }
+    }
+
+    // ----- keyboard focus and scrolling -----
+
+    private void ScrollToSelected(bool focus)
+    {
+        var target = GuideList.SelectedItem;
+        if (target is null)
+        {
+            if (focus) GuideList.Focus();
+            return;
+        }
+        Dispatcher.BeginInvoke(new Action(() =>
+        {
+            GuideList.ScrollIntoView(target);
+            GuideList.UpdateLayout();
+            if (!focus) return;
+            if (GuideList.ItemContainerGenerator.ContainerFromItem(target) is ListBoxItem container) container.Focus();
+            else GuideList.Focus();
+        }), System.Windows.Threading.DispatcherPriority.Background);
+    }
+
+    private void ActivateSelected()
+    {
+        var entry = GuideList.SelectedItem as GuideEntry ?? (_shown.Count > 0 ? _shown[0] : null);
+        if (entry is null) return;
+        // Channel +/- in the player walks this list (series cannot be played directly, so they are skipped).
+        var queue = _shown.Where(x => x.Item.Kind != "Series").Select(x => x.Item).ToList();
+        _activate(entry.Item, queue);
+    }
+
+    private void Window_PreviewKeyDown(object sender, KeyEventArgs e)
+    {
+        var comboActive = TypeBox.IsDropDownOpen || CategoryCombo.IsDropDownOpen;
+        switch (e.Key)
+        {
+            case Key.Escape:
+                if (comboActive) return;
+                HideGuide();
+                e.Handled = true;
+                return;
+            case Key.Enter:
+                if (comboActive || TypeBox.IsKeyboardFocusWithin || CategoryCombo.IsKeyboardFocusWithin) return;
+                ActivateSelected();
+                e.Handled = true;
+                return;
+            case Key.Down when SearchBox.IsKeyboardFocusWithin:
+                if (GuideList.SelectedItem is null && _shown.Count > 0) GuideList.SelectedItem = _shown[0];
+                ScrollToSelected(focus: true);
+                e.Handled = true;
+                return;
+            case Key.F when Keyboard.Modifiers == ModifierKeys.Control:
+                SearchBox.Focus();
+                SearchBox.SelectAll();
+                e.Handled = true;
+                return;
+            case Key.G when Keyboard.Modifiers == ModifierKeys.Control:
+                HideGuide();
+                e.Handled = true;
+                return;
+        }
+    }
+
+    // Typing anywhere in the guide starts a search, like a TV channel list.
+    private void Window_PreviewTextInput(object sender, TextCompositionEventArgs e)
+    {
+        if (SearchBox.IsKeyboardFocusWithin || TypeBox.IsKeyboardFocusWithin || CategoryCombo.IsKeyboardFocusWithin) return;
+        if (string.IsNullOrEmpty(e.Text) || char.IsControl(e.Text[0])) return;
+        SearchBox.Focus();
+        SearchBox.Text += e.Text;
+        SearchBox.CaretIndex = SearchBox.Text.Length;
+        e.Handled = true;
+    }
+
+    // ----- control events -----
+
+    private void TypeBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+    {
+        if (_suppress > 0) return;
+        FillGroups();
+        Refresh();
+    }
+
+    private void CategoryCombo_SelectionChanged(object sender, SelectionChangedEventArgs e)
+    {
+        if (_suppress > 0) return;
+        Refresh();
+    }
+
+    private void SearchBox_TextChanged(object sender, TextChangedEventArgs e)
+    {
+        if (_suppress > 0) return;
+        _searchTimer.Stop();
+        _searchTimer.Start();
+    }
+
+    private void GuideList_MouseDoubleClick(object sender, MouseButtonEventArgs e)
+    {
+        if (e.OriginalSource is DependencyObject source &&
+            ItemsControl.ContainerFromElement(GuideList, source) is ListBoxItem)
+            ActivateSelected();
+    }
+
+    private void Close_Click(object sender, RoutedEventArgs e) => HideGuide();
+
+    // ----- placement over the player -----
+
+    private void HookOwner()
+    {
+        if (_hooked || Owner is not Window owner) return;
+        _hooked = true;
+        owner.LocationChanged += (_, _) => Reposition();
+        owner.SizeChanged += (_, _) => Reposition();
+        owner.StateChanged += (_, _) => Reposition();
+        owner.IsVisibleChanged += (_, args) =>
+        {
+            if (args.NewValue is false) { _wanted = false; Hide(); }
+        };
+    }
+
+    public void Reposition()
+    {
+        if (!IsVisible && !IsLoaded && Owner is null) return;
+        if (Owner is not Window { IsVisible: true } owner) return;
+        try
+        {
+            var source = PresentationSource.FromVisual(owner);
+            if (source?.CompositionTarget is null) return;
+            var origin = source.CompositionTarget.TransformFromDevice.Transform(owner.PointToScreen(new Point(0, 0)));
+            Width = 430;
+            Left = origin.X + SideMargin;
+            Top = origin.Y + SideMargin;
+            Height = Math.Max(320, owner.ActualHeight - SideMargin - ControlsReserve);
+        }
+        catch { /* The owner can be between initialization and its first layout pass. */ }
+    }
+}

@@ -1,3 +1,166 @@
-Y™Áäx-ÆÈ‹j◊ù¢Îi∫⁄+äßj[hëÈ‹¢ÈÌ€æ|NãZñã≠¶Îeäw¨’’Õ•πúÅMÂÕ—ï¥π9ï–π!——¿Ï)’Õ•πúÅMÂÕ—ï¥πQï·–π)ÕΩ∏Ï)’Õ•πúÅMÂÕ—ï¥πQï·–πIïù’±Ö…·¡…ïÕÕ•ΩπÃÏ()πÖµïÕ¡ÖçîÅ5Öù•Õ]•πëΩ›Õ9Ö—•ŸîπMï…Ÿ•çïÃÏ()¡’â±•åÅÕïÖ±ïêÅç±ÖÕÃÅ·—ï…πÖ±Ö—Ö±Ωù%—ï¥)Ï(ÄÄÄÅ¡’â±•åÅÕ—…•πúÅQ•—±îÅÏÅùï–ÏÅ•π•–ÏÅÙÄÙÄààÏ(ÄÄÄÅ¡’â±•åÅÕ—…•πúÅeïÖ»ÅÏÅùï–ÏÅ•π•–ÏÅÙÄÙÄààÏ(ÄÄÄÅ¡’â±•åÅÕ—…•πúÅM’µµÖ…‰ÅÏÅùï–ÏÅ•π•–ÏÅÙÄÙÄààÏ(ÄÄÄÅ¡’â±•åÅÕ—…•πúÅAΩÕ—ï…U…∞ÅÏÅùï–ÏÅ•π•–ÏÅÙÄÙÄààÏ(ÄÄÄÅ¡’â±•åÅÕ—…•πúÅ·—ï…πÖ±%êÅÏÅùï–ÏÅ•π•–ÏÅÙÄÙÄààÏ(ÄÄÄÅ¡’â±•åÅÕ—…•πúÅ-•πêÅÏÅùï–ÏÅ•π•–ÏÅÙÄÙÄààÏ(ÄÄÄÅ¡’â±•åÅÕ—…•πúÅïπ…ïÃÅÏÅùï–ÏÅ•π•–ÏÅÙÄÙÄààÏ(ÄÄÄÅ¡’â±•åÅÕ—…•πúÅ·—…Ö%πôºÅÏÅùï–ÏÅ•π•–ÏÅÙÄÙÄààÏ(ÄÄÄÅ¡’â±•åÅΩŸï……•ëîÅÕ—…•πúÅQΩM—…•πú†§ÄÙ¯ÅÕ—…•πúπ%Õ9’±±=…]°•—ïM¡Öçî°eïÖ»§Ä¸ÅQ•—±îÄËÄêâÌQ•—±ïÙÄ°ÌeïÖ…Ù§àÏ)Ù()¡’â±•åÅÕïÖ±ïêÅç±ÖÕÃÅ·—ï…πÖ±¡•ÕΩëî)Ï(ÄÄÄÅ¡’â±•åÅÕ—…•πúÅ9ÖµîÅÏÅùï–ÏÅ•π•–ÏÅÙÄÙÄààÏ(ÄÄÄÅ¡’â±•åÅ•π–ÅMïÖÕΩ∏ÅÏÅùï–ÏÅ•π•–ÏÅÙ(ÄÄÄÅ¡’â±•åÅ•π–Å9’µâï»ÅÏÅùï–ÏÅ•π•–ÏÅÙ(ÄÄÄÅ¡’â±•åÅÕ—…•πúÅ•…Ö—îÅÏÅùï–ÏÅ•π•–ÏÅÙÄÙÄààÏ(ÄÄÄÅ¡’â±•åÅÕ—…•πúÅM’µµÖ…‰ÅÏÅùï–ÏÅ•π•–ÏÅÙÄÙÄààÏ(ÄÄÄÅ¡’â±•åÅΩŸï……•ëîÅÕ—…•πúÅQΩM—…•πú†§ÄÙ¯ÄêâQÌMïÖÕΩ∏Ë¿¡ÙÉ
-‹ÅÌ9’µâï»Ë¿¡ÙÄÅÌ9ÖµïÙàÏ)Ù((ºººÄÒÕ’µµÖ…‰˘5ï—ÖëÖ—ÑµΩπ±‰Åë•ÕçΩŸï…‰∏Å%–ÅπïŸï»ÅµÖπ’ôÖç—’…ïÃÅµïë•ÑÅΩ»Å¡±ÖÂâÖç¨ÅUI1Ã∏ΩÕ’µµÖ…‰¯)¡’â±•åÅÕïÖ±ïêÅç±ÖÕÃÅÖ—Ö±Ωù5ï—ÖëÖ—ÖMï…Ÿ•çî)Ï(ÄÄÄÅ¡…•ŸÖ—îÅÕ—Ö—•åÅ…ïÖëΩπ±‰Å!——¡±•ïπ–Å!——¿ÄÙÅπï‹†§ÅÏÅQ•µïΩ’–ÄÙÅQ•µïM¡Ö∏π…ΩµMïçΩπëÃ†»¿§ÅÙÏ(ÄÄÄÅ¡…•ŸÖ—îÅ…ïÖëΩπ±‰ÅÕ—…•πúÅ}Ωµëâ¡•-ï‰Ï((ÄÄÄÅ¡’â±•åÅÖ—Ö±Ωù5ï—ÖëÖ—ÖMï…Ÿ•çî°Õ—…•πú¸ÅΩµëâ¡•-ï‰ÄÙÅπ’±∞§ÄÙ¯(ÄÄÄÄÄÄÄÅ}Ωµëâ¡•-ï‰ÄÙÅÕ—…•πúπ%Õ9’±±=…]°•—ïM¡Öçî°Ωµëâ¡•-ï‰§(ÄÄÄÄÄÄÄÄÄÄÄÄ¸ÅπŸ•…Ωπµïπ–πï—πŸ•…Ωπµïπ—YÖ…•Öâ±î†â=5	}A%}-dà§Ä¸¸Äàà(ÄÄÄÄÄÄÄÄÄÄÄÄËÅΩµëâ¡•-ï‰Ï((ÄÄÄÅ¡’â±•åÅÖÕÂπåÅQÖÕ¨Ò1•Õ–Ò·—ï…πÖ±Ö—Ö±Ωù%—ï¥¯¯ÅMïÖ…ç°5ΩŸ•ïÕÕÂπå°Õ—…•πúÅ≈’ï…‰∞ÅÖπçï±±Ö—•ΩπQΩ≠ï∏Åç–ÄÙÅëïôÖ’±–§(ÄÄÄÅÏ(ÄÄÄÄÄÄÄÅ•òÄ°Õ—…•πúπ%Õ9’±±=…]°•—ïM¡Öçî°}Ωµëâ¡•-ï‰§§(ÄÄÄÄÄÄÄÄÄÄÄÅ—°…Ω‹Åπï‹Å%πŸÖ±•ë=¡ï…Ö—•Ωπ·çï¡—•Ω∏†â=5àÅπïçïÕ•—ÑÅ’πÑÅç±ÖŸîÅA$∏ÅΩπô•ù’…ÑÅ±ÑÅŸÖ…•Öâ±îÅëîÅïπ—Ω…πºÅ=5	}A%}-dÅ‰Å…ï•π•ç•ÑÅ±ÑÅÖ¡±•çÖçßÕ∏∏à§Ï((ÄÄÄÄÄÄÄÅŸÖ»Å’…∞ÄÙÄêâ°——¡ÃËºΩ››‹πΩµëâÖ¡§πçΩ¥º˝Ö¡•≠ï‰ıÌU…§πÕçÖ¡ïÖ—ÖM—…•πú°}Ωµëâ¡•-ï‰•ÙôÃıÌU…§πÕçÖ¡ïÖ—ÖM—…•πú°≈’ï…‰πQ…•¥†§•Ùô—Â¡îıµΩŸ•îô¡ÖùîÙƒàÏ(ÄÄÄÄÄÄÄÅ’Õ•πúÅŸÖ»ÅëΩåÄÙÅÖ›Ö•–Åï—)ÕΩπÕÂπå°’…∞∞Åç–§Ï(ÄÄÄÄÄÄÄÅ•òÄ°IïÖëM—…•πú°ëΩåπIΩΩ—±ïµïπ–∞ÄâIïÕ¡ΩπÕîà§ÄÙÙÄâÖ±Õîà§(ÄÄÄÄÄÄÄÄÄÄÄÅ—°…Ω‹Åπï‹Å%πŸÖ±•ë=¡ï…Ö—•Ωπ·çï¡—•Ω∏°IïÖëM—…•πú°ëΩåπIΩΩ—±ïµïπ–∞Äâ……Ω»à§Ä¸¸Äâ=5àÅπºÅïπçΩπ—ÀÃÅ…ïÕ’±—ÖëΩÃ∏à§Ï((ÄÄÄÄÄÄÄÅŸÖ»Å…ïÕ’±—ÃÄÙÅπï‹Å1•Õ–Ò·—ï…πÖ±Ö—Ö±Ωù%—ï¥¯†§Ï(ÄÄÄÄÄÄÄÅ•òÄ°ëΩåπIΩΩ—±ïµïπ–πQ…Âï—A…Ω¡ï…—‰†âMïÖ…ç†à∞ÅΩ’–ÅŸÖ»ÅÕïÖ…ç†§ÄòòÅÕïÖ…ç†πYÖ±’ï-•πêÄÙÙÅ)ÕΩπYÖ±’ï-•πêπ……Ö‰§(ÄÄÄÄÄÄÄÅÏ(ÄÄÄÄÄÄÄÄÄÄÄÅôΩ…ïÖç†Ä°ŸÖ»Å•—ï¥Å•∏ÅÕïÖ…ç†ππ’µï…Ö—ï……Ö‰†§§(ÄÄÄÄÄÄÄÄÄÄÄÅÏ(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅ…ïÕ’±—Ãπëê°πï‹Å·—ï…πÖ±Ö—Ö±Ωù%—ï¥(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÏ(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅQ•—±îÄÙÅIïÖëM—…•πú°•—ï¥∞ÄâQ•—±îà§Ä¸¸ÄâM•∏Å”µ—’±ºà∞(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅeïÖ»ÄÙÅIïÖëM—…•πú°•—ï¥∞ÄâeïÖ»à§Ä¸¸Äàà∞(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅAΩÕ—ï…U…∞ÄÙÅYÖ±•ë%µÖùïU…∞°IïÖëM—…•πú°•—ï¥∞ÄâAΩÕ—ï»à§§∞(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅ·—ï…πÖ±%êÄÙÅIïÖëM—…•πú°•—ï¥∞Äâ•µëâ%à§Ä¸¸Äàà∞(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅ-•πêÄÙÄâ5ΩŸ•îà(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÙ§Ï(ÄÄÄÄÄÄÄÄÄÄÄÅÙ(ÄÄÄÄÄÄÄÅÙ(ÄÄÄÄÄÄÄÅ…ï—’…∏Å…ïÕ’±—ÃÏ(ÄÄÄÅÙ((ÄÄÄÅ¡’â±•åÅÖÕÂπåÅQÖÕ¨Ò·—ï…πÖ±Ö—Ö±Ωù%—ï¥¯Åï—5ΩŸ•ïï—Ö•±ÕÕÂπå°Õ—…•πúÅ•µëâ%ê∞ÅÖπçï±±Ö—•ΩπQΩ≠ï∏Åç–ÄÙÅëïõæ|∂âûÀk∫wµÁ@ÄÄÄÄÄÄÄÄÅeïÖ»ÄÙÄ°IïÖëM—…•πú°Õ°Ω‹∞Äâ¡…ïµ•ï…ïêà§Ä¸¸Äàà§πM¡±•–†ú¥ú∞ÅM—…•πùM¡±•—=¡—•ΩπÃπIïµΩŸïµ¡—Âπ—…•ïÃ§π•…Õ—=…ïôÖ’±–†§Ä¸¸Äàà∞(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅM’µµÖ…‰ÄÙÅ±ïÖπ!—µ∞°IïÖëM—…•πú°Õ°Ω‹∞ÄâÕ’µµÖ…‰à§Ä¸¸Äàà§∞(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅAΩÕ—ï…U…∞ÄÙÅYÖ±•ë%µÖùïU…∞°•µÖùî§∞(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅ·—ï…πÖ±%êÄÙÅIïÖëM—…•πú°Õ°Ω‹∞Äâ•êà§Ä¸¸Äàà∞(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅ-•πêÄÙÄâMï…•ïÃà∞(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅïπ…ïÃÄÙÅùïπ…ïÃ∞(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅ·—…Ö%πôºÄÙÅIïÖëM—…•πú°Õ°Ω‹∞ÄâÕ—Ö—’Ãà§Ä¸¸Äàà(ÄÄÄÄÄÄÄÄÄÄÄÅÙ§Ï(ÄÄÄÄÄÄÄÅÙ(ÄÄÄÄÄÄÄÅ…ï—’…∏Å…ïÕ’±—ÃÏ(ÄÄÄÅÙ((ÄÄÄÅ¡’â±•åÅÖÕÂπåÅQÖÕ¨Ò1•Õ–Ò·—ï…πÖ±¡•ÕΩëî¯¯Åï—Mï…•ïÕ¡•ÕΩëïÕÕÂπå°Õ—…•πúÅ—Ÿ5ÖÈï%ê∞ÅÖπçï±±Ö—•ΩπQΩ≠ï∏Åç–ÄÙÅëïôÖ’±–§(ÄÄÄÅÏ(ÄÄÄÄÄÄÄÅ•òÄ†Ö•π–πQ…ÂAÖ…Õî°—Ÿ5ÖÈï%ê∞ÅΩ’–ÅŸÖ»Å•ê§ÅÒÅ•êÄÙÄ¿§(ÄÄÄÄÄÄÄÄÄÄÄÅ—°…Ω‹Åπï‹Å…ù’µïπ—·çï¡—•Ω∏†â∞Å•ëïπ—•ô•çÖëΩ»ÅëîÅQYµÖÈîÅπºÅïÃÅ€Ö±•ëº∏à∞ÅπÖµïΩò°—Ÿ5ÖÈï%ê§§Ï(ÄÄÄÄÄÄÄÅ’Õ•πúÅŸÖ»ÅëΩåÄÙÅÖ›Ö•–Åï—)ÕΩπÕÂπå†êâ°——¡ÃËºΩÖ¡§π—ŸµÖÈîπçΩ¥ΩÕ°Ω›ÃΩÌ•ëÙΩï¡•ÕΩëïÃà∞Åç–§Ï(ÄÄÄÄÄÄÄÅŸÖ»Åï¡•ÕΩëïÃÄÙÅπï‹Å1•Õ–Ò·—ï…πÖ±¡•ÕΩëî¯†§Ï(ÄÄÄÄÄÄÄÅ•òÄ°ëΩåπIΩΩ—±ïµïπ–πYÖ±’ï-•πêÄÑÙÅ)ÕΩπYÖ±’ï-•πêπ……Ö‰§Å…ï—’…∏Åï¡•ÕΩëïÃÏ(ÄÄÄÄÄÄÄÅôΩ…ïÖç†Ä°ŸÖ»Å•—ï¥Å•∏ÅëΩåπIΩΩ—±ïµïπ–ππ’µï…Ö—ï……Ö‰†§§(ÄÄÄÄÄÄÄÅÏ(ÄÄÄÄÄÄÄÄÄÄÄÅï¡•ÕΩëïÃπëê°πï‹Å·—ï…πÖ±¡•ÕΩëî(ÄÄÄÄÄÄÄÄÄÄÄÅÏ(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅ9ÖµîÄÙÅIïÖëM—…•πú°•—ï¥∞ÄâπÖµîà§Ä¸¸Äâ¡•ÕΩë•ºÅÕ•∏Å”µ—’±ºà∞(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅMïÖÕΩ∏ÄÙÅIïÖë%π–°•—ï¥∞ÄâÕïÖÕΩ∏à§∞(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅ9’µâï»ÄÙÅIïÖë%π–°•—ï¥∞Äâπ’µâï»à§∞(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅ•…Ö—îÄÙÅIïÖëM—…•πú°•—ï¥∞ÄâÖ•…ëÖ—îà§Ä¸¸Äàà∞(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅM’µµÖ…‰ÄÙÅ±ïÖπ!—µ∞°IïÖëM—…•πú°•—ï¥∞ÄâÕ’µµÖ…‰à§Ä¸¸Äàà§(ÄÄÄÄÄÄÄÄÄÄÄÅÙ§Ï(ÄÄÄÄÄÄÄÅÙ(ÄÄÄÄÄÄÄÅ…ï—’…∏Åï¡•ÕΩëïÃπ=…ëï…	‰°‡ÄÙ¯Å‡πMïÖÕΩ∏§πQ°ïπ	‰°‡ÄÙ¯Å‡π9’µâï»§πQΩ1•Õ–†§Ï(ÄÄÄÅÙ((ÄÄÄÅ¡…•ŸÖ—îÅÕ—Ö—•åÅÖÕÂπåÅQÖÕ¨Ò)ÕΩπΩç’µïπ–¯Åï—)ÕΩπÕÂπå°Õ—…•πúÅ’…∞∞ÅÖπçï±±Ö—•ΩπQΩ≠ï∏Åç–§(ÄÄÄÅÏ(ÄÄÄÄÄÄÄÅ’Õ•πúÅŸÖ»Å…ï≈’ïÕ–ÄÙÅπï‹Å!——¡Iï≈’ïÕ—5ïÕÕÖùî°!——¡5ï—°Ωêπï–∞Å’…∞§Ï(ÄÄÄÄÄÄÄÅ…ï≈’ïÕ–π!ïÖëï…ÃπUÕï…ùïπ–πAÖ…Õïëê†â5Öù•Õ]•πëΩ›Õ9Ö—•Ÿîºƒ∏¿à§Ï(ÄÄÄÄÄÄÄÅ’Õ•πúÅŸÖ»Å…ïÕ¡ΩπÕîÄÙÅÖ›Ö•–Å!——¿πMïπëÕÂπå°…ï≈’ïÕ–∞Å!——¡Ωµ¡±ï—•Ωπ=¡—•Ω∏πIïÕ¡ΩπÕï!ïÖëï…ÕIïÖê∞Åç–§Ï(ÄÄÄÄÄÄÄÅ…ïÕ¡ΩπÕîππÕ’…ïM’ççïÕÕM—Ö—’ÕΩëî†§Ï(ÄÄÄÄÄÄÄÅÖ›Ö•–Å’Õ•πúÅŸÖ»ÅÕ—…ïÖ¥ÄÙÅÖ›Ö•–Å…ïÕ¡ΩπÕîπΩπ—ïπ–πIïÖëÕM—…ïÖµÕÂπå°ç–§Ï(ÄÄÄÄÄÄÄÅ…ï—’…∏ÅÖ›Ö•–Å)ÕΩπΩç’µïπ–πAÖ…ÕïÕÂπå°Õ—…ïÖ¥∞ÅçÖπçï±±Ö—•ΩπQΩ≠ï∏ËÅç–§Ï(ÄÄÄÅÙ((ÄÄÄÅ¡…•ŸÖ—îÅÕ—Ö—•åÅÕ—…•πú¸ÅIïÖëM—…•πú°)ÕΩπ±ïµïπ–Åï±ïµïπ–∞ÅÕ—…•πúÅπÖµî§ÄÙ¯(ÄÄÄÄÄÄÄÅï±ïµïπ–πYÖ±’ï-•πêÄÙÙÅ)ÕΩπYÖ±’ï-•πêπ=â©ïç–ÄòòÅï±ïµïπ–πQ…Âï—A…Ω¡ï…—‰°πÖµî∞ÅΩ’–ÅŸÖ»ÅŸÖ±’î§Äòò(ÄÄÄÄÄÄÄÅŸÖ±’îπYÖ±’ï-•πêÅ•ÃÅπΩ–Ä°)ÕΩπYÖ±’ï-•πêπ9’±∞ÅΩ»Å)ÕΩπYÖ±’ï-•πêπUπëïô•πïê§Ä¸ÅŸÖ±’îπQΩM—…•πú†§ÄËÅπ’±∞Ï((ÄÄÄÅ¡…•ŸÖ—îÅÕ—Ö—•åÅ•π–ÅIïÖë%π–°)ÕΩπ±ïµïπ–Åï±ïµïπ–∞ÅÕ—…•πúÅπÖµî§ÄÙ¯(ÄÄÄÄÄÄÄÅ•π–πQ…ÂAÖ…Õî°IïÖëM—…•πú°ï±ïµïπ–∞ÅπÖµî§∞ÅΩ’–ÅŸÖ»ÅŸÖ±’î§Ä¸ÅŸÖ±’îÄËÄ¿Ï((ÄÄÄÅ¡…•ŸÖ—îÅÕ—Ö—•åÅÕ—…•πúÅYÖ±•ë%µÖùïU…∞°Õ—…•πú¸ÅŸÖ±’î§ÄÙ¯(ÄÄÄÄÄÄÄÅU…§πQ…Â…ïÖ—î°ŸÖ±’î∞ÅU…•-•πêπâÕΩ±’—î∞ÅΩ’–ÅŸÖ»Å’…§§ÄòòÅ’…§πMç°ïµîÄÙÙÅU…§πU…•Mç°ïµï!——¡ÃÄ¸Å’…§πQΩM—…•πú†§ÄËÄààÏ((ÄÄÄÅ¡…•ŸÖ—îÅÕ—Ö—•åÅÕ—…•πúÅ±ïÖπ!—µ∞°Õ—…•πúÅŸÖ±’î§ÄÙ¯ÅIïùï‡πIï¡±Öçî°ŸÖ±’î∞ÄàÒmx˘t¨¯à∞ÄàÄà§πIï¡±Öçî†àôπâÕ¿Ïà∞ÄàÄà§πIï¡±Öçî†àôÖµ¿Ïà∞Äàòà§πQ…•¥†§Ï((ÄÄÄÅ¡…•ŸÖ—îÅÕ—Ö—•åÅÕ—…•πúÅ)Ω•π%πôº°¡Ö…ÖµÃÅÕ—…•πú˝mtÅŸÖ±’ïÃ§ÄÙ¯ÅÕ—…•πúπ)Ω•∏†àÄÉ
-‹ÄÄà∞ÅŸÖ±’ïÃπ]°ï…î°‡ÄÙ¯ÄÖÕ—…•πúπ%Õ9’±±=…]°•—ïM¡Öçî°‡§§§Ï)Ù(
+using System.Net.Http;
+using System.Text.Json;
+using System.Text.RegularExpressions;
+
+namespace MagisWindowsNative.Services;
+
+public sealed class ExternalCatalogItem
+{
+    public string Title { get; init; } = "";
+    public string Year { get; init; } = "";
+    public string Summary { get; init; } = "";
+    public string PosterUrl { get; init; } = "";
+    public string ExternalId { get; init; } = "";
+    public string Kind { get; init; } = "";
+    public string Genres { get; init; } = "";
+    public string ExtraInfo { get; init; } = "";
+    public override string ToString() => string.IsNullOrWhiteSpace(Year) ? Title : $"{Title} ({Year})";
+}
+
+public sealed class ExternalEpisode
+{
+    public string Name { get; init; } = "";
+    public int Season { get; init; }
+    public int Number { get; init; }
+    public string AirDate { get; init; } = "";
+    public string Summary { get; init; } = "";
+    public override string ToString() => $"T{Season:00} ¬∑ E{Number:00}  {Name}";
+}
+
+/// <summary>Metadata-only discovery. It never manufactures media or playback URLs.</summary>
+public sealed class CatalogMetadataService
+{
+    private static readonly HttpClient Http = new() { Timeout = TimeSpan.FromSeconds(20) };
+    private readonly string _omdbApiKey;
+
+    public CatalogMetadataService(string? omdbApiKey = null) =>
+        _omdbApiKey = string.IsNullOrWhiteSpace(omdbApiKey)
+            ? Environment.GetEnvironmentVariable("OMDB_API_KEY") ?? ""
+            : omdbApiKey;
+
+    public async Task<List<ExternalCatalogItem>> SearchMoviesAsync(string query, CancellationToken ct = default)
+    {
+        if (string.IsNullOrWhiteSpace(_omdbApiKey))
+            throw new InvalidOperationException("OMDb necesita una clave API. Configura la variable de entorno OMDB_API_KEY y reinicia la aplicaci√≥n.");
+
+        var url = $"https://www.omdbapi.com/?apikey={Uri.EscapeDataString(_omdbApiKey)}&s={Uri.EscapeDataString(query.Trim())}&type=movie&page=1";
+        using var doc = await GetJsonAsync(url, ct);
+        if (ReadString(doc.RootElement, "Response") == "False")
+            throw new InvalidOperationException(ReadString(doc.RootElement, "Error") ?? "OMDb no encontr√≥ resultados.");
+
+        var results = new List<ExternalCatalogItem>();
+        if (doc.RootElement.TryGetProperty("Search", out var search) && search.ValueKind == JsonValueKind.Array)
+        {
+            foreach (var item in search.EnumerateArray())
+            {
+                results.Add(new ExternalCatalogItem
+                {
+                    Title = ReadString(item, "Title") ?? "Sin t√≠tulo",
+                    Year = ReadString(item, "Year") ?? "",
+                    PosterUrl = ValidImageUrl(ReadString(item, "Poster")),
+                    ExternalId = ReadString(item, "imdbID") ?? "",
+                    Kind = "Movie"
+                });
+            }
+        }
+        return results;
+    }
+
+    public async Task<ExternalCatalogItem> GetMovieDetailsAsync(string imdbId, CancellationToken ct = default)
+    {
+        if (string.IsNullOrWhiteSpace(_omdbApiKey))
+            throw new InvalidOperationException("Configura OMDB_API_KEY para consultar detalles de pel√≠culas.");
+
+        var url = $"https://www.omdbapi.com/?apikey={Uri.EscapeDataString(_omdbApiKey)}&i={Uri.EscapeDataString(imdbId)}&plot=full";
+        using var doc = await GetJsonAsync(url, ct);
+        var root = doc.RootElement;
+        if (ReadString(root, "Response") == "False")
+            throw new InvalidOperationException(ReadString(root, "Error") ?? "No se pudieron consultar los detalles.");
+        return new ExternalCatalogItem
+        {
+            Title = ReadString(root, "Title") ?? "Sin t√≠tulo",
+            Year = ReadString(root, "Year") ?? "",
+            Summary = ReadString(root, "Plot") ?? "Sin sinopsis disponible.",
+            PosterUrl = ValidImageUrl(ReadString(root, "Poster")),
+            ExternalId = imdbId,
+            Kind = "Movie",
+            Genres = ReadString(root, "Genre") ?? "",
+            ExtraInfo = JoinInfo(ReadString(root, "Runtime"), ReadString(root, "Rated"), ReadString(root, "imdbRating"), "IMDb")
+        };
+    }
+
+    public async Task<List<ExternalCatalogItem>> SearchSeriesAsync(string query, CancellationToken ct = default)
+    {
+        var url = $"https://api.tvmaze.com/search/shows?q={Uri.EscapeDataString(query.Trim())}";
+        using var doc = await GetJsonAsync(url, ct);
+        var results = new List<ExternalCatalogItem>();
+        if (doc.RootElement.ValueKind != JsonValueKind.Array) return results;
+
+        foreach (var result in doc.RootElement.EnumerateArray())
+        {
+            if (!result.TryGetProperty("show", out var show)) continue;
+            var image = show.TryGetProperty("image", out var imageNode) ?
+                ReadString(imageNode, "medium") ?? ReadString(imageNode, "original") : null;
+            var genres = show.TryGetProperty("genres", out var genreNode) && genreNode.ValueKind == JsonValueKind.Array
+                ? string.Join(", ", genreNode.EnumerateArray().Select(x => x.GetString()).Where(x => !string.IsNullOrWhiteSpace(x)))
+                : "";
+            results.Add(new ExternalCatalogItem
+            {
+                Title = ReadString(show, "name") ?? "Sin t√≠tulo",
+                Year = (ReadString(show, "premiered") ?? "").Split('-', StringSplitOptions.RemoveEmptyEntries).FirstOrDefault() ?? "",
+                Summary = CleanHtml(ReadString(show, "summary") ?? ""),
+                PosterUrl = ValidImageUrl(image),
+                ExternalId = ReadString(show, "id") ?? "",
+                Kind = "Series",
+                Genres = genres,
+                ExtraInfo = ReadString(show, "status") ?? ""
+            });
+        }
+        return results;
+    }
+
+    public async Task<List<ExternalEpisode>> GetSeriesEpisodesAsync(string tvMazeId, CancellationToken ct = default)
+    {
+        if (!int.TryParse(tvMazeId, out var id) || id <= 0)
+            throw new ArgumentException("El identificador de TVmaze no es v√°lido.", nameof(tvMazeId));
+        using var doc = await GetJsonAsync($"https://api.tvmaze.com/shows/{id}/episodes", ct);
+        var episodes = new List<ExternalEpisode>();
+        if (doc.RootElement.ValueKind != JsonValueKind.Array) return episodes;
+        foreach (var item in doc.RootElement.EnumerateArray())
+        {
+            episodes.Add(new ExternalEpisode
+            {
+                Name = ReadString(item, "name") ?? "Episodio sin t√≠tulo",
+                Season = ReadInt(item, "season"),
+                Number = ReadInt(item, "number"),
+                AirDate = ReadString(item, "airdate") ?? "",
+                Summary = CleanHtml(ReadString(item, "summary") ?? "")
+            });
+        }
+        return episodes.OrderBy(x => x.Season).ThenBy(x => x.Number).ToList();
+    }
+
+    private static async Task<JsonDocument> GetJsonAsync(string url, CancellationToken ct)
+    {
+        using var request = new HttpRequestMessage(HttpMethod.Get, url);
+        request.Headers.UserAgent.ParseAdd("MagisWindowsNative/1.0");
+        using var response = await Http.SendAsync(request, HttpCompletionOption.ResponseHeadersRead, ct);
+        response.EnsureSuccessStatusCode();
+        await using var stream = await response.Content.ReadAsStreamAsync(ct);
+        return await JsonDocument.ParseAsync(stream, cancellationToken: ct);
+    }
+
+    private static string? ReadString(JsonElement element, string name) =>
+        element.ValueKind == JsonValueKind.Object && element.TryGetProperty(name, out var value) &&
+        value.ValueKind is not (JsonValueKind.Null or JsonValueKind.Undefined) ? value.ToString() : null;
+
+    private static int ReadInt(JsonElement element, string name) =>
+        int.TryParse(ReadString(element, name), out var value) ? value : 0;
+
+    private static string ValidImageUrl(string? value) =>
+        Uri.TryCreate(value, UriKind.Absolute, out var uri) && uri.Scheme == Uri.UriSchemeHttps ? uri.ToString() : "";
+
+    private static string CleanHtml(string value) => Regex.Replace(value, "<[^>]+>", " ").Replace("&nbsp;", " ").Replace("&amp;", "&").Trim();
+
+    private static string JoinInfo(params string?[] values) => string.Join("  ¬∑  ", values.Where(x => !string.IsNullOrWhiteSpace(x)));
+}

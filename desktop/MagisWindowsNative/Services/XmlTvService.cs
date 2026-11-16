@@ -1,1 +1,165 @@
-Y™Áäx-ÆÈ‹j◊ù¢Îi∫⁄+äßj[hëÈ‹¢ÈÌ€mΩNãZñã≠¶Îeäw¨’’Õ•πúÅMÂÕ—ï¥π±ΩâÖ±•ÈÖ—•Ω∏Ï)’Õ•πúÅMÂÕ—ï¥π%<Ï)’Õ•πúÅMÂÕ—ï¥π%<πΩµ¡…ïÕÕ•Ω∏Ï)’Õ•πúÅMÂÕ—ï¥πaµ∞Ï)’Õ•πúÅMÂÕ—ï¥πaµ∞π1•πƒÏ)’Õ•πúÅ5Öù•Õ]•πëΩ›Õ9Ö—•Ÿîπ5Ωëï±ÃÏ()πÖµïÕ¡ÖçîÅ5Öù•Õ]•πëΩ›Õ9Ö—•ŸîπMï…Ÿ•çïÃÏ()¡’â±•åÅÕ—Ö—•åÅç±ÖÕÃÅaµ±QŸMï…Ÿ•çî)Ï(ÄÄÄÅ¡…•ŸÖ—îÅÕ—Ö—•åÅ…ïÖëΩπ±‰ÅÕ—…•πùmtÅ=ôôÕï—Ω…µÖ—ÃÄÙ(ÄÄÄÅÏ(ÄÄÄÄÄÄÄÄâÂÂÂÂ55ëë!!µµÕÃÅÈÈËà∞ÄâÂÂÂÂ55ëë!!µ¥ÅÈÈËà∞(ÄÄÄÄÄÄÄÄâÂÂÂÂ55ëë!!µµÕÃà∞ÄâÂÂÂÂ55ëë!!µ¥à(ÄÄÄÅÙÏ(ÄÄÄÅ¡…•ŸÖ—îÅÕ—Ö—•åÅ…ïÖëΩπ±‰ÅÕ—…•πùmtÅ1ΩçÖ±Ω…µÖ—ÃÄÙÅÏÄâÂÂÂÂ55ëë!!µµÕÃà∞ÄâÂÂÂÂ55ëë!!µ¥àÅÙÏ((ÄÄÄÄººÅQ°îÅù’•ëîÅ•ÃÅ¡Ö…ÕïêÅΩ∏ÅÑÅ›Ω…≠ï»Å—°…ïÖêÅÖπêÅÕ—…ïÖµïêÅï±ïµïπ–Åâ‰Åï±ïµïπ–∞ÅÕº(ÄÄÄÄººÅÑÅŸï…‰Å±Ö…ùîÅa51QXÅô•±îÅπï•—°ï»Åô…ïïÈïÃÅ—°îÅ›•πëΩ‹ÅπΩ»Å•ÃÅ°ï±êÅ•∏ÅµïµΩ…‰Å—›•çî∏(ÄÄÄÅ¡’â±•åÅÕ—Ö—•åÅQÖÕ¨Ò1•Õ–Ò¡ùA…Ωù…Ö¥¯¯Å1ΩÖëÕÂπå°Õ—…•πúÅ¡Ö—†∞ÅÖπçï±±Ö—•ΩπQΩ≠ï∏Åç–ÄÙÅëïôÖ’±–§(ÄÄÄÄÄÄÄÄÙ¯ÅQÖÕ¨πI’∏††§ÄÙ¯Å1ΩÖê°¡Ö—†∞Åç–§∞Åç–§Ï((ÄÄÄÅ¡…•ŸÖ—îÅÕ—Ö—•åÅ1•Õ–Ò¡ùA…Ωù…Ö¥¯Å1ΩÖê°Õ—…•πúÅ¡Ö—†∞ÅÖπçï±±Ö—•ΩπQΩ≠ï∏Åç–§(ÄÄÄÅÏ(ÄÄÄÄÄÄÄÅ’Õ•πúÅŸÖ»Åô•±îÄÙÅπï‹Å•±ïM—…ïÖ¥°¡Ö—†∞Å•±ï5Ωëîπ=¡ï∏∞Å•±ïççïÕÃπIïÖê∞Å•±ïM°Ö…îπIïÖê∞Ä‡ƒ‰»¿∞Å•±ï=¡—•ΩπÃπMï≈’ïπ—•Ö±MçÖ∏§Ï(ÄÄÄÄÄÄÄÅM—…ïÖ¥Å•π¡’–ÄÙÅô•±îÏ(ÄÄÄÄÄÄÄÅ•òÄ°¡Ö—†ππëÕ]•—††àπùËà∞ÅM—…•πùΩµ¡Ö…•ÕΩ∏π=…ë•πÖ±%ùπΩ…ïÖÕî§§(ÄÄÄÄÄÄÄÄÄÄÄÅ•π¡’–ÄÙÅπï‹Åi•¡M—…ïÖ¥°ô•±î∞ÅΩµ¡…ïÕÕ•Ωπ5ΩëîπïçΩµ¡…ïÕÃ∞Å±ïÖŸï=¡ï∏ËÅôÖ±Õî§Ï((ÄÄÄÄÄÄÄÅŸÖ»Åç°Öππï±ÃÄÙÅπï‹Å•ç—•ΩπÖ…‰ÒÕ—…•πú∞ÅÕ—…•πú¯°M—…•πùΩµ¡Ö…ï»π=…ë•πÖ±%ùπΩ…ïÖÕî§Ï(ÄÄÄÄÄÄÄÅŸÖ»Å…ïÕ’±–ÄÙÅπï‹Å1•Õ–Ò¡ùA…Ωù…Ö¥¯†§Ï((ÄÄÄÄÄÄÄÅ’Õ•πúÄ°•π¡’–§(ÄÄÄÄÄÄÄÅ’Õ•πúÄ°ŸÖ»Å…ïÖëï»ÄÙÅaµ±IïÖëï»π…ïÖ—î°•π¡’–∞Åπï‹Åaµ±IïÖëï…Mï——•πùÃÅÏ(ÄÄÄÄÄÄÄÄÄÄÄÅ—ëA…ΩçïÕÕ•πúÄÙÅ—ëA…ΩçïÕÕ•πúπA…Ω°•â•–∞Åaµ±IïÕΩ±Ÿï»ÄÙÅπ’±∞∞(ÄÄÄÄÄÄÄÄÄÄÄÅ%ùπΩ…ïΩµµïπ—ÃÄÙÅ—…’î∞Å%ùπΩ…ï]°•—ïÕ¡ÖçîÄÙÅ—…’î(ÄÄÄÄÄÄÄÅÙ§§(ÄÄÄÄÄÄÄÅÏ(ÄÄÄÄÄÄÄÄÄÄÄÅ…ïÖëï»π5ΩŸïQΩΩπ—ïπ–†§Ï(ÄÄÄÄÄÄÄÄÄÄÄÅ•òÄ°…ïÖëï»π9ΩëïQÂ¡îÄÑÙÅaµ±9ΩëïQÂ¡îπ±ïµïπ–ÅÒÅ…ïÖëï»π%Õµ¡—Â±ïµïπ–§Å…ï—’…∏Å…ïÕ’±–Ï(ÄÄÄÄÄÄÄÄÄÄÄÅ…ïÖëï»πIïÖê†§ÏÄººÅÕ—ï¿Å•π—ºÅ—°îÅ…ΩΩ–Åï±ïµïπ–((ÄÄÄÄÄÄÄÄÄÄÄÅ›°•±îÄ†Ö…ïÖëï»π=ÄòòÅ…ïÖëï»π9ΩëïQÂ¡îÄÑÙÅaµ±9ΩëïQÂ¡îππë±ïµïπ–§(ÄÄÄÄÄÄÄÄÄÄÄÅÏ(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅç–πQ°…Ω›%ôÖπçï±±Ö—•ΩπIï≈’ïÕ—ïê†§Ï(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅ•òÄ°…ïÖëï»π9ΩëïQÂ¡îÄÑÙÅaµ±9ΩëïQÂ¡îπ±ïµïπ–§ÅÏÅ…ïÖëï»πM≠•¿†§ÏÅçΩπ—•π’îÏÅÙ((ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅ•òÄ°…ïÖëï»π1ΩçÖ±9ÖµîÄÙÙÄâç°Öππï∞à§(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÏ(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅŸÖ»Åç°Öππï∞ÄÙÄ°a±ïµïπ–•a9ΩëîπIïÖë…Ω¥°…ïÖëï»§Ï(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅŸÖ»Å•êÄÙÄ°Õ—…•πú¸•ç°Öππï∞π——…•â’—î†â•êà§Ä¸¸ÄààÏ(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅŸÖ»Åë•Õ¡±Ö‰ÄÙÄ°Õ—…•πú¸•ç°Öππï∞π±ïµïπ—Ã†âë•Õ¡±Ö‰µπÖµîà§π•…Õ—=…ïôÖ’±–†§Ï(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅç°Öππï±Õm•ëtÄÙÅë•Õ¡±Ö‰Ä¸¸Å•êÏ(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÙ(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅï±ÕîÅ•òÄ°…ïÖëï»π1ΩçÖ±9ÖµîÄÙÙÄâ¡…Ωù…Öµµîà§(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÏ(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅŸÖ»Å•—ï¥ÄÙÄ°a±ïµïπ–•a9ΩëîπIïÖë…Ω¥°…ïÖëï»§Ï(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅ•òÄ†ÖQ…ÂÖ—î†°Õ—…•πú¸••—ï¥π——…•â’—î†âÕ—Ö…–à§∞ÅΩ’–ÅŸÖ»ÅÕ—Ö…–§ÅÒ(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÖQ…ÂÖ—î†°Õ—…•πú¸••—ï¥π——…•â’—î†âÕ—Ω¿à§∞ÅΩ’–ÅŸÖ»ÅÕ—Ω¿§§ÅçΩπ—•π’îÏ(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅ…ïÕ’±–πëê°πï‹Å¡ùA…Ωù…Ö¥ÅÏ(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅ°Öππï±%êÄÙÄ°Õ—…•πú¸••—ï¥π——…•â’—î†âç°Öππï∞à§Ä¸¸Äàà∞(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅM—Ö…–ÄÙÅÕ—Ö…–∞ÅM—Ω¿ÄÙÅÕ—Ω¿∞(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅQ•—±îÄÙÄ°Õ—…•πú¸••—ï¥π±ïµïπ–†â—•—±îà§Ä¸¸Äà°M•∏Å”µ—’±º§à∞(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅïÕç…•¡—•Ω∏ÄÙÄ°Õ—…•πú¸••—ï¥π±ïµïπ–†ãmΩ∂âûÀk∫wµÁ@ÄÄÄÄÄÄÄÄÅ…ï—’…∏Å—…’îÏ(ÄÄÄÄÄÄÄÅÙ(ÄÄÄÄÄÄÄÅ…ï—’…∏ÅQ…ÂM±Ω‹°ŸÖ±’î∞ÅΩ’–ÅëÖ—î§Ï(ÄÄÄÅÙ((ÄÄÄÄººÅ!Öπêµ…Ω±±ïêÅ¡Ö…Õï»ÅôΩ»Å—°îÅ’Õ’Ö∞ÄâÂÂÂÂ55ëë!!µµÕÃÄ¨¿¿¿¿àÅôΩ…¥ÏÅôÖ»Åç°ïÖ¡ï»Å—°Ö∏(ÄÄÄÄººÅQ…ÂAÖ…Õï·Öç–Å›°ï∏ÅÑÅù’•ëîÅ°Ω±ëÃÅ°’πë…ïëÃÅΩòÅ—°Ω’ÕÖπëÃÅΩòÅ¡…Ωù…ÖµµïÃ∏(ÄÄÄÅ¡…•ŸÖ—îÅÕ—Ö—•åÅâΩΩ∞ÅQ…ÂÖÕ–°IïÖë=π±ÂM¡Ö∏Òç°Ö»¯ÅÃ∞ÅΩ’–ÅÖ—ïQ•µï=ôôÕï–Å…ïÕ’±–§(ÄÄÄÅÏ(ÄÄÄÄÄÄÄÅ…ïÕ’±–ÄÙÅëïôÖ’±–Ï(ÄÄÄÄÄÄÄÅ•òÄ°Ãπ1ïπù—†ÄÄƒ»§Å…ï—’…∏ÅôÖ±ÕîÏ(ÄÄÄÄÄÄÄÅôΩ»Ä°ŸÖ»Å§ÄÙÄ¿ÏÅ§ÄÄƒ»ÏÅ§¨¨§(ÄÄÄÄÄÄÄÄÄÄÄÅ•òÄ†Öç°Ö»π%ÕÕç•••ù•–°Õm•t§§Å…ï—’…∏ÅôÖ±ÕîÏ((ÄÄÄÄÄÄÄÅŸÖ»ÅÂïÖ»ÄÙÅQ›º°Ã∞Ä¿§Ä®Äƒ¿¿Ä¨ÅQ›º°Ã∞Ä»§Ï(ÄÄÄÄÄÄÄÅŸÖ»ÅµΩπ—†ÄÙÅQ›º°Ã∞Ä–§Ï(ÄÄÄÄÄÄÄÅŸÖ»ÅëÖ‰ÄÙÅQ›º°Ã∞Äÿ§Ï(ÄÄÄÄÄÄÄÅŸÖ»Å°Ω’»ÄÙÅQ›º°Ã∞Ä‡§Ï(ÄÄÄÄÄÄÄÅŸÖ»Åµ•π’—îÄÙÅQ›º°Ã∞Äƒ¿§Ï(ÄÄÄÄÄÄÄÅŸÖ»ÅÕïçΩπêÄÙÄ¿Ï(ÄÄÄÄÄÄÄÅŸÖ»Å¡ΩÃÄÙÄƒ»Ï((ÄÄÄÄÄÄÄÅ•òÄ°Ãπ1ïπù—†Ä¯ÙÄƒ–ÄòòÅç°Ö»π%ÕÕç•••ù•–°Õlƒ…t§ÄòòÅç°Ö»π%ÕÕç•••ù•–°ÕlƒÕt§§(ÄÄÄÄÄÄÄÅÏ(ÄÄÄÄÄÄÄÄÄÄÄÅÕïçΩπêÄÙÅQ›º°Ã∞Äƒ»§Ï(ÄÄÄÄÄÄÄÄÄÄÄÅ¡ΩÃÄÙÄƒ–Ï(ÄÄÄÄÄÄÄÅÙ(ÄÄÄÄÄÄÄÅï±ÕîÅ•òÄ°Ãπ1ïπù—†Ä¯Äƒ»ÄòòÅç°Ö»π%ÕÕç•••ù•–°Õlƒ…t§§Å…ï—’…∏ÅôÖ±ÕîÏ((ÄÄÄÄÄÄÄÅŸÖ»ÅΩôôÕï–ÄÙÅQ•µïM¡Ö∏πiï…ºÏ(ÄÄÄÄÄÄÄÅŸÖ»Å…ïÕ–ÄÙÅÃπM±•çî°¡ΩÃ§πQ…•¥†§Ï(ÄÄÄÄÄÄÄÅ•òÄ°…ïÕ–π1ïπù—†Ä¯Ä¿§(ÄÄÄÄÄÄÄÅÏ(ÄÄÄÄÄÄÄÄÄÄÄÅ•òÄ°…ïÕ–π1ïπù—†ÄÑÙÄ‘ÅÒÄ°…ïÕ—l¡tÄÑÙÄú¨úÄòòÅ…ïÕ—l¡tÄÑÙÄú¥ú§§Å…ï—’…∏ÅôÖ±ÕîÏ(ÄÄÄÄÄÄÄÄÄÄÄÅôΩ»Ä°ŸÖ»Å§ÄÙÄƒÏÅ§ÄÄ‘ÏÅ§¨¨§(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅ•òÄ†Öç°Ö»π%ÕÕç•••ù•–°…ïÕ—m•t§§Å…ï—’…∏ÅôÖ±ÕîÏ(ÄÄÄÄÄÄÄÄÄÄÄÅŸÖ»ÅΩôôÕï—!Ω’…ÃÄÙÅQ›º°…ïÕ–∞Äƒ§Ï(ÄÄÄÄÄÄÄÄÄÄÄÅŸÖ»ÅΩôôÕï—5•π’—ïÃÄÙÅQ›º°…ïÕ–∞ÄÃ§Ï(ÄÄÄÄÄÄÄÄÄÄÄÅ•òÄ°ΩôôÕï—!Ω’…ÃÄ¯Äƒ–ÅÒÅΩôôÕï—5•π’—ïÃÄ¯Ä‘‰§Å…ï—’…∏ÅôÖ±ÕîÏ(ÄÄÄÄÄÄÄÄÄÄÄÅΩôôÕï–ÄÙÅπï‹ÅQ•µïM¡Ö∏°ΩôôÕï—!Ω’…Ã∞ÅΩôôÕï—5•π’—ïÃ∞Ä¿§Ï(ÄÄÄÄÄÄÄÄÄÄÄÅ•òÄ°…ïÕ—l¡tÄÙÙÄú¥ú§ÅΩôôÕï–ÄÙÅΩôôÕï–π9ïùÖ—î†§Ï(ÄÄÄÄÄÄÄÅÙ((ÄÄÄÄÄÄÄÅ•òÄ°ÂïÖ»ÄÄƒÅÒÅµΩπ—†ÄÄƒÅÒÅµΩπ—†Ä¯Äƒ»ÅÒÅëÖ‰ÄÄƒÅÒÅëÖ‰Ä¯ÅÖ—ïQ•µîπÖÂÕ%π5Ωπ—†°ÂïÖ»∞ÅµΩπ—†§ÅÒ(ÄÄÄÄÄÄÄÄÄÄÄÅ°Ω’»Ä¯Ä»ÃÅÒÅµ•π’—îÄ¯Ä‘‰ÅÒÅÕïçΩπêÄ¯Ä‘‰§Å…ï—’…∏ÅôÖ±ÕîÏ((ÄÄÄÄÄÄÄÅ—…‰(ÄÄÄÄÄÄÄÅÏ(ÄÄÄÄÄÄÄÄÄÄÄÅ…ïÕ’±–ÄÙÅπï‹ÅÖ—ïQ•µï=ôôÕï–°πï‹ÅÖ—ïQ•µî°ÂïÖ»∞ÅµΩπ—†∞ÅëÖ‰∞Å°Ω’»∞Åµ•π’—î∞ÅÕïçΩπê∞ÅÖ—ïQ•µï-•πêπUπÕ¡ïç•ô•ïê§∞ÅΩôôÕï–§Ï(ÄÄÄÄÄÄÄÄÄÄÄÅ…ï—’…∏Å—…’îÏ(ÄÄÄÄÄÄÄÅÙ(ÄÄÄÄÄÄÄÅçÖ—ç†Ä°…ù’µïπ—·çï¡—•Ω∏§ÅÏÅ…ï—’…∏ÅôÖ±ÕîÏÅÙ(ÄÄÄÅÙ((ÄÄÄÅ¡…•ŸÖ—îÅÕ—Ö—•åÅ•π–ÅQ›º°IïÖë=π±ÂM¡Ö∏Òç°Ö»¯ÅÃ∞Å•π–Å•πëï‡§ÄÙ¯Ä°Õm•πëï·tÄ¥Äú¿ú§Ä®Äƒ¿Ä¨Ä°Õm•πëï‡Ä¨Ä≈tÄ¥Äú¿ú§Ï((ÄÄÄÅ¡…•ŸÖ—îÅÕ—Ö—•åÅâΩΩ∞ÅQ…ÂM±Ω‹°Õ—…•πúÅŸÖ±’î∞ÅΩ’–ÅÖ—ïQ•µîÅëÖ—î§(ÄÄÄÅÏ(ÄÄÄÄÄÄÄÅëÖ—îÄÙÅëïôÖ’±–Ï(ÄÄÄÄÄÄÄÅŸÖ»ÅπΩ…µÖ±•ÈïêÄÙÅŸÖ±’îπQ…•¥†§Ï(ÄÄÄÄÄÄÄÄººÅa51QXÅçΩµµΩπ±‰ÅïπçΩëïÃÅΩôôÕï—ÃÅÖÃÄ¨¿¿¿¿ÏÄπ9PùÃÅÈÈËÅï·¡ïç—ÃÄ¨¿¿Ë¿¿∏(ÄÄÄÄÄÄÄÅ•òÄ°πΩ…µÖ±•Èïêπ1ïπù—†Ä¯ÙÄ‘§(ÄÄÄÄÄÄÄÅÏ(ÄÄÄÄÄÄÄÄÄÄÄÅŸÖ»ÅÕ’ôô•‡ÄÙÅπΩ…µÖ±•Èïëmx‘∏πtÏ(ÄÄÄÄÄÄÄÄÄÄÄÅ•òÄ†°Õ’ôô•·l¡tÄÙÙÄú¨úÅÒÅÕ’ôô•·l¡tÄÙÙÄú¥ú§Äòò(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÕ’ôô•·lƒ∏πtπ±∞°ç°Ö»π%Õ•ù•–§§(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅπΩ…µÖ±•ÈïêÄÙÅπΩ…µÖ±•Èïël∏πx…tÄ¨ÄàËàÄ¨ÅπΩ…µÖ±•Èïëmx»∏πtÏ(ÄÄÄÄÄÄÄÅÙ((ÄÄÄÄÄÄÄÅ•òÄ°Ö—ïQ•µï=ôôÕï–πQ…ÂAÖ…Õï·Öç–°πΩ…µÖ±•Èïê∞Å=ôôÕï—Ω…µÖ—Ã∞Å’±—’…ï%πôºπ%πŸÖ…•Öπ—’±—’…î∞(ÄÄÄÄÄÄÄÄÄÄÄÅÖ—ïQ•µïM—Â±ïÃπÕÕ’µïUπ•Ÿï…ÕÖ∞∞ÅΩ’–ÅŸÖ»Åë—º§§(ÄÄÄÄÄÄÄÅÏÅëÖ—îÄÙÅë—ºπ1ΩçÖ±Ö—ïQ•µîÏÅ…ï—’…∏Å—…’îÏÅÙ((ÄÄÄÄÄÄÄÅ•òÄ°Ö—ïQ•µîπQ…ÂAÖ…Õï·Öç–°πΩ…µÖ±•Èïê∞Å1ΩçÖ±Ω…µÖ—Ã∞(ÄÄÄÄÄÄÄÄÄÄÄÅ’±—’…ï%πôºπ%πŸÖ…•Öπ—’±—’…î∞ÅÖ—ïQ•µïM—Â±ïÃπÕÕ’µïUπ•Ÿï…ÕÖ∞∞ÅΩ’–ÅëÖ—î§§(ÄÄÄÄÄÄÄÅÏÅëÖ—îÄÙÅëÖ—îπQΩ1ΩçÖ±Q•µî†§ÏÅ…ï—’…∏Å—…’îÏÅÙ(ÄÄÄÄÄÄÄÅ…ï—’…∏ÅôÖ±ÕîÏ(ÄÄÄÅÙ)Ù(
+using System.Globalization;
+using System.IO;
+using System.IO.Compression;
+using System.Xml;
+using System.Xml.Linq;
+using MagisWindowsNative.Models;
+
+namespace MagisWindowsNative.Services;
+
+public static class XmlTvService
+{
+    private static readonly string[] OffsetFormats =
+    {
+        "yyyyMMddHHmmss zzz", "yyyyMMddHHmm zzz",
+        "yyyyMMddHHmmss", "yyyyMMddHHmm"
+    };
+    private static readonly string[] LocalFormats = { "yyyyMMddHHmmss", "yyyyMMddHHmm" };
+
+    // The guide is parsed on a worker thread and streamed element by element, so
+    // a very large XMLTV file neither freezes the window nor is held in memory twice.
+    public static Task<List<EpgProgram>> LoadAsync(string path, CancellationToken ct = default)
+        => Task.Run(() => Load(path, ct), ct);
+
+    private static List<EpgProgram> Load(string path, CancellationToken ct)
+    {
+        using var file = new FileStream(path, FileMode.Open, FileAccess.Read, FileShare.Read, 81920, FileOptions.SequentialScan);
+        Stream input = file;
+        if (path.EndsWith(".gz", StringComparison.OrdinalIgnoreCase))
+            input = new GZipStream(file, CompressionMode.Decompress, leaveOpen: false);
+
+        var channels = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase);
+        var result = new List<EpgProgram>();
+
+        using (input)
+        using (var reader = XmlReader.Create(input, new XmlReaderSettings {
+            DtdProcessing = DtdProcessing.Prohibit, XmlResolver = null,
+            IgnoreComments = true, IgnoreWhitespace = true
+        }))
+        {
+            reader.MoveToContent();
+            if (reader.NodeType != XmlNodeType.Element || reader.IsEmptyElement) return result;
+            reader.Read(); // step into the root element
+
+            while (!reader.EOF && reader.NodeType != XmlNodeType.EndElement)
+            {
+                ct.ThrowIfCancellationRequested();
+                if (reader.NodeType != XmlNodeType.Element) { reader.Skip(); continue; }
+
+                if (reader.LocalName == "channel")
+                {
+                    var channel = (XElement)XNode.ReadFrom(reader);
+                    var id = (string?)channel.Attribute("id") ?? "";
+                    var display = (string?)channel.Elements("display-name").FirstOrDefault();
+                    channels[id] = display ?? id;
+                }
+                else if (reader.LocalName == "programme")
+                {
+                    var item = (XElement)XNode.ReadFrom(reader);
+                    if (!TryDate((string?)item.Attribute("start"), out var start) ||
+                        !TryDate((string?)item.Attribute("stop"), out var stop)) continue;
+                    result.Add(new EpgProgram {
+                        ChannelId = (string?)item.Attribute("channel") ?? "",
+                        Start = start, Stop = stop,
+                        Title = (string?)item.Element("title") ?? "(Sin t√≠tulo)",
+                        Description = (string?)item.Element("desc") ?? ""
+                    });
+                }
+                else reader.Skip();
+            }
+        }
+
+        // Channel names may be declared after the programmes, so resolve them last.
+        foreach (var program in result)
+            program.ChannelName = channels.TryGetValue(program.ChannelId, out var name) ? name : program.ChannelId;
+
+        return result.OrderBy(x => x.Start).ToList();
+    }
+
+    private static bool TryDate(string? value, out DateTime date)
+    {
+        date = default;
+        if (string.IsNullOrWhiteSpace(value)) return false;
+
+        if (TryFast(value.AsSpan().Trim(), out var fast))
+        {
+            date = fast.LocalDateTime;
+            return true;
+        }
+        return TrySlow(value, out date);
+    }
+
+    // Hand-rolled parser for the usual "yyyyMMddHHmmss +0000" form; far cheaper than
+    // TryParseExact when a guide holds hundreds of thousands of programmes.
+    private static bool TryFast(ReadOnlySpan<char> s, out DateTimeOffset result)
+    {
+        result = default;
+        if (s.Length < 12) return false;
+        for (var i = 0; i < 12; i++)
+            if (!char.IsAsciiDigit(s[i])) return false;
+
+        var year = Two(s, 0) * 100 + Two(s, 2);
+        var month = Two(s, 4);
+        var day = Two(s, 6);
+        var hour = Two(s, 8);
+        var minute = Two(s, 10);
+        var second = 0;
+        var pos = 12;
+
+        if (s.Length >= 14 && char.IsAsciiDigit(s[12]) && char.IsAsciiDigit(s[13]))
+        {
+            second = Two(s, 12);
+            pos = 14;
+        }
+        else if (s.Length > 12 && char.IsAsciiDigit(s[12])) return false;
+
+        var offset = TimeSpan.Zero;
+        var rest = s.Slice(pos).Trim();
+        if (rest.Length > 0)
+        {
+            if (rest.Length != 5 || (rest[0] != '+' && rest[0] != '-')) return false;
+            for (var i = 1; i < 5; i++)
+                if (!char.IsAsciiDigit(rest[i])) return false;
+            var offsetHours = Two(rest, 1);
+            var offsetMinutes = Two(rest, 3);
+            if (offsetHours > 14 || offsetMinutes > 59) return false;
+            offset = new TimeSpan(offsetHours, offsetMinutes, 0);
+            if (rest[0] == '-') offset = offset.Negate();
+        }
+
+        if (year < 1 || month < 1 || month > 12 || day < 1 || day > DateTime.DaysInMonth(year, month) ||
+            hour > 23 || minute > 59 || second > 59) return false;
+
+        try
+        {
+            result = new DateTimeOffset(new DateTime(year, month, day, hour, minute, second, DateTimeKind.Unspecified), offset);
+            return true;
+        }
+        catch (ArgumentException) { return false; }
+    }
+
+    private static int Two(ReadOnlySpan<char> s, int index) => (s[index] - '0') * 10 + (s[index + 1] - '0');
+
+    private static bool TrySlow(string value, out DateTime date)
+    {
+        date = default;
+        var normalized = value.Trim();
+        // XMLTV commonly encodes offsets as +0000; .NET's zzz expects +00:00.
+        if (normalized.Length >= 5)
+        {
+            var suffix = normalized[^5..];
+            if ((suffix[0] == '+' || suffix[0] == '-') &&
+                suffix[1..].All(char.IsDigit))
+                normalized = normalized[..^2] + ":" + normalized[^2..];
+        }
+
+        if (DateTimeOffset.TryParseExact(normalized, OffsetFormats, CultureInfo.InvariantCulture,
+            DateTimeStyles.AssumeUniversal, out var dto))
+        { date = dto.LocalDateTime; return true; }
+
+        if (DateTime.TryParseExact(normalized, LocalFormats,
+            CultureInfo.InvariantCulture, DateTimeStyles.AssumeUniversal, out date))
+        { date = date.ToLocalTime(); return true; }
+        return false;
+    }
+}

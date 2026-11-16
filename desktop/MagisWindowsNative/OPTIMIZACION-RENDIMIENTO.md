@@ -1,8 +1,73 @@
-YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éíÛm»N‹Z–‹­¦ëeŠw¬ÔŒ=ÁÑ¥µ¥é…§Í¸‘”É•¹‘¥µ¥•¹Ñ¼€¡Í½‰É”5…¥ÍQX1½¼½Q•µ„ØÔ¤4(4)1„¥¹Ñ•É™…èË…™¥„9<…µ‰¥„èµ¥Íµ½Ìa50°½±½É•Ì°Ñ…µ‡Å½ÌäÑ•áÑ½Ì¸°ƒé¹¥¼…µ‰¥¼•¸a50•ÌÅÕ”4)±„¥µ…•¸‘”…‘„Ñ…É©•Ñ„Í”•¹±…é„µ•‘¥…¹Ñ”Q¡Õµ‰¹…¥±½¹Ù•ÉÑ•É€€¡µ¥Íµ¼…ÍÁ•Ñ¼°µ•¹½Ìµ•µ½É¥„½AT¤¸4(4(ŒŒ…É„·…ÌË…Á¥‘„4(´€¨©…£¤±½…°¥™É…‘„€¡AA$¤¨¨‘”…‘„™Õ•¹Ñ”€¡€•1½…±ÁÁ…Ñ„•q5…¥Í]¥¹‘½ÝÍ9…Ñ¥Ù•q…¡•€¤è…°…‰É¥È±„…ÁÀ•°4(€…Ó…±½¼…Á…É•”…°¥¹ÍÑ…¹Ñ”äÍ½±¼Í”ÙÕ•±Ù”„‘•Í…É…È±¼ÅÕ”Ñ¥•¹”·…Ì‘”€Ø¡½É…Ì¸4(€€‰ÑÕ…±¥é…È™Õ•¹Ñ•Ìˆ™Õ•Éé„±„‘•Í…É„€¡¥¹±Õå”Á•³µÕ±…Ì½Í•É¥•Ìå„…É…‘…Ì¤¸4(´Q½‘…Ì±…Ì™Õ•¹Ñ•ÌÍ”‘•Í…É…¸€¨©•¸Á…É…±•±¼¨¨ì…Ñ•½Ëµ…ÌäÍÑÉ•…µÌ‘”aÑÉ•…´Í”Á¥‘•¸„±„Ù•è¸4(´•Í…É„½¸½µÁÉ•Í§Í¸€¡é¥À½‰É½Ñ±¤¤ä±•ÑÕÉ„•¸€©ÍÑÉ•…µ¥¹œ¨€¡4ÍT³µ¹•„„³µ¹•„°)M=8‘¥É•Ñ¼‘•°Í½­•Ð¤¸4(´Q½‘¼•°Á…ÉÍ•¼½ÕÉÉ”•¸¡¥±½Ì‘”ÑÉ…‰…©¼°¹¼•¸•°¡¥±¼‘”±„¥¹Ñ•É™…è¸4(´½Õ¹ÑÉåI•Í½±Ù•É€å„¹¼É•„øØÀ•áÁÉ•Í¥½¹•ÌÉ•Õ±…É•ÌÁ½È…¹…°€¡•É„•°µ…å½ÈÕ•±±¼‘”‰½Ñ•±±„¤¸4(´1¥‰Y1Í”¥¹¥¥…±¥é„•¸Í•Õ¹‘¼Á±…¹¼‘•ÍÁ×¥Ì‘”µ½ÍÑÉ…È±„Ù•¹Ñ…¹„€¡…¹Ñ•Ì‰±½ÅÕ•…‰„•°…ÉÉ…¹ÅÕ”¤¸4(´×µ„a51QX±—µ‘„•¸€©ÍÑÉ•…µ¥¹œ¨•¸Õ¸¡¥±¼…Á…ÉÑ”°½¸Á…ÉÍ•¼‘”™•¡…ÌÍ¥¸QÉåA…ÉÍ•á…Ñ€¸4(´AÕ‰±¥…§Í¸½¸€¨©I•…‘åQ½IÕ¸¨¨€¡µ•¹½Ì)%P…°¥¹¥¥…È¤¸I•ÅÕ¥•É”¥¹Ñ•É¹•Ð±„ÁÉ¥µ•É„Ù•èÅÕ”Í”ÁÕ‰±¥„¸4(4(ŒŒ7…Ì™±Õ¥‘•è4(´°…Ó…±½¼Í”½É‘•¹„Õ¹„Í½±„Ù•èÁ½ÈÍ•§Í¸€¡…¹Ñ•ÌÍ”É•½É‘•¹…‰„…°¥¹Í•ÉÑ…È…‘„•±•µ•¹Ñ¼¤¸4(´U¹„Í½±„É•½¹ÍÑÉÕ§Í¸‘”±„±¥ÍÑ„Á½È…§Í¸€¡…¹Ñ•Ì¡…ÍÑ„€Ô…°…µ‰¥…È‘”Í•§Í¸¤¸4(´éÍÅÕ•‘„½¸Á•ÅÕ—Å„•ÍÁ•É„€ ÄàÀµÌ¤Á…É„¹¼™¥±ÑÉ…È•¸…‘„Ñ•±„¸4(´½Õ¹ÑÉåÉ½ÕÁ€Í”…±Õ±„Õ¹„Ù•èÁ½È•±•µ•¹Ñ¼¸4(´5¥¹¥…ÑÕÉ…Ì‘•½‘¥™¥…‘…Ì„Ñ…µ‡Å¼‘”Ñ…É©•Ñ„äÍ¥¸•á•Á¥½¹•ÌÁ½È±½½ÌÙ…µ½Ì…°¡…•ÈÍÉ½±°¸4(´Õ…É‘…‘¼‘”™…Ù½É¥Ñ½Ì½¡¥ÍÑ½É¥…°•¸Í•Õ¹‘¼Á±…¹¼€¡å„¹¼½¹•±„…°É•ÁÉ½‘Õ¥È¤¸4(´½±„‘”É•ÁÉ½‘Õ§Í¸Í¥¸½Á¥…È±„±¥ÍÑ„ì¥¹‘¥…‘½È‘”‰Õ™™•É¥¹œÍ¥¸Í…ÑÕÉ…È±„¥¹Ñ•É™…è¸4(´ƒ5¹‘¥”A½¹ÍÑÉÕ¥‘¼Õ¹„Ù•èÁ½È×µ„¥µÁ½ÉÑ…‘„¸4(4(ŒŒY•É¥™¥…§Í¸Á•¹‘¥•¹Ñ”4)ÍÑ”Á…ÅÕ•Ñ”Í”•‘¥ÓÌÍ¥¸M,‘”€¹9P‘¥ÍÁ½¹¥‰±”è½µÃµ±…±¼•¸]¥¹‘½ÝÌ€¡‘½Ñ¹•Ð‰Õ¥±€µŒI•±•…Í•€¤äÁÉÕ•‰„…¹Ñ•Ì‘”ÕÍ…É±¼¸4(4(Œ×µ„‘”…¹…±•Ì‘•¹ÑÉ¼‘•°É•ÁÉ½‘ÕÑ½È4(´‰É¥È½•ÉÉ…Èè‰½ÓÍ¸€¨«ŠbÀ×µ„¨¨‘”±„‰…ÉÉ„‘”½¹ÑÉ½±•Ì°¼±…ÌÑ•±…Ì€¨©€¼¹Ñ•È€¼Q…ˆ¨¨•¸•°É•ÁÉ½‘ÕÑ½È¸4(´¥±ÑÉ½ÌèÑ¥Á¼€¡Q½‘¼°QX•¸Ù¥Ù¼°A•³µÕ±…Ì°M•É¥•Ì¤äÁ‡µÏ
-Ý…Ñ•½Ëµ„ì‹éÍÅÕ•‘„¥¹ÍÑ…¹Ó…¹•„€¡‰…ÍÑ„½¸•µÁ•é…È„•ÍÉ¥‰¥È¤¸4(´9…Ù•…§Í¸èƒŠGŠLÁ…É„µ½Ù•ÉÍ”°€¨©¹Ñ•È¨¨¼‘½‰±”±¥ŒÁ…É„É•ÁÉ½‘Õ¥È°€¨©ÍŒ¨¨Á…É„•ÉÉ…È°ÑÉ°­Á…É„‰ÕÍ…È¸4(´°•±•µ•¹Ñ¼•¸É•ÁÉ½‘Õ§Í¸…Á…É•”µ…É…‘¼½µ¼!=Iì½¸±„×µ„…‰¥•ÉÑ„Í”ÁÕ•‘”…µ‰¥…È‘”…¹…°Í¥¸Á•É‘•È•°™½¼¸4(´½¸Õ¹„×µ„a51QX¥µÁ½ÉÑ…‘„°…‘„…¹…°µÕ•ÍÑÉ„•°ÁÉ½É…µ„…ÑÕ…°ä•°Í¥Õ¥•¹Ñ”¸4(´ ƒŠ"H€¼ €¬äI”C…œ€¼ØC…œÉ•½ÉÉ•¸±„±¥ÍÑ„ÅÕ”•ÍÓ¥ÌÙ¥•¹‘¼•¸±„×µ„¸4(4(Œ×µ„Í¥¹É½¹¥é…‘„½¸±„‰…ÉÉ„™±½Ñ…¹Ñ”4(´1„×µ„…Á…É•”äÍ”½Õ±Ñ„€¨©•¸•°µ¥Íµ¼¥¹ÍÑ…¹Ñ”¨¨ÅÕ”±„‰…ÉÉ„‘”½¹ÑÉ½±•Ì€¡•°É•ÁÉ½‘ÕÑ½È…Ù¥Í„½¸•°•Ù•¹Ñ¼½»m»¶‰žËkºwµçQ…¹„ÁÉ¥¹¥Á…°¤äËµ±¥¼€¡‰…ÉÉ„°×µ„ä‘§…±½½Ì¤°½¸•ÍÅÕ¥¹…ÌÉ•‘½¹‘•…‘…Ìä‰…ÉÉ„‘”ÓµÑÕ±¼½ÍÕÉ„¸4(€€´]¥¹‘½ÝÌ€ÄÀ€¼€ÄÄ…¹Ñ¥Õ¼è…Ëµ±¥¼³…Í¥¼•¸‰…ÉÉ„ä×µ„ì•°É•ÍÑ¼ÕÍ„±½Ì½±½É•Ì½Á…½Ì½É¥¥¹…±•Ì¸4(€€´½¸€‰™•Ñ½Ì‘”ÑÉ…¹ÍÁ…É•¹¥„ˆ‘•Í…Ñ¥Ù…‘½Ì•¸]¥¹‘½ÝÌ°¼Í¤…±¼™…±±„°…‘„Ù•¹Ñ…¹„ÕÍ„ÍÕÌ½±½É•Ì½Á…½Ìè¹Õ¹„ÅÕ•‘„ÑÉ…¹ÍÁ…É•¹Ñ”¸4(´1„‰…ÉÉ„ä±„×µ„å„¹¼ÕÍ…¸±±½ÝÍQÉ…¹ÍÁ…É•¹å€€¡Ù•¹Ñ…¹„•¸…Á…Ì°ÅÕ”¹¼…‘µ¥Ñ”‰±ÕÈ¤èÕÍ…¸]¥¹‘½Ý¡É½µ•€€¬]4¸4(´ÍÑÉÕÑÕÉ„èQ¡•µ•Ì½±…ÍÌ¹á…µ±€€¡ÍÕÁ•É™¥¥•Ì°‰½É‘•Ì°•ÍÑ¥±½Ì‘”Ù•¹Ñ…¹„¤äQ¡•µ•Ì½½¹ÑÉ½±Ì¹á…µ±€€¡‰½Ñ½¹•Ì‘”¹…Ù•…§Í¸äÃµ±‘½É„¤Í”…É…¸‘•Í‘”ÁÀ¹á…µ±€¸4(´É½ÕÁ9…µ•¥…±½€…¡½É„ÕÍ„±„µ¥Íµ„Á…±•Ñ„µ½É…‘„ÅÕ”•°É•ÍÑ¼€¡…¹Ñ•ÌÑ•»µ„…éÕ±•ÌÍÕ•±Ñ½Ì¤¸4(4(Œ1¥ÍÑ…ÌÃé‰±¥…Ì¥¹±Õ¥‘…Ìä…É„¥¹¥¥…°½ÁÑ¥µ¥é…‘„4(´°ÁÉ¥µ•È¥¹¥¥¼…Ñ¥Ù„Í½±¼€Ô™Õ•¹Ñ•Ìè‘½Ì±¥ÍÑ…Ì•¹•É…±•Ì‘”QXäÑÉ•Ì…Ó…±½½Ì‘”Á•³µÕ±…Ì½Í•É¥•Ì…‰¥•ÉÑ…Ì¸1…Ì€äÀ±¥ÍÑ…ÌÉ•¥½¹…±•Ìä‘”…Ñ•½Ëµ„‘ÕÁ±¥…‘…Ì‘•©…¸‘”‘•Í…É…ÉÍ”…ÕÑ½·…Ñ¥…µ•¹Ñ”ì•¸¥¹ÍÑ…±…¥½¹•Ì•á¥ÍÑ•¹Ñ•ÌÅÕ•‘…¸‘¥ÍÁ½¹¥‰±•ÌÁ…É„Ù½±Ù•È„…Ñ¥Ù…È‘•Í‘”€ý‘µ¥¹¥ÍÑÉ…È™Õ•¹Ñ•Ìü¸4(´É¡¥Ù”]…Ñ ÁÕ‰±¥„Õ¸™••‘¥»…µ¥¼äÍ”É•™É•Í„…°…‰É¥È±„…ÁÀÕ…¹‘¼±„…£¤ÍÕÁ•É„€Ø¡½É…ÌìÑ…µ‰§¥¸Í”ÁÕ•‘”…ÑÕ…±¥é…È½¸€ýÑÕ…±¥é…È™Õ•¹Ñ•Ìü¸4(´1…Ì™Õ•¹Ñ•ÌÍ”Õ…É‘…¸½¸±„…£¤¥™É…‘„¸1½Ì…Ó…±½½ÌÉ•Á•Ñ¥‘½ÌÍ”‘•‘ÕÁ±¥…¸Á½ÈUI0¸4(´1…Ì±¥ÍÑ…Ì4ÍTÁÕ•‘•¸•ÍÑ…ÈÙ…µ…Ì±•ŸµÑ¥µ…µ•¹Ñ”èÍ”Õ…É‘„Ñ…µ‰§¥¸•Í”É•ÍÕ±Ñ…‘¼Á…É„¹¼É•Á•Ñ¥È±„µ¥Íµ„‘•Í…É„•¸…‘„¥¹¥¥¼¸4(4(ŒA•³µÕ±…ÌäÍ•É¥•Ì•¸±¥ÍÑ…Ì4ÍT€¡¥Õ…°ÅÕ”½¸aÑÉ•…´¤4(´¹Ñ•ÌèÑ½‘„•¹ÑÉ…‘„‘”Õ¹„±¥ÍÑ„4ÍTÍ”ÑÉ…Ñ…‰„½µ¼QX•¸Ù¥Ù¼°ä±½Ì‰½Ñ½¹•ÌA•³µÕ±…Ì½M•É¥•ÌÍ½±¼™Õ¹¥½¹…‰…¸½¸aÑÉ•…´¸4(´¡½É„M•ÉÙ¥•Ì½5•‘¥…-¥¹‘±…ÍÍ¥™¥•È¹Í€±…Í¥™¥„…‘„•¹ÑÉ…‘„4ÍTè4(€€´‘¥É•¥½¹•ÌÑ¥Á¼aÑÉ•…´ƒŠ˜½µ½Ù¥”½ÕÍÕ…É¥¼½±…Ù”¼ÄÈÌ¹µÀÑ€ƒŠH€¨©Á•³µÕ±„¨¨ìƒŠ˜½Í•É¥•Ì¿Š™€ƒŠH€¨©•Á¥Í½‘¥¼¨¨ì4(€€´…É¡¥Ù½Ì‘”Ûµ‘•¼€¡€¹µÀÐ€¹µ­Ø€¹…Ù¤€¹µ½Ø€¹ÝµØ€¹™±Ø€¹Ý•‰´€¹´ÑØ€¹µÁœ€¹µÁ•€¤ƒŠH€¨©Á•³µÕ±„¨¨ì4(€€´ÓµÑÕ±½Ì½¸LÀÅÀÉ€°LÄÉ€°PÅÉ€¼€ÅàÀÉ€ƒŠH€¨©•Á¥Í½‘¥¼¨¨‘”•Í„Í•É¥”ì4(€€´Ñ½‘¼±¼‘•·…Ì€¡€¹´ÍÔá€°€¹ÑÍ€°Í¥¸•áÑ•¹Í§Í¸¤Í¥Õ”Í¥•¹‘¼€¨©QX•¸Ù¥Ù¼¨¨¸4(´1½Ì•Á¥Í½‘¥½Ì‘”Õ¹„µ¥Íµ„Í•É¥”Í”…ÉÕÁ…¸•¸Õ¹„•¹ÑÉ…‘„€¨©M•É¥”¨¨ì…°…‰É¥É±„Í…±”±„±¥ÍÑ„‘”•Á¥Í½‘¥½Ì€¡Á½ÈÑ•µÁ½É…‘„ä»éµ•É¼¤°¥Õ…°ÅÕ”½¸aÑÉ•…´¸1½Ì•Á¥Í½‘¥½ÌÍÕ•±Ñ½Ì¹¼Í”±¥ÍÑ…¸Á½ÈÍ•Á…É…‘¼¸4(´€¨©A•³µÕ±…Ì¨¨ä€¨©M•É¥•Ì¨¨‘•°µ•»è…É…¸…¡½É„4ÍTäaÑÉ•…´©Õ¹Ñ½ÌìÍ½±¼…Ù¥Í…¸Í¤¹¥¹Õ¹„™Õ•¹Ñ”…Ñ¥Ù„ÑÉ…”•Í”Ñ¥Á¼¸4(´1„×µ„‘•°É•ÁÉ½‘ÕÑ½ÈÑ…µ‰§¥¸™¥±ÑÉ„Á½ÈA•³µÕ±…ÌäM•É¥•Ì‘”±¥ÍÑ…Ì4ÍT¸4(´1…Ì±¥ÍÑ…ÌÃé‰±¥…Ì‘”¥ÁÑØµ½Éœƒ
-­A•³µÕ±…Ï
-ìäƒ
-­M•É¥•Ï
-ìÍ½¸…¹…±•Ì€ÈÐ¼Ü•¸‘¥É•Ñ¼€¡€¹´ÍÔá€¤°…Ï´ÅÕ”Í¥Õ•¸•¸QX•¸Ù¥Ù¼ì¹¼Í½¸Ûµ‘•½Ì‰…©¼‘•µ…¹‘„¸4(´1…Ì½Á¥…ÌÕ…É‘…‘…Ì…¹Ñ•Ì‘”•ÍÑ”…µ‰¥¼Í”¥¹½É…¸Õ¹„Ù•è€¡Í”ÙÕ•±Ù•¸„‘•Í…É…È¤Á…É„É•±…Í¥™¥…É±…Ì¸4(´AÉÕ•‰„Ë…Á¥‘„è©•µÁ±½Ì½ÁÉÕ•‰„µÁ•±¥Õ±…ÌµÍ•É¥•Ì¹´ÍÕ€€¡‘¥É•¥½¹•Ì‘”•©•µÁ±¼°¹¼É•ÁÉ½‘Õ•¸¤ƒŠHƒ
-­Å…‘¥È…É¡¥Ù¼4ÍW
-ìäµ¥É„A•³µÕ±…Ì½M•É¥•Ì¸4
+# OptimizaciÃ³n de rendimiento (sobre MagisTV Logo/Tema v5)
+
+La interfaz grÃ¡fica NO cambia: mismos XAML, colores, tamaÃ±os y textos. El Ãºnico cambio en XAML es que
+la imagen de cada tarjeta se enlaza mediante `ThumbnailConverter` (mismo aspecto, menos memoria/CPU).
+
+## Carga mÃ¡s rÃ¡pida
+- **CachÃ© local cifrada (DPAPI)** de cada fuente (`%LocalAppData%\MagisWindowsNative\cache`): al abrir la app el
+  catÃ¡logo aparece al instante y solo se vuelve a descargar lo que tiene mÃ¡s de 6 horas.
+  "Actualizar fuentes" fuerza la descarga (incluye pelÃ­culas/series ya cargadas).
+- Todas las fuentes se descargan **en paralelo**; categorÃ­as y streams de Xtream se piden a la vez.
+- Descarga con compresiÃ³n (gzip/brotli) y lectura en *streaming* (M3U lÃ­nea a lÃ­nea, JSON directo del socket).
+- Todo el parseo ocurre en hilos de trabajo, no en el hilo de la interfaz.
+- `CountryResolver` ya no crea ~60 expresiones regulares por canal (era el mayor cuello de botella).
+- LibVLC se inicializa en segundo plano despuÃ©s de mostrar la ventana (antes bloqueaba el arranque).
+- GuÃ­a XMLTV leÃ­da en *streaming* en un hilo aparte, con parseo de fechas sin `TryParseExact`.
+- PublicaciÃ³n con **ReadyToRun** (menos JIT al iniciar). Requiere internet la primera vez que se publica.
+
+## MÃ¡s fluidez
+- El catÃ¡logo se ordena una sola vez por secciÃ³n (antes se reordenaba al insertar cada elemento).
+- Una sola reconstrucciÃ³n de la lista por acciÃ³n (antes hasta 5 al cambiar de secciÃ³n).
+- BÃºsqueda con pequeÃ±a espera (180 ms) para no filtrar en cada tecla.
+- `CountryGroup` se calcula una vez por elemento.
+- Miniaturas decodificadas a tamaÃ±o de tarjeta y sin excepciones por logos vacÃ­os al hacer scroll.
+- Guardado de favoritos/historial en segundo plano (ya no congela al reproducir).
+- Cola de reproducciÃ³n sin copiar la lista; indicador de buffering sin saturar la interfaz.
+- Ãndice EPG construido una vez por guÃ­a importada.
+
+## VerificaciÃ³n pendiente
+Este paquete se editÃ³ sin SDK de .NET disponible: compÃ­lalo en Windows (`dotnet build -c Release`) y prueba antes de usarlo.
+
+# GuÃ­a de canales dentro del reproductor
+- Abrir/cerrar: botÃ³n **â˜° GuÃ­a** de la barra de controles, o las teclas **G / Enter / Tab** en el reproductor.
+- Filtros: tipo (Todo, TV en vivo, PelÃ­culas, Series) y paÃ­sÂ·categorÃ­a; bÃºsqueda instantÃ¡nea (basta con empezar a escribir).
+- NavegaciÃ³n: â†‘â†“ para moverse, **Enter** o doble clic para reproducir, **Esc** para cerrar, Ctrl+F para buscar.
+- El elemento en reproducciÃ³n aparece marcado como AHORA; con la guÃ­a abierta se puede cambiar de canal sin perder el foco.
+- Con una guÃ­a XMLTV importada, cada canal muestra el programa actual y el siguiente.
+- CH âˆ’ / CH + y Re PÃ¡g / Av PÃ¡g recorren la lista que estÃ©s viendo en la guÃ­a.
+
+# GuÃ­a sincronizada con la barra flotante
+- La guÃ­a aparece y se oculta **en el mismo instante** que la barra de controles (el reproductor avisa con el evento `ControlsVisibilityChanged`).
+- Mientras se usa la guÃ­a (ratÃ³n, teclado, rueda) la barra se mantiene visible; al quedar inactivo, ambas se ocultan juntas.
+- Si la guÃ­a estaba abierta y se ocultÃ³ con la barra, vuelve con ella al mover el ratÃ³n o pulsar una tecla; **G / Enter / Tab** la recuperan o la cierran.
+- Reaparece sin quitar el teclado al reproductor (`ShowActivated="False"`).
+
+# Efecto cristal (liquid glass / blur)
+- Mismos colores de siempre: solo cambia la opacidad. Cada color tiene su par opaco `*.Solid` en `Themes/Glass.xaml`.
+- `Services/Glass.cs` aplica el material del sistema (propiedad adjunta `svc:Glass.Backdrop`):
+  - Windows 11 22H2+: Mica (ventana principal) y AcrÃ­lico (barra, guÃ­a y diÃ¡logos), con esquinas redondeadas y barra de tÃ­tulo oscura.
+  - Windows 10 / 11 antiguo: acrÃ­lico clÃ¡sico en barra y guÃ­a; el resto usa los colores opacos originales.
+  - Con "Efectos de transparencia" desactivados en Windows, o si algo falla, cada ventana usa sus colores opacos: nunca queda transparente.
+- La barra y la guÃ­a ya no usan `AllowsTransparency` (ventana en capas, que no admite blur): usan `WindowChrome` + DWM.
+- Estructura: `Themes/Glass.xaml` (superficies, bordes, estilos de ventana) y `Themes/Controls.xaml` (botones de navegaciÃ³n y pÃ­ldora) se cargan desde `App.xaml`.
+- `GroupNameDialog` ahora usa la misma paleta morada que el resto (antes tenÃ­a azules sueltos).
+
+# Listas pÃºblicas incluidas y carga inicial optimizada
+- El primer inicio activa solo 5 fuentes: dos listas generales de TV y tres catÃ¡logos de pelÃ­culas/series abiertas. Las 90 listas regionales y de categorÃ­a duplicadas dejan de descargarse automÃ¡ticamente; en instalaciones existentes quedan disponibles para volver a activar desde ?Administrar fuentes?.
+- Archive Watch publica un feed dinÃ¡mico y se refresca al abrir la app cuando la cachÃ© supera 6 horas; tambiÃ©n se puede actualizar con ?Actualizar fuentes?.
+- Las fuentes se guardan con la cachÃ© cifrada. Los catÃ¡logos repetidos se deduplican por URL.
+- Las listas M3U pueden estar vacÃ­as legÃ­timamente: se guarda tambiÃ©n ese resultado para no repetir la misma descarga en cada inicio.
+
+# PelÃ­culas y series en listas M3U (igual que con Xtream)
+- Antes: toda entrada de una lista M3U se trataba como TV en vivo, y los botones PelÃ­culas/Series solo funcionaban con Xtream.
+- Ahora `Services/MediaKindClassifier.cs` clasifica cada entrada M3U:
+  - direcciones tipo Xtream `â€¦/movie/usuario/clave/123.mp4` â†’ **pelÃ­cula**; `â€¦/series/â€¦` â†’ **episodio**;
+  - archivos de vÃ­deo (`.mp4 .mkv .avi .mov .wmv .flv .webm .m4v .mpg .mpeg`) â†’ **pelÃ­cula**;
+  - tÃ­tulos con `S01E02`, `S1 E2`, `T1E2` o `1x02` â†’ **episodio** de esa serie;
+  - todo lo demÃ¡s (`.m3u8`, `.ts`, sin extensiÃ³n) sigue siendo **TV en vivo**.
+- Los episodios de una misma serie se agrupan en una entrada **Serie**; al abrirla sale la lista de episodios (por temporada y nÃºmero), igual que con Xtream. Los episodios sueltos no se listan por separado.
+- **PelÃ­culas** y **Series** del menÃº cargan ahora M3U y Xtream juntos; solo avisan si ninguna fuente activa trae ese tipo.
+- La guÃ­a del reproductor tambiÃ©n filtra por PelÃ­culas y Series de listas M3U.
+- Las listas pÃºblicas de iptv-org Â«PelÃ­culasÂ» y Â«SeriesÂ» son canales 24/7 en directo (`.m3u8`), asÃ­ que siguen en TV en vivo; no son vÃ­deos bajo demanda.
+- Las copias guardadas antes de este cambio se ignoran una vez (se vuelven a descargar) para reclasificarlas.
+- Prueba rÃ¡pida: `Ejemplos/prueba-peliculas-series.m3u` (direcciones de ejemplo, no reproducen) â†’ Â«AÃ±adir archivo M3UÂ» y mira PelÃ­culas/Series.

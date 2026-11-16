@@ -1,1 +1,210 @@
-Y™Áäx-ÆÈ‹j◊ù¢Îi∫⁄+äßj[hëÈ‹¢ÈÌﬂé¥NãZñã≠¶Îeäw¨’’Õ•πúÅMÂÕ—ï¥π9ï–Ï)’Õ•πúÅMÂÕ—ï¥π9ï–π!——¿Ï)’Õ•πúÅMÂÕ—ï¥πQï·–π)ÕΩ∏Ï)’Õ•πúÅMÂÕ—ï¥πQ°…ïÖë•πúÏ)’Õ•πúÅ5Öù•Õ]•πëΩ›Õ9Ö—•Ÿîπ5Ωëï±ÃÏ()πÖµïÕ¡ÖçîÅ5Öù•Õ]•πëΩ›Õ9Ö—•ŸîπMï…Ÿ•çïÃÏ()¡’â±•åÅÕïÖ±ïêÅç±ÖÕÃÅa—…ïÖµ±•ïπ–ÄËÅ%•Õ¡ΩÕÖâ±î)Ï(ÄÄÄÄººÅΩµ¡…ïÕÕïêÅ—…ÖπÕôï…ÃÄ°ùÈ•¿Ωëïô±Ö—îΩâ…Ω—±§§ÅÕ°…•π¨Åâ•úÅçÖ—Ö±ΩúÅ…ïÕ¡ΩπÕïÃÅÑÅ±Ω–∏(ÄÄÄÄººÅQ°îÄ»‘ÅÃÅ—•µïΩ’–ÅÖ¡¡±•ïÃÅ’π—•∞Å—°îÅ…ïÕ¡ΩπÕîÅ°ïÖëï…ÃÅÖ……•ŸîÏÅ—°îÅâΩë‰Å•Ã(ÄÄÄÄººÅÕ—…ïÖµïêÅ•π—ºÅ—°îÅ)M=8Å¡Ö…Õï»ÅÖπêÅçÖ¡¡ïêÅÕï¡Ö…Ö—ï±‰Å•∏Åï—)ÕΩπΩçÕÂπå∏(ÄÄÄÅ¡…•ŸÖ—îÅ…ïÖëΩπ±‰Å!——¡±•ïπ–Å}°——¿ÄÙÅπï‹°πï‹ÅMΩç≠ï—Õ!——¡!Öπë±ï»(ÄÄÄÅÏ(ÄÄÄÄÄÄÄÅ’—ΩµÖ—•çïçΩµ¡…ïÕÕ•Ω∏ÄÙÅïçΩµ¡…ïÕÕ•Ωπ5ï—°ΩëÃπ±∞∞(ÄÄÄÄÄÄÄÅAΩΩ±ïëΩππïç—•Ωπ1•ôï—•µîÄÙÅQ•µïM¡Ö∏π…Ωµ5•π’—ïÃ†‘§∞(ÄÄÄÄÄÄÄÅΩππïç—Q•µïΩ’–ÄÙÅQ•µïM¡Ö∏π…ΩµMïçΩπëÃ†ƒ‘§(ÄÄÄÅÙ§ÅÏÅQ•µïΩ’–ÄÙÅQ•µïM¡Ö∏π…ΩµMïçΩπëÃ†»‘§ÅÙÏ((ÄÄÄÅ¡…•ŸÖ—îÅÕ—Ö—•åÅ…ïÖëΩπ±‰ÅQ•µïM¡Ö∏Å	ΩëÂQ•µïΩ’–ÄÙÅQ•µïM¡Ö∏π…ΩµMïçΩπëÃ†ƒ»¿§Ï(ÄÄÄÅ¡…•ŸÖ—îÅÕ—…•πúÅ}âÖÕîÄÙÄàà∞Å}’Õï»ÄÙÄàà∞Å}¡ÖÕÃÄÙÄààÏ(ÄÄÄÅ¡’â±•åÅâΩΩ∞Å%ÕΩππïç—ïêÅÏÅùï–ÏÅ¡…•ŸÖ—îÅÕï–ÏÅÙ(ÄÄÄÅ¡…•ŸÖ—îÅÕ—…•πúÅMΩ’…çï!ΩÕ–ÄÙ¯ÅU…§πQ…Â…ïÖ—î°}âÖÕî∞ÅU…•-•πêπâÕΩ±’—î∞ÅΩ’–ÅŸÖ»Å¡Ö…Õïê§Ä¸Å¡Ö…Õïêπ!ΩÕ–ÄËÄâa—…ïÖ¥àÏ((ÄÄÄÅ¡’â±•åÅÖÕÂπåÅQÖÕ¨ÅΩππïç—ÕÂπå°Õ—…•πúÅ°ΩÕ–∞ÅÕ—…•πúÅ’Õï…πÖµî∞ÅÕ—…•πúÅ¡ÖÕÕ›Ω…ê∞ÅÖπçï±±Ö—•ΩπQΩ≠ï∏Åç–ÄÙÅëïôÖ’±–§(ÄÄÄÅÏ(ÄÄÄÄÄÄÄÅ•òÄ†ÖU…§πQ…Â…ïÖ—î°°ΩÕ–πQ…•¥†§πQ…•µπê†úºú§∞ÅU…•-•πêπâÕΩ±’—î∞ÅΩ’–ÅŸÖ»Å’…§§ÅÒ(ÄÄÄÄÄÄÄÄÄÄÄÄ°’…§πMç°ïµîÄÑÙÄâ°——¿àÄòòÅ’…§πMç°ïµîÄÑÙÄâ°——¡Ãà§§(ÄÄÄÄÄÄÄÄÄÄÄÅ—°…Ω‹Åπï‹Å…ù’µïπ—·çï¡—•Ω∏†â∞ÅÕï…Ÿ•ëΩ»ÅëïâîÅÕï»Å’πÑÅë•…ïççßÕ∏Å°——¿ËººÅºÅ°——¡ÃËººÅ€Ö±•ëÑ∏à§Ï((ÄÄÄÄÄÄÄÅ}âÖÕîÄÙÅ’…§πQΩM—…•πú†§πQ…•µπê†úºú§Ï(ÄÄÄÄÄÄÄÅ}’Õï»ÄÙÅ’Õï…πÖµîπQ…•¥†§Ï(ÄÄÄÄÄÄÄÅ}¡ÖÕÃÄÙÅ¡ÖÕÕ›Ω…êÏ(ÄÄÄÄÄÄÄÅ%ÕΩππïç—ïêÄÙÅôÖ±ÕîÏ(ÄÄÄÄÄÄÄÅ’Õ•πúÅŸÖ»ÅëΩåÄÙÅÖ›Ö•–Åï—)ÕΩπΩçÕÂπå†â¡±ÖÂï…}Ö¡§π¡°¿à∞Åπ’±∞∞Åç–§πΩπô•ù’…ï›Ö•–°ôÖ±Õî§Ï(ÄÄÄÄÄÄÄÅŸÖ»Å©ÕΩ∏ÄÙÅëΩåπIΩΩ—±ïµïπ–Ï(ÄÄÄÄÄÄÄÅŸÖ»Å’Õï…%πôºÄÙÅ©ÕΩ∏πQ…Âï—A…Ω¡ï…—‰†â’Õï…}•πôºà∞ÅΩ’–ÅŸÖ»Å•πôº§Ä¸Å•πôºÄËÅëïôÖ’±–Ï(ÄÄÄÄÄÄÄÅ•òÄ°’Õï…%πôºπYÖ±’ï-•πêÄÙÙÅ)ÕΩπYÖ±’ï-•πêπUπëïô•πïêÅÒ(ÄÄÄÄÄÄÄÄÄÄÄÄ°’Õï…%πôºπQ…Âï—A…Ω¡ï…—‰†âÖ’—†à∞ÅΩ’–ÅŸÖ»ÅÖ’—†§ÄòòÅÖ’—†πQΩM—…•πú†§ÄÙÙÄà¿à§§(ÄÄÄÄÄÄÄÄÄÄÄÅ—°…Ω‹Åπï‹Å%πŸÖ±•ë=¡ï…Ö—•Ωπ·çï¡—•Ω∏†â∞ÅÕï…Ÿ•ëΩ»ÅπºÅÖçï¡”ÃÅ±ÖÃÅç…ïëïπç•Ö±ïÃÅºÅπºÅëïŸΩ±ŸßÃÅ’Õï…}•πôº∏à§Ï((ÄÄÄÄÄÄÄÅ%ÕΩππïç—ïêÄÙÅ—…’îÏ(ÄÄÄÅÙ((ÄÄÄÅ¡’â±•åÅQÖÕ¨Ò1•Õ–Ò5ïë•Ö%—ï¥¯¯Åï—1•ŸïÕÂπå°Öπçï±±Ö—•ΩπQΩ≠ï∏Åç–ÄÙÅëïôÖ’±–§ÄÙ¯(ÄÄÄÄÄÄÄÅï—M—…ïÖµÕÕÂπå†âùï—}±•Ÿï}Õ—…ïÖµÃà∞Äâ1•Ÿîà∞Åç–§Ï((ÄÄÄÅ¡’â±•åÅQÖÕ¨Ò1•Õ–Ò5ïë•Ö%—ï¥¯¯Åï—5ΩŸ•ïÕÕÂπå°Öπçï±±Ö—•ΩπQΩ≠ï∏Åç–ÄÙÅëïôÖ’±–§ÄÙ¯(ÄÄÄÄÄÄÄÅï—M—…ïÖµÕÕÂπå†âùï—}ŸΩë}Õ—…ïÖµÃà∞Äâ5ΩŸ•îà∞Åç–§Ï((ÄÄÄÅ¡’â±•åÅQÖÕ¨Ò1•Õ–Ò5ïë•Ö%—ï¥¯¯Åï—Mï…•ïÕÕÂπå°Öπçï±±Ö—•ΩπQΩ≠ï∏Åç–ÄÙÅëïôÖ’±–§ÄÙ¯(ÄÄÄÄÄÄÄÅï—M—…ïÖµÕÕÂπå†âùï—}Õï…•ïÃà∞ÄâMï…•ïÃà∞Åç–§Ï(((ÄÄÄÅ¡’â±•åÅÖÕÂπåÅQÖÕ¨Ò1•Õ–ÒMï…•ïÕ¡•ÕΩëî¯¯Åï—Mï…•ïÕ¡•ÕΩëïÕÕÂπå°•π–ÅÕï…•ïÕ%ê∞ÅÖπçï±±Ö—•ΩπQΩ≠ï∏Åç–ÄÙÅëïôÖ’±–§(ÄÄÄÅÏ(ÄÄÄÄÄÄÄÅ•òÄ°Õ—…•πúπ%Õ9’±±=…]°•—ïM¡Öçî°}âÖÕî§ÅÒÅÕ—…•πúπ%Õ9’±±=…]°•—ïM¡Öçî°}’Õï»§§(ÄÄÄÄÄÄÄÄÄÄÄÅ—°…Ω‹Åπï‹Å%πŸÖ±•ë=¡ï…Ö—•Ωπ·çï¡—•Ω∏†âΩπïç—ÑÅ¡…•µï…ºÅ’∏ÅÕï…Ÿ•ëΩ»Åa—…ïÖ¥∏à§Ï((ÄÄÄÄÄÄÄÅ’Õ•πúÅŸÖ»ÅëΩåÄÙÅÖ›Ö•–Åï—)ÕΩπΩçÕÂπå†â¡±ÖÂï…}Ö¡§π¡°¿à∞Äêâùï—}Õï…•ïÕ}•πôºôÕï…•ïÕ}•êıÌÕï…•ïÕ%ëÙà∞Åç–§πΩπô•ù’…ï›Ö•–°ôÖ±Õî§Ï(ÄÄÄÄÄÄÄÅŸÖ»ÅëÖ—ÑÄÙÅëΩåπIΩΩ—±ïµïπ–Ï(ÄÄÄÄÄÄÄÅŸÖ»Åï¡•ÕΩëïÃÄÙÅπï‹Å1•Õ–ÒMï…•ïÕ¡•ÕΩëî¯†ß^:“⁄$z{-ÆÈ‹j◊ùGW&‚vóBvWD6FVv˜&ñW47ñÊ2Ü7Fñˆ‚¬7Bí‰6ˆÊfñwW&TvóBÜf«6Rì≤–¢6F6ÇÑ˜W&Fñˆ‰6Ê6V∆VDWÜ6WFñˆ‚ívÜV‚Ü7B‰ó46Ê6V∆∆FñˆÂ&WVW7FVBí≤Fá&˜s≤–¢6F6ÇÑWÜ6WFñˆ‚ê¢∞¢ÚÚ&˜fñFW'2FÜBFÚÊ˜BV&∆ó6Ç6FVv˜&ñW27Fñ∆¬∆ˆC≤óFV◊2f∆¬&6≤FÚ$6FVv˜,:÷‚"‡¢&WGW&‚ÊWrFñ7FñˆÊ'ì«7G&ñÊr¬7G&ñÊs‚Ö7G&ñÊt6ˆ◊&W"‰˜&FñÊƒñvÊ˜&T66Rì∞¢–¢–†¢&ófFR7ñÊ2F6≥ƒFñ7FñˆÊ'ì«7G&ñÊr¬7G&ñÊs„‚vWD6FVv˜&ñW47ñÊ2á7G&ñÊr7Fñˆ‚¬6Ê6V∆∆FñˆÂFˆ∂V‚7Bê¢∞¢f"&W7V«B“ÊWrFñ7FñˆÊ'ì«7G&ñÊr¬7G&ñÊs‚Ö7G&ñÊt6ˆ◊&W"‰˜&FñÊƒñvÊ˜&T66Rì∞¢W6ñÊrf"Fˆ2“vóBvWDß6ˆ‰Fˆ47ñÊ2Ç'∆ñW%ˆíÁá"¬7Fñˆ‚¬7Bí‰6ˆÊfñwW&TvóBÜf«6Rì∞¢f"FF“Fˆ2Â&ˆ˜DV∆V÷VÁC∞¢ñbÜFFÂf«VT∂ñÊB“ß6ˆÂf«VT∂ñÊB‰'&íí&WGW&‚&W7V«C∞¢f˜&V6Çáf"&˜rñ‚FF‰VÁV÷W&FT'&íÇíê¢∞¢f"ñB“7G"á&˜r¬&6FVv˜'ïˆñB"ì∞¢f"Ê÷R“7G"á&˜r¬&6FVv˜'ïˆÊ÷R"ì∞¢ñbÇ7G&ñÊr‰ó4ÁV∆ƒ˜%vÜóFU76RÜñBíbb7G&ñÊr‰ó4ÁV∆ƒ˜%vÜóFU76RÜÊ÷Ríê¢&W7V«E∂ñE““Ê÷S∞¢–¢&WGW&‚&W7V«C∞¢–†¢ÚÚFÜR6∆∆W"˜vÁ2ÜÊB◊W7BFó7˜6RíFÜR&WGW&ÊVBFˆ7V÷VÁB‚'6ñÊr7G&ñváBg&ˆ–¢ÚÚFÜR&W7ˆÁ6R7G&V“fˆñG2'VffW&ñÊrFÜRvÜˆ∆R&ˆGíÊB6∆ˆÊñÊrFÜRG&VR‡¢&ófFR7ñÊ2F6≥ƒß6ˆ‰Fˆ7V÷VÁC‚vWDß6ˆ‰Fˆ47ñÊ2á7G&ñÊrVÊGˆñÁB¬7G&ñÊsÚ7Fñˆ‚¬6Ê6V∆∆FñˆÂFˆ∂V‚7Bê¢∞¢ñbá7G&ñÊr‰ó4ÁV∆ƒ˜%vÜóFU76RÖˆ&6Rí«¬7G&ñÊr‰ó4ÁV∆ƒ˜%vÜóFU76RÖ˜W6W"íê¢Fá&˜rÊWrñÁf∆ñD˜W&Fñˆ‰WÜ6WFñˆ‚Ç$ÊÚÜíVÊ6ˆÊWÜú;6‚áG&V“7Fóf‚6&vVÊ∆ó7F”5R&ÊfVv"˜"7W26Ê∆W2Ú6ˆÊV7FV‚6W'fñF˜"áG&V“&66VFW"6W&ñW2íVÃ:÷7V∆2‚"ì∞†¢f"VW'í“B'W6W&Ê÷S◊µW&í‰W66TFF7G&ñÊrÖ˜W6W"ó“g77v˜&C◊µW&í‰W66TFF7G&ñÊrÖ˜72ó“#∞¢ñbÇ7G&ñÊr‰ó4ÁV∆ƒ˜%vÜóFU76RÜ7Fñˆ‚íê¢∞¢f"'G2“7Fñˆ‚Â7∆óBÇrbr¬"ì∞¢VW'í≥“"f7Fñˆ„“"≤W&í‰W66TFF7G&ñÊrá'G5≥“ì∞¢ñbá'G2‰∆VÊwFÇ”“"íVW'í≥“"b"≤'G5≥”∞¢–†¢W6ñÊrf"7G2“6Ê6V∆∆FñˆÂFˆ∂VÂ6˜W&6R‰7&VFT∆ñÊ∂VEFˆ∂VÂ6˜W&6RÜ7Bì∞¢7G2‰6Ê6VƒgFW"Ñ&ˆGïFñ÷V˜WBì∞¢W6ñÊrf"&W7ˆÁ6R“vóBˆáGG‰vWD7ñÊ2ÇB'µˆ&6W“˜∂VÊGˆñÁG”˜∑VW'ó“"¬áGG6ˆ◊∆WFñˆ‰˜Fñˆ‚Â&W7ˆÁ6TÜVFW'5&VB¬7G2ÂFˆ∂V‚í‰6ˆÊfñwW&TvóBÜf«6Rì∞¢&W7ˆÁ6R‰VÁ7W&U7V66W757FGW46ˆFRÇì∞¢vóBW6ñÊrf"7G&V““vóB&W7ˆÁ6R‰6ˆÁFVÁBÂ&VD57G&V‘7ñÊ2Ü7G2ÂFˆ∂V‚í‰6ˆÊfñwW&TvóBÜf«6Rì∞¢&WGW&‚vóBß6ˆ‰Fˆ7V÷VÁBÂ'6T7ñÊ2á7G&V“¬6Ê6V∆∆FñˆÂFˆ∂V„¢7G2ÂFˆ∂V‚í‰6ˆÊfñwW&TvóBÜf«6Rì∞¢–†¢&ófFR7FFñ27G&ñÊrW62á7G&ñÊr2í”‚W&í‰W66TFF7G&ñÊrá2ì∞¢&ófFR7FFñ27G&ñÊsÚ7G"Ñß6ˆ‰V∆V÷VÁBR¬7G&ñÊrÊ÷Rí”‡¢RÂf«VT∂ñÊB”“ß6ˆÂf«VT∂ñÊB‰ˆ&¶V7BbbRÂG'îvWE&˜W'GíÜÊ÷R¬˜WBf"bíbbbÂf«VT∂ñÊB“ß6ˆÂf«VT∂ñÊB‰ÁV∆¬ÚbÂFı7G&ñÊrÇí¢ÁV∆√∞¢&ófFR7FFñ2ñÁCÚñÁBÑß6ˆ‰V∆V÷VÁBR¬7G&ñÊrÊ÷Rí”‡¢ñÁBÂG'ï'6RÖ7G"ÜR¬Ê÷Rí¬˜WBf"‚íÚ‚¢ÁV∆√∞†¢V&∆ñ2fˆñBFó7˜6RÇí”‚ˆáGG‰Fó7˜6RÇì∞ß–†
+using System.Net;
+using System.Net.Http;
+using System.Text.Json;
+using System.Threading;
+using MagisWindowsNative.Models;
+
+namespace MagisWindowsNative.Services;
+
+public sealed class XtreamClient : IDisposable
+{
+    // Compressed transfers (gzip/deflate/brotli) shrink big catalog responses a lot.
+    // The 25 s timeout applies until the response headers arrive; the body is
+    // streamed into the JSON parser and capped separately in GetJsonDocAsync.
+    private readonly HttpClient _http = new(new SocketsHttpHandler
+    {
+        AutomaticDecompression = DecompressionMethods.All,
+        PooledConnectionLifetime = TimeSpan.FromMinutes(5),
+        ConnectTimeout = TimeSpan.FromSeconds(15)
+    }) { Timeout = TimeSpan.FromSeconds(25) };
+
+    private static readonly TimeSpan BodyTimeout = TimeSpan.FromSeconds(120);
+    private string _base = "", _user = "", _pass = "";
+    public bool IsConnected { get; private set; }
+    private string SourceHost => Uri.TryCreate(_base, UriKind.Absolute, out var parsed) ? parsed.Host : "Xtream";
+
+    public async Task ConnectAsync(string host, string username, string password, CancellationToken ct = default)
+    {
+        if (!Uri.TryCreate(host.Trim().TrimEnd('/'), UriKind.Absolute, out var uri) ||
+            (uri.Scheme != "http" && uri.Scheme != "https"))
+            throw new ArgumentException("El servidor debe ser una direcci√≥n http:// o https:// v√°lida.");
+
+        _base = uri.ToString().TrimEnd('/');
+        _user = username.Trim();
+        _pass = password;
+        IsConnected = false;
+        using var doc = await GetJsonDocAsync("player_api.php", null, ct).ConfigureAwait(false);
+        var json = doc.RootElement;
+        var userInfo = json.TryGetProperty("user_info", out var info) ? info : default;
+        if (userInfo.ValueKind == JsonValueKind.Undefined ||
+            (userInfo.TryGetProperty("auth", out var auth) && auth.ToString() == "0"))
+            throw new InvalidOperationException("El servidor no acept√≥ las credenciales o no devolvi√≥ user_info.");
+
+        IsConnected = true;
+    }
+
+    public Task<List<MediaItem>> GetLiveAsync(CancellationToken ct = default) =>
+        GetStreamsAsync("get_live_streams", "Live", ct);
+
+    public Task<List<MediaItem>> GetMoviesAsync(CancellationToken ct = default) =>
+        GetStreamsAsync("get_vod_streams", "Movie", ct);
+
+    public Task<List<MediaItem>> GetSeriesAsync(CancellationToken ct = default) =>
+        GetStreamsAsync("get_series", "Series", ct);
+
+
+    public async Task<List<SeriesEpisode>> GetSeriesEpisodesAsync(int seriesId, CancellationToken ct = default)
+    {
+        if (string.IsNullOrWhiteSpace(_base) || string.IsNullOrWhiteSpace(_user))
+            throw new InvalidOperationException("Conecta primero un servidor Xtream.");
+
+        using var doc = await GetJsonDocAsync("player_api.php", $"get_series_info&series_id={seriesId}", ct).ConfigureAwait(false);
+        var data = doc.RootElement;
+        var episodes = new List<SeriesEpisode>();
+        if (!data.TryGetProperty("episodes", out var seasons) || seasons.ValueKind != JsonValueKind.Object)
+            return episodes;
+
+        var user = Esc(_user);
+        var pass = Esc(_pass);
+        foreach (var season in seasons.EnumerateObject())
+        {
+            if (season.Value.ValueKind != JsonValueKind.Array) continue;
+            foreach (var ep in season.Value.EnumerateArray())
+            {
+                var id = Int(ep, "id") ?? Int(ep, "episode_id");
+                if (id is null) continue;
+                var ext = Str(ep, "container_extension") ?? "mp4";
+                var title = Str(ep, "title") ?? Str(ep, "name") ?? $"Episodio {Str(ep, "episode_num") ?? ""}";
+                var seasonNumber = Str(ep, "season") ?? season.Name;
+                var episodeNumber = Str(ep, "episode_num") ?? "";
+                episodes.Add(new SeriesEpisode {
+                    Title = title,
+                    Season = seasonNumber,
+                    EpisodeNumber = episodeNumber,
+                    Plot = Str(ep, "info") is { } info ? info : "",
+                    Duration = Str(ep, "duration") ?? "",
+                    Url = $"{_base}/series/{user}/{pass}/{id}.{Esc(ext)}"
+                });
+            }
+        }
+        return episodes.OrderBy(x => int.TryParse(x.Season, out var n) ? n : 0)
+            .ThenBy(x => int.TryParse(x.EpisodeNumber, out var n) ? n : 0).ToList();
+    }
+
+    private async Task<List<MediaItem>> GetStreamsAsync(string action, string kind, CancellationToken ct)
+    {
+        var categoryAction = kind switch
+        {
+            "Live" => "get_live_categories",
+            "Movie" => "get_vod_categories",
+            _ => "get_series_categories"
+        };
+
+        // Category names and the stream list are independent requests: fetch both at once.
+        var categoriesTask = GetCategoriesSafeAsync(categoryAction, ct);
+        using var data = await GetJsonDocAsync("player_api.php", action, ct).ConfigureAwait(false);
+        var categories = await categoriesTask.ConfigureAwait(false);
+
+        var root = data.RootElement;
+        if (root.ValueKind != JsonValueKind.Array) return new List<MediaItem>();
+
+        // JSON parsing and item creation happen on this worker continuation
+        // (ConfigureAwait(false)), never on the UI thread.
+        var list = new List<MediaItem>(root.GetArrayLength());
+        var user = Esc(_user);
+        var pass = Esc(_pass);
+        var host = SourceHost;
+        var endpoint = kind == "Live" ? "live" : kind == "Movie" ? "movie" : "series";
+        foreach (var row in root.EnumerateArray())
+        {
+            var id = Int(row, "stream_id") ?? Int(row, "series_id");
+            var name = Str(row, "name") ?? Str(row, "title") ?? $"Item {id}";
+            var ext = Str(row, "container_extension") ?? (kind == "Movie" ? "mp4" : "");
+            var suffix = kind == "Live" ? ".ts" :
+                (kind == "Movie" || kind == "Series") && !string.IsNullOrWhiteSpace(ext) ? "." + Esc(ext) : "";
+            var url = id is null ? "" : $"{_base}/{endpoint}/{user}/{pass}/{id}{suffix}";
+            var categoryIdValue = Str(row, "category_id");
+
+            string category;
+            var categoryNameValue = Str(row, "category_name");
+            if (categoryNameValue is not null) category = categoryNameValue;
+            else if (categoryIdValue is not null)
+                category = categories.TryGetValue(categoryIdValue, out var categoryName)
+                    ? categoryName : $"Categor√≠a {categoryIdValue}";
+            else
+            {
+                var inferredCountry = CountryResolver.Resolve(name);
+                category = inferredCountry != "Sin pa√≠s identificado" ? inferredCountry : "General";
+            }
+
+            list.Add(new MediaItem {
+                Name = name, Url = url, Kind = kind,
+                Category = category,
+                Country = CountryResolver.Resolve(category, name),
+                Source = host,
+                Logo = Str(row, "stream_icon") ?? Str(row, "cover") ?? "",
+                EpgId = Str(row, "epg_channel_id") ?? "",
+                StreamId = id, ContainerExtension = ext
+            });
+        }
+        return list;
+    }
+
+    private async Task<Dictionary<string, string>> GetCategoriesSafeAsync(string action, CancellationToken ct)
+    {
+        try { return await GetCategoriesAsync(action, ct).ConfigureAwait(false); }
+        catch (OperationCanceledException) when (ct.IsCancellationRequested) { throw; }
+        catch (Exception)
+        {
+            // Providers that do not publish categories still load; items fall back to "Categor√≠a N".
+            return new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase);
+        }
+    }
+
+    private async Task<Dictionary<string, string>> GetCategoriesAsync(string action, CancellationToken ct)
+    {
+        var result = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase);
+        using var doc = await GetJsonDocAsync("player_api.php", action, ct).ConfigureAwait(false);
+        var data = doc.RootElement;
+        if (data.ValueKind != JsonValueKind.Array) return result;
+        foreach (var row in data.EnumerateArray())
+        {
+            var id = Str(row, "category_id");
+            var name = Str(row, "category_name");
+            if (!string.IsNullOrWhiteSpace(id) && !string.IsNullOrWhiteSpace(name))
+                result[id] = name;
+        }
+        return result;
+    }
+
+    // The caller owns (and must dispose) the returned document. Parsing straight from
+    // the response stream avoids buffering the whole body and cloning the tree.
+    private async Task<JsonDocument> GetJsonDocAsync(string endpoint, string? action, CancellationToken ct)
+    {
+        if (string.IsNullOrWhiteSpace(_base) || string.IsNullOrWhiteSpace(_user))
+            throw new InvalidOperationException("No hay una conexi√≥n Xtream activa. Carga una lista M3U para navegar por sus canales o conecta un servidor Xtream para acceder a series y pel√≠culas.");
+
+        var query = $"username={Uri.EscapeDataString(_user)}&password={Uri.EscapeDataString(_pass)}";
+        if (!string.IsNullOrWhiteSpace(action))
+        {
+            var parts = action.Split('&', 2);
+            query += "&action=" + Uri.EscapeDataString(parts[0]);
+            if (parts.Length == 2) query += "&" + parts[1];
+        }
+
+        using var cts = CancellationTokenSource.CreateLinkedTokenSource(ct);
+        cts.CancelAfter(BodyTimeout);
+        using var response = await _http.GetAsync($"{_base}/{endpoint}?{query}", HttpCompletionOption.ResponseHeadersRead, cts.Token).ConfigureAwait(false);
+        response.EnsureSuccessStatusCode();
+        await using var stream = await response.Content.ReadAsStreamAsync(cts.Token).ConfigureAwait(false);
+        return await JsonDocument.ParseAsync(stream, cancellationToken: cts.Token).ConfigureAwait(false);
+    }
+
+    private static string Esc(string s) => Uri.EscapeDataString(s);
+    private static string? Str(JsonElement e, string name) =>
+        e.ValueKind == JsonValueKind.Object && e.TryGetProperty(name, out var v) && v.ValueKind != JsonValueKind.Null ? v.ToString() : null;
+    private static int? Int(JsonElement e, string name) =>
+        int.TryParse(Str(e, name), out var n) ? n : null;
+
+    public void Dispose() => _http.Dispose();
+}
