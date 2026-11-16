@@ -1,0 +1,41 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+ xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+ <!-- Buttons shared by the main window (same colours as before; the pill is slightly translucent to sit on glass). -->
+  <Style x:Key="NavButton" TargetType="Button">
+   <Setter Property="Foreground" Value="#D6C4E1"/>
+   <Setter Property="Background" Value="Transparent"/>
+   <Setter Property="BorderThickness" Value="0"/>
+   <Setter Property="HorizontalContentAlignment" Value="Left"/>
+   <Setter Property="Padding" Value="16,13"/>
+   <Setter Property="Margin" Value="0,3"/>
+   <Setter Property="FontSize" Value="14"/>
+   <Setter Property="FontWeight" Value="SemiBold"/>
+   <Setter Property="Cursor" Value="Hand"/>
+   <Setter Property="Template">
+    <Setter.Value><ControlTemplate TargetType="Button">
+     <Border x:Name="bd" Background="{TemplateBinding Background}" CornerRadius="10" Padding="{TemplateBinding Padding}">
+      <ContentPresenter VerticalAlignment="Center"/>
+     </Border>
+     <ControlTemplate.Triggers>
+      <Trigger Property="IsMouseOver" Value="True"><Setter TargetName="bd" Property="Background" Value="#2C1742"/><Setter Property="Foreground" Value="White"/></Trigger>
+      <Trigger Property="IsPressed" Value="True"><Setter TargetName="bd" Property="Background" Value="#51276C"/></Trigger>
+     </ControlTemplate.Triggers>
+    </ControlTemplate></Setter.Value>
+   </Setter>
+  </Style>
+  <Style x:Key="PillButton" TargetType="Button">
+   <Setter Property="Foreground" Value="White"/><Setter Property="Background" Value="#B02A153E"/>
+   <Setter Property="BorderBrush" Value="#513067"/><Setter Property="BorderThickness" Value="1"/>
+   <Setter Property="Padding" Value="15,9"/><Setter Property="Margin" Value="4,0"/>
+   <Setter Property="FontWeight" Value="SemiBold"/><Setter Property="Cursor" Value="Hand"/>
+   <Setter Property="Template"><Setter.Value><ControlTemplate TargetType="Button">
+    <Border x:Name="b" CornerRadius="9" Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" Padding="{TemplateBinding Padding}">
+     <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+    </Border>
+    <ControlTemplate.Triggers>
+     <Trigger Property="IsMouseOver" Value="True"><Setter TargetName="b" Property="Background" Value="#5B2D78"/></Trigger>
+     <Trigger Property="IsPressed" Value="True"><Setter TargetName="b" Property="Opacity" Value="0.78"/></Trigger>
+    </ControlTemplate.Triggers>
+   </ControlTemplate></Setter.Value></Setter>
+  </Style>
+</ResourceDictionary>

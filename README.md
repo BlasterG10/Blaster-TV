@@ -25,3 +25,13 @@ Para consultar películas, configurar la variable de entorno `OMDB_API_KEY`. Las
 ## Memoria obligatoria del proyecto
 
 Antes de cada intervención técnica, leer [PROJECT_MEMORY.md](PROJECT_MEMORY.md). Este documento mantiene las decisiones, el estado, los requisitos y el historial del proyecto.
+
+## Aplicación nativa para Windows
+
+El código fuente WPF de Windows está en [`desktop/MagisWindowsNative`](desktop/MagisWindowsNative/README.md). Este paquete incluye reproducción LibVLC, fuentes M3U/Xtream y el catálogo abierto de películas y series. Compila con .NET 10 SDK en Windows:
+
+```powershell
+dotnet build desktop/MagisWindowsNative/MagisWindowsNative.csproj -c Release
+```
+
+El catálogo abierto usa feeds de Archive Watch y PublicDomainM3U. La app conserva los enlaces originales y refresca sus fuentes cada seis horas mientras está abierta. Las fuentes describen sus obras como de dominio público o libres para compartir; verifica los derechos aplicables antes de redistribuir.
