@@ -58,3 +58,17 @@ Este paquete se editó sin SDK de .NET disponible: compílalo en Windows (`dotne
 - Las descargas corren **de 6 en 6** (no las 92 a la vez) y cada lista se guarda en la caché cifrada, así que los siguientes inicios muestran el catálogo guardado al instante y solo refrescan lo que tiene más de 6 h.
 - Las listas se solapan mucho (el índice completo ya incluye cada categoría, país e idioma): cada canal se conserva **una sola vez**, en la primera lista pública que lo aporta.
 - El primer arranque con las 92 listas descarga bastante (decenas de MB) y puede tardar; la ventana y la interfaz siguen fluidas mientras tanto.
+
+# Películas y series en listas M3U (igual que con Xtream)
+- Antes: toda entrada de una lista M3U se trataba como TV en vivo, y los botones Películas/Series solo funcionaban con Xtream.
+- Ahora `Services/MediaKindClassifier.cs` clasifica cada entrada M3U:
+  - direcciones tipo Xtream `…/movie/usuario/clave/123.mp4` → **película**; `…/series/…` → **episodio**;
+  - archivos de vídeo (`.mp4 .mkv .avi .mov .wmv .flv .webm .m4v .mpg .mpeg`) → **película**;
+  - títulos con `S01E02`, `S1 E2`, `T1E2` o `1x02` → **episodio** de esa serie;
+  - todo lo demás (`.m3u8`, `.ts`, sin extensión) sigue siendo **TV en vivo**.
+- Los episodios de una misma serie se agrupan en una entrada **Serie**; al abrirla sale la lista de episodios (por temporada y número), igual que con Xtream. Los episodios sueltos no se listan por separado.
+- **Películas** y **Series** del menú cargan ahora M3U y Xtream juntos; solo avisan si ninguna fuente activa trae ese tipo.
+- La guía del reproductor también filtra por Películas y Series de listas M3U.
+- Las listas públicas de iptv-org «Películas» y «Series» son canales 24/7 en directo (`.m3u8`), así que siguen en TV en vivo; no son vídeos bajo demanda.
+- Las copias guardadas antes de este cambio se ignoran una vez (se vuelven a descargar) para reclasificarlas.
+- Prueba rápida: `Ejemplos/prueba-peliculas-series.m3u` (direcciones de ejemplo, no reproducen) → «Añadir archivo M3U» y mira Películas/Series.

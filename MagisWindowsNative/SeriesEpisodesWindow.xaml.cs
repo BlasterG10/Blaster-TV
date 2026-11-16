@@ -21,7 +21,8 @@ public partial class SeriesEpisodesWindow : Window
     private void EpisodeList_SelectionChanged(object sender, SelectionChangedEventArgs e)
     {
         if (EpisodeList.SelectedItem is SeriesEpisode episode)
-            EpisodeInfo.Text = $"Temporada {episode.Season} · Episodio {episode.EpisodeNumber} · {episode.Duration}";
+            EpisodeInfo.Text = $"Temporada {episode.Season} · Episodio {episode.EpisodeNumber}" +
+                (string.IsNullOrWhiteSpace(episode.Duration) ? "" : $" · {episode.Duration}");
     }
 
     private void EpisodeList_MouseDoubleClick(object sender, MouseButtonEventArgs e) => SelectAndClose();

@@ -201,11 +201,19 @@ public partial class MainWindow : Window
         }
     }
 
+    private const string M3uCacheKind = "M3uAll";
+
     private static Dictionary<string, CachedList> ReadCachedKinds(PlaylistSource source)
     {
         var result = new Dictionary<string, CachedList>(StringComparer.OrdinalIgnoreCase);
-        var kinds = source.Type == "Xtream" ? new[] { "Live", "Movie", "Series" } : new[] { "Live" };
-        foreach (var kind in kinds)
+        if (source.Type != "Xtream")
+        {
+            // An M3U list holds live channels, movies and series together under one saved copy.
+            // M3uCacheKind is new, so copies saved before movies/series were detected are ignored.
+            if (SourceCache.TryLoad(source.Id, M3uCacheKind) is { } m3u) result["Live"] = m3u;
+            return result;
+        }
+        foreach (var kind in new[] { "Live", "Movie", "Series" })
             if (SourceCache.TryLoad(source.Id, kind) is { } cached)
                 result[kind] = cached;
         return result;
@@ -404,8 +412,11 @@ public partial class MainWindow : Window
             var parsed = DropStreamsAlreadyLoaded(source, await ReadM3uAsync(source));
             MergeSourceKind(source, "Live", parsed);
             GetLoadedSet(source.Id).Add("Live");
-            _ = SourceCache.SaveAsync(source.Id, "Live", parsed.ToList());
-            StatusText.Text = $"{source.Name}: {parsed.Count:N0} canales cargados.";
+            _ = SourceCache.SaveAsync(source.Id, M3uCacheKind, parsed.ToList());
+            var movies = parsed.Count(x => x.Kind == "Movie");
+            var series = parsed.Count(x => x.Kind == "Series");
+            StatusText.Text = $"{source.Name}: {parsed.Count - movies - series - parsed.Count(x => x.Kind == "Episode"):N0} canales" +
+                (movies + series > 0 ? $", {movies:N0} películas y {series:N0} series" : "") + " cargados.";
         });
     }
 
@@ -511,8 +522,10 @@ public partial class MainWindow : Window
 
     private void MergeSourceKind(PlaylistSource source, string kind, List<MediaItem> items, bool refresh = true)
     {
+        // An M3U source delivers every kind in one list, so a refresh replaces all of its items.
+        var wholeSource = source.Type != "Xtream";
         _all.RemoveAll(x => x.SourceId.Equals(source.Id, StringComparison.OrdinalIgnoreCase) &&
-                            x.Kind.Equals(kind, StringComparison.OrdinalIgnoreCase));
+                            (wholeSource || x.Kind.Equals(kind, StringComparison.OrdinalIgnoreCase)));
         var favorites = _catalogState.Favorites;
         foreach (var item in items)
         {
@@ -612,18 +625,23 @@ public partial class MainWindow : Window
             return;
         }
 
+        // Movies and series come from Xtream accounts and from M3U lists that contain them.
+        await LoadEnabledSourcesAsync();
         var sources = _catalogState.Sources.Where(x => x.Enabled && x.Type == "Xtream").ToList();
-        if (sources.Count == 0)
+        await Task.WhenAll(sources.Select(source => LoadXtreamKindSafeAsync(source, kind, "No se pudo cargar")));
+
+        var label = kind == "Movie" ? "películas" : "series";
+        if (!_all.Any(x => x.Kind == kind))
         {
-            MessageBox.Show($"Añade una conexión Xtream para cargar {(kind == "Movie" ? "películas" : "series")}.", "Contenido no disponible", MessageBoxButton.OK, MessageBoxImage.Information);
+            MessageBox.Show($"No hay {label} en tus fuentes activas.\n\nConecta una cuenta Xtream o añade una lista M3U que incluya {label} " +
+                "(direcciones con /movie/ o /series/, archivos .mp4/.mkv, o títulos con S01E02).",
+                "Contenido no disponible", MessageBoxButton.OK, MessageBoxImage.Information);
             return;
         }
 
-        await Task.WhenAll(sources.Select(source => LoadXtreamKindSafeAsync(source, kind, "No se pudo cargar")));
-
         _activeKind = kind;
         SetSection("Catalog");
-        StatusText.Text = $"{(kind == "Movie" ? "Películas" : "Series")}: {_items.Count:N0} elementos de {sources.Count} fuentes Xtream.";
+        StatusText.Text = $"{char.ToUpper(label[0])}{label[1..]}: {_items.Count:N0} elementos de {_catalogState.Sources.Count(x => x.Enabled)} fuentes activas (M3U y Xtream).";
     }
 
     private void SetSection(string section)
@@ -826,6 +844,7 @@ public partial class MainWindow : Window
         var filtered = new List<MediaItem>();
         foreach (var x in GetSortedItems())
         {
+            if (x.Kind == "Episode") continue; // M3U episodes are opened from their series
             if (activeKind != "All" && !x.Kind.Equals(activeKind, StringComparison.OrdinalIgnoreCase)) continue;
             if (liveOnly && x.Kind != "Live") continue;
             if (_showFavorites && !x.IsFavorite) continue;
@@ -1127,21 +1146,40 @@ public partial class MainWindow : Window
 
     private async Task OpenSeriesEpisodesAsync(MediaItem series)
     {
-        if (series.StreamId is null)
+        if (series.StreamId is null && series.SeriesKey.Length == 0)
         {
-            StatusText.Text = "Esta serie no tiene un identificador Xtream válido.";
+            StatusText.Text = "Esta serie no tiene un identificador válido.";
             return;
         }
         try
         {
             StatusText.Text = $"Cargando episodios de {series.Name}…";
-            if (!_xtreamClients.TryGetValue(series.SourceId, out var seriesClient) || !seriesClient.IsConnected)
+            List<SeriesEpisode> episodes;
+            if (series.StreamId is null)
             {
-                var seriesSource = _catalogState.Sources.FirstOrDefault(x => x.Id == series.SourceId && x.Enabled);
-                if (seriesSource is null) { StatusText.Text = "No se encontró la fuente de esta serie."; return; }
-                seriesClient = await GetXtreamClientAsync(seriesSource);
+                // Series that come from an M3U list: the episodes are entries of the same list.
+                episodes = _all
+                    .Where(x => x.Kind == "Episode" && x.SeriesKey == series.SeriesKey &&
+                                x.SourceId.Equals(series.SourceId, StringComparison.OrdinalIgnoreCase))
+                    .OrderBy(x => x.Season).ThenBy(x => x.EpisodeNumber).ThenBy(x => x.Name, StringComparer.CurrentCulture)
+                    .Select(x => new SeriesEpisode
+                    {
+                        Title = x.Name,
+                        Season = x.Season.ToString(),
+                        EpisodeNumber = x.EpisodeNumber.ToString(),
+                        Url = x.Url
+                    }).ToList();
             }
-            var episodes = await seriesClient.GetSeriesEpisodesAsync(series.StreamId.Value);
+            else
+            {
+                if (!_xtreamClients.TryGetValue(series.SourceId, out var seriesClient) || !seriesClient.IsConnected)
+                {
+                    var seriesSource = _catalogState.Sources.FirstOrDefault(x => x.Id == series.SourceId && x.Enabled);
+                    if (seriesSource is null) { StatusText.Text = "No se encontró la fuente de esta serie."; return; }
+                    seriesClient = await GetXtreamClientAsync(seriesSource);
+                }
+                episodes = await seriesClient.GetSeriesEpisodesAsync(series.StreamId.Value);
+            }
             if (episodes.Count == 0)
             {
                 StatusText.Text = "El proveedor no devolvió episodios para esta serie.";

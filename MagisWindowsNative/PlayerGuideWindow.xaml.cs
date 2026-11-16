@@ -214,7 +214,7 @@ public partial class PlayerGuideWindow : Window
 
         var names = StringComparer.CurrentCulture;
         var entries = _catalog()
-            .Where(x => kind is null || x.Kind == kind)
+            .Where(x => x.Kind != "Episode" && (kind is null || x.Kind == kind))
             .Select(x => new GuideEntry(x))
             .ToList();
 

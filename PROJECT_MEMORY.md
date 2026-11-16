@@ -39,3 +39,10 @@
 - **Pedido del usuario:** cargar al iniciar las listas públicas M3U de `public-playlists.json` (iptv-org y Free-TV, 92 listas).
 - **Implementación:** `Assets/public-playlists.json` (recurso), `Services/PublicPlaylists.cs` (alta única como fuentes `Público · …` con id estable `pub…`), indicador `CatalogState.PublicPlaylistsSeeded`, carga de 6 en 6 (`_loadGate`) y deduplicación por URL entre fuentes públicas (`DropStreamsAlreadyLoaded`).
 - **Riesgo conocido:** el primer arranque descarga mucho; las listas se solapan (por eso la deduplicación). No verificado en Windows.
+
+### 13c. Películas y series desde listas M3U — 2026-11-15
+- **Pedido del usuario:** comprobar que hay películas y series y que se accede a ellas por M3U igual que por Xtream.
+- **Hallazgo:** el parser marcaba todo como `Live`; Películas/Series exigían una cuenta Xtream.
+- **Implementación:** `Services/MediaKindClassifier.cs` (rutas `/movie/` y `/series/`, extensiones de vídeo, marcadores `S01E02`/`1x02`), `MediaItem.SeriesKey/Season/EpisodeNumber`, entradas `Series` generadas por el parser con sus episodios (`Kind="Episode"`, ocultos en las listas), `OpenSeriesEpisodesAsync` resuelve episodios M3U localmente, caché M3U `M3uAll`, un refresco de fuente M3U reemplaza todos sus tipos.
+- **Límite:** las listas públicas iptv-org «Películas/Series» son canales en directo (.m3u8) y siguen como TV. Ejemplo de prueba: `MagisWindowsNative/Ejemplos/prueba-peliculas-series.m3u`.
+- **No verificado:** sin compilar ni probar en Windows.

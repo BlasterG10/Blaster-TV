@@ -53,6 +53,10 @@ public sealed class MediaItem
     [JsonIgnore] public string CategoryGroup => string.IsNullOrWhiteSpace(Category) ? "General" : Category;
     public string Kind { get; set; } = "Live";
     public int? StreamId { get; set; }
+    /// <summary>Series found in an M3U list: the series entry and its episodes share this key.</summary>
+    public string SeriesKey { get; set; } = "";
+    public int Season { get; set; }
+    public int EpisodeNumber { get; set; }
     public string ContainerExtension { get; set; } = "";
     [JsonIgnore] public bool IsFavorite { get; set; }
     public override string ToString() => (IsFavorite ? "★  " : "") + Name;
