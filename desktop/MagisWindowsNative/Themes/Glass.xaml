@@ -1,0 +1,73 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+ xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+ xmlns:svc="clr-namespace:MagisWindowsNative.Services">
+ <!--
+  MagisTV "liquid glass" theme.
+  Every colour below is one of the app's existing colours; only the opacity changes, so the windows
+  keep their look and let the blurred backdrop (Mica / acrylic, see Services/Glass.cs) show through.
+  Each translucent brush has an opaque "<name>.Solid" twin with the original colour. Glass.cs swaps a
+  window to the twins when the system cannot blur, so nothing is ever left see-through.
+ -->
+
+ <!-- ===== Translucent surfaces (used with DynamicResource) ===== -->
+ <LinearGradientBrush x:Key="Glass.Main" StartPoint="0,0" EndPoint="1,1">
+  <GradientStop Color="#E6190A28" Offset="0"/>
+  <GradientStop Color="#E60B0613" Offset="0.58"/>
+  <GradientStop Color="#E614091D" Offset="1"/>
+ </LinearGradientBrush>
+ <LinearGradientBrush x:Key="Glass.Main.Solid" StartPoint="0,0" EndPoint="1,1">
+  <GradientStop Color="#190A28" Offset="0"/>
+  <GradientStop Color="#0B0613" Offset="0.58"/>
+  <GradientStop Color="#14091D" Offset="1"/>
+ </LinearGradientBrush>
+
+ <SolidColorBrush x:Key="Glass.Dialog" Color="#E0170D22"/>   <SolidColorBrush x:Key="Glass.Dialog.Solid" Color="#170D22"/>
+ <SolidColorBrush x:Key="Glass.Deep" Color="#E60B0613"/>     <SolidColorBrush x:Key="Glass.Deep.Solid" Color="#0B0613"/>
+ <SolidColorBrush x:Key="Glass.Rail" Color="#CC110719"/>     <SolidColorBrush x:Key="Glass.Rail.Solid" Color="#110719"/>
+ <SolidColorBrush x:Key="Glass.Well" Color="#B813091E"/>     <SolidColorBrush x:Key="Glass.Well.Solid" Color="#13091E"/>
+ <SolidColorBrush x:Key="Glass.Panel" Color="#D0120A1C"/>    <SolidColorBrush x:Key="Glass.Panel.Solid" Color="#120A1C"/>
+ <SolidColorBrush x:Key="Glass.Bar" Color="#B8101728"/>      <SolidColorBrush x:Key="Glass.Bar.Solid" Color="#F0101728"/>
+ <SolidColorBrush x:Key="Glass.Field" Color="#A61D102B"/>    <SolidColorBrush x:Key="Glass.Field.Solid" Color="#1D102B"/>
+ <SolidColorBrush x:Key="Glass.Card" Color="#CC1B0D28"/>     <SolidColorBrush x:Key="Glass.Card.Solid" Color="#1B0D28"/>
+ <SolidColorBrush x:Key="Glass.Header" Color="#D927143A"/>   <SolidColorBrush x:Key="Glass.Header.Solid" Color="#27143A"/>
+
+ <!-- ===== Glass edge and sheen (light catching the top of the pane) ===== -->
+ <LinearGradientBrush x:Key="Glass.Edge" StartPoint="0,0" EndPoint="0,1">
+  <GradientStop Color="#66FFFFFF" Offset="0"/>
+  <GradientStop Color="#2AB12BFF" Offset="0.45"/>
+  <GradientStop Color="#4A4A285D" Offset="1"/>
+ </LinearGradientBrush>
+ <LinearGradientBrush x:Key="Glass.Sheen" StartPoint="0,0" EndPoint="0,1">
+  <GradientStop Color="#14FFFFFF" Offset="0"/>
+  <GradientStop Color="#05FFFFFF" Offset="0.25"/>
+  <GradientStop Color="#00FFFFFF" Offset="0.6"/>
+ </LinearGradientBrush>
+
+ <!-- ===== Window styles: Style="{StaticResource Glass.Window}" ===== -->
+ <Style x:Key="Glass.Window" TargetType="Window">
+  <Setter Property="FontFamily" Value="Segoe UI"/>
+  <Setter Property="Foreground" Value="#FAF7FF"/>
+  <Setter Property="Background" Value="{DynamicResource Glass.Dialog}"/>
+  <Setter Property="UseLayoutRounding" Value="True"/>
+  <Setter Property="svc:Glass.Backdrop" Value="Acrylic"/>
+ </Style>
+ <Style x:Key="Glass.Window.Deep" TargetType="Window" BasedOn="{StaticResource Glass.Window}">
+  <Setter Property="Background" Value="{DynamicResource Glass.Deep}"/>
+ </Style>
+ <Style x:Key="Glass.Window.Rail" TargetType="Window" BasedOn="{StaticResource Glass.Window}">
+  <Setter Property="Background" Value="{DynamicResource Glass.Well}"/>
+ </Style>
+ <Style x:Key="Glass.Window.Main" TargetType="Window" BasedOn="{StaticResource Glass.Window}">
+  <Setter Property="Background" Value="{DynamicResource Glass.Main}"/>
+  <Setter Property="svc:Glass.Backdrop" Value="Mica"/>
+ </Style>
+
+ <!-- ===== Reusable pane: rounded glass card with a lit edge ===== -->
+ <Style x:Key="Glass.Pane" TargetType="Border">
+  <Setter Property="Background" Value="{DynamicResource Glass.Well}"/>
+  <Setter Property="BorderBrush" Value="{StaticResource Glass.Edge}"/>
+  <Setter Property="BorderThickness" Value="1"/>
+  <Setter Property="CornerRadius" Value="15"/>
+  <Setter Property="SnapsToDevicePixels" Value="True"/>
+ </Style>
+</ResourceDictionary>

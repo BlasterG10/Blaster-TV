@@ -1,0 +1,23 @@
+<Window x:Class="MagisWindowsNative.EpgWindow" Icon="Assets/MagisTV.ico"
+ xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+ xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+ Title="Guía de programación" Height="650" Width="1050" MinHeight="450" MinWidth="750"
+ WindowStartupLocation="CenterOwner" Style="{StaticResource Glass.Window.Deep}" Foreground="#FAF7FF">
+ <Grid Margin="20">
+  <Grid.RowDefinitions><RowDefinition Height="Auto"/><RowDefinition Height="*"/></Grid.RowDefinitions>
+  <StackPanel Margin="0,0,0,15">
+   <TextBlock Text="Guía de programación" FontSize="24" FontWeight="Bold"/>
+   <TextBlock x:Name="Subtitle" Text="Programación importada desde XMLTV" Foreground="#AA97B9" Margin="0,5,0,0"/>
+  </StackPanel>
+  <DataGrid Grid.Row="1" x:Name="ProgramsGrid" AutoGenerateColumns="False" IsReadOnly="True"
+   Background="{DynamicResource Glass.Well}" Foreground="#FAF7FF" RowBackground="#CC1C102B" AlternatingRowBackground="#CC27153A"
+   BorderBrush="#4A285D" GridLinesVisibility="Horizontal" HeadersVisibility="Column">
+   <DataGrid.Columns>
+    <DataGridTextColumn Header="Hora" Binding="{Binding TimeRange}" Width="155"/>
+    <DataGridTextColumn Header="Canal" Binding="{Binding ChannelName}" Width="190"/>
+    <DataGridTextColumn Header="Programa" Binding="{Binding Title}" Width="230"/>
+    <DataGridTextColumn Header="Descripción" Binding="{Binding Description}" Width="*"/>
+   </DataGrid.Columns>
+  </DataGrid>
+ </Grid>
+</Window>

@@ -1,0 +1,21 @@
+<Window x:Class="MagisWindowsNative.SeriesEpisodesWindow" Icon="Assets/MagisTV.ico"
+ xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+ xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+ Title="Episodios" Height="620" Width="850" MinHeight="420" MinWidth="650"
+ WindowStartupLocation="CenterOwner" Style="{StaticResource Glass.Window.Deep}" Foreground="#FAF7FF">
+ <Grid Margin="20">
+  <Grid.RowDefinitions><RowDefinition Height="Auto"/><RowDefinition Height="*"/><RowDefinition Height="Auto"/></Grid.RowDefinitions>
+  <StackPanel Margin="0,0,0,15">
+   <TextBlock x:Name="SeriesTitle" Text="Episodios de la serie" FontSize="23" FontWeight="Bold"/>
+   <TextBlock x:Name="EpisodeCount" Foreground="#AA97B9" Margin="0,5,0,0"/>
+  </StackPanel>
+  <ListBox Grid.Row="1" x:Name="EpisodeList" Background="{DynamicResource Glass.Well}" Foreground="White"
+   BorderBrush="#4A285D"  SelectionChanged="EpisodeList_SelectionChanged"
+   MouseDoubleClick="EpisodeList_MouseDoubleClick"/>
+  <DockPanel Grid.Row="2" Margin="0,12,0,0">
+   <TextBlock x:Name="EpisodeInfo" Foreground="#D6C4E1" VerticalAlignment="Center" Text="Selecciona un episodio"/>
+   <Button DockPanel.Dock="Right" Content="▶ Reproducir episodio" Padding="16,9"
+    Background="#A12DFF" Foreground="White" Click="Play_Click"/>
+  </DockPanel>
+ </Grid>
+</Window>

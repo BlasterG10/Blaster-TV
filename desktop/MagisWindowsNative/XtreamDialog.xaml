@@ -1,0 +1,19 @@
+<Window x:Class="MagisWindowsNative.XtreamDialog" Icon="Assets/MagisTV.ico"
+ xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+ xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+ Title="Conectar servidor Xtream" Height="310" Width="480" ResizeMode="NoResize"
+ WindowStartupLocation="CenterOwner" Style="{StaticResource Glass.Window}" Foreground="White">
+ <Grid Margin="18">
+  <Grid.RowDefinitions><RowDefinition Height="Auto"/><RowDefinition Height="Auto"/><RowDefinition Height="Auto"/><RowDefinition Height="Auto"/><RowDefinition Height="*"/></Grid.RowDefinitions>
+  <TextBlock Text="SERVIDOR XTREAM" FontSize="18" FontWeight="Bold" Margin="3,0,0,12"/>
+  <StackPanel Grid.Row="1"><TextBlock Text="URL del servidor"/><TextBox x:Name="ServerBox" Text="https://"/></StackPanel>
+  <StackPanel Grid.Row="2"><TextBlock Text="Usuario"/><TextBox x:Name="UserBox"/></StackPanel>
+  <StackPanel Grid.Row="3"><TextBlock Text="Contraseña"/><PasswordBox x:Name="PassBox" Background="#21122F" Foreground="White" Padding="9,7" Margin="3"/></StackPanel>
+  <DockPanel Grid.Row="4" LastChildFill="False" VerticalAlignment="Bottom">
+   <CheckBox x:Name="RememberBox" Content="Recordar credenciales en este Windows (cifradas)" Foreground="#E6D9EE" VerticalAlignment="Center" Margin="4"/>
+   <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" DockPanel.Dock="Right">
+    <Button Content="Cancelar" IsCancel="True"/><Button Content="Conectar" Background="#9229D4" IsDefault="True" Click="Connect_Click"/>
+   </StackPanel>
+  </DockPanel>
+ </Grid>
+</Window>

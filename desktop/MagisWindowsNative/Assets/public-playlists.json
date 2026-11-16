@@ -1,0 +1,504 @@
+{
+  "version": 1,
+  "sections": [
+    {
+      "id": "en-vivo",
+      "type": "live",
+      "playlists": [
+        {
+          "name": "iptv-org: todos los canales",
+          "url": "https://iptv-org.github.io/iptv/index.m3u",
+          "group": "todas"
+        },
+        {
+          "name": "iptv-org: agrupada por categoría",
+          "url": "https://iptv-org.github.io/iptv/index.category.m3u",
+          "group": "todas"
+        },
+        {
+          "name": "iptv-org: agrupada por país",
+          "url": "https://iptv-org.github.io/iptv/index.country.m3u",
+          "group": "todas"
+        },
+        {
+          "name": "iptv-org: agrupada por idioma",
+          "url": "https://iptv-org.github.io/iptv/index.language.m3u",
+          "group": "todas"
+        },
+        {
+          "name": "iptv-org: agrupada por región",
+          "url": "https://iptv-org.github.io/iptv/index.region.m3u",
+          "group": "todas"
+        },
+        {
+          "name": "Free-TV: canales gratuitos",
+          "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8",
+          "group": "todas"
+        },
+        {
+          "name": "Autos",
+          "url": "https://iptv-org.github.io/iptv/categories/auto.m3u",
+          "group": "categoria"
+        },
+        {
+          "name": "Negocios",
+          "url": "https://iptv-org.github.io/iptv/categories/business.m3u",
+          "group": "categoria"
+        },
+        {
+          "name": "Comedia",
+          "url": "https://iptv-org.github.io/iptv/categories/comedy.m3u",
+          "group": "categoria"
+        },
+        {
+          "name": "Cocina",
+          "url": "https://iptv-org.github.io/iptv/categories/cooking.m3u",
+          "group": "categoria"
+        },
+        {
+          "name": "Cultura",
+          "url": "https://iptv-org.github.io/iptv/categories/culture.m3u",
+          "group": "categoria"
+        },
+        {
+          "name": "Documentales",
+          "url": "https://iptv-org.github.io/iptv/categories/documentary.m3u",
+          "group": "categoria"
+        },
+        {
+          "name": "Educación",
+          "url": "https://iptv-org.github.io/iptv/categories/education.m3u",
+          "group": "categoria"
+        },
+        {
+          "name": "Entretenimiento",
+          "url": "https://iptv-org.github.io/iptv/categories/entertainment.m3u",
+          "group": "categoria"
+        },
+        {
+          "name": "Familia",
+          "url": "https://iptv-org.github.io/iptv/categories/family.m3u",
+          "group": "categoria"
+        },
+        {
+          "name": "General",
+          "url": "https://iptv-org.github.io/iptv/categories/general.m3u",
+          "group": "categoria"
+        },
+        {
+          "name": "Infantil",
+          "url": "https://iptv-org.github.io/iptv/categories/kids.m3u",
+          "group": "categoria"
+        },
+        {
+          "name": "Legislativo",
+          "url": "https://iptv-org.github.io/iptv/categories/legislative.m3u",
+          "group": "categoria"
+        },
+        {
+          "name": "Estilo de vida",
+          "url": "https://iptv-org.github.io/iptv/categories/lifestyle.m3u",
+          "group": "categoria"
+        },
+        {
+          "name": "Música",
+          "url": "https://iptv-org.github.io/iptv/categories/music.m3u",
+          "group": "categoria"
+        },
+        {
+          "name": "Noticias",
+          "url": "https://iptv-org.github.io/iptv/categories/news.m3u",
+          "group": "categoria"
+        },
+        {
+          "name": "Aire libre",
+          "url": "https://iptv-org.github.io/iptv/categories/outdoor.m3u",
+          "group": "categoria"
+        },
+        {
+          "name": "Relax",
+          "url": "https://iptv-org.github.io/iptv/categories/relax.m3u",
+          "group": "categoria"
+        },
+        {
+          "name": "Religión",
+          "url": "https://iptv-org.github.io/iptv/categories/religious.m3u",
+          "group": "categoria"
+        },
+        {
+          "name": "Ciencia",
+          "url": "https://iptv-org.github.io/iptv/categories/science.m3u",
+          "group": "categoria"
+        },
+        {
+          "name": "Compras",
+          "url": "https://iptv-org.github.io/iptv/categories/shop.m3u",
+          "group": "categoria"
+        },
+        {
+          "name": "Deportes",
+          "url": "https://iptv-org.github.io/iptv/categories/sports.m3u",
+          "group": "categoria"
+        },
+        {
+          "name": "Viajes",
+          "url": "https://iptv-org.github.io/iptv/categories/travel.m3u",
+          "group": "categoria"
+        },
+        {
+          "name": "Clima",
+          "url": "https://iptv-org.github.io/iptv/categories/weather.m3u",
+          "group": "categoria"
+        },
+        {
+          "name": "Estados Unidos",
+          "url": "https://iptv-org.github.io/iptv/countries/us.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "México",
+          "url": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "República Dominicana",
+          "url": "https://iptv-org.github.io/iptv/countries/do.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "Puerto Rico",
+          "url": "https://iptv-org.github.io/iptv/countries/pr.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "Colombia",
+          "url": "https://iptv-org.github.io/iptv/countries/co.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "Venezuela",
+          "url": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "Ecuador",
+          "url": "https://iptv-org.github.io/iptv/countries/ec.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "Perú",
+          "url": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "Bolivia",
+          "url": "https://iptv-org.github.io/iptv/countries/bo.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "Chile",
+          "url": "https://iptv-org.github.io/iptv/countries/cl.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "Argentina",
+          "url": "https://iptv-org.github.io/iptv/countries/ar.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "Uruguay",
+          "url": "https://iptv-org.github.io/iptv/countries/uy.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "Paraguay",
+          "url": "https://iptv-org.github.io/iptv/countries/py.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "Brasil",
+          "url": "https://iptv-org.github.io/iptv/countries/br.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "Cuba",
+          "url": "https://iptv-org.github.io/iptv/countries/cu.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "Guatemala",
+          "url": "https://iptv-org.github.io/iptv/countries/gt.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "El Salvador",
+          "url": "https://iptv-org.github.io/iptv/countries/sv.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "Honduras",
+          "url": "https://iptv-org.github.io/iptv/countries/hn.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "Nicaragua",
+          "url": "https://iptv-org.github.io/iptv/countries/ni.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "Costa Rica",
+          "url": "https://iptv-org.github.io/iptv/countries/cr.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "Panamá",
+          "url": "https://iptv-org.github.io/iptv/countries/pa.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "Haití",
+          "url": "https://iptv-org.github.io/iptv/countries/ht.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "España",
+          "url": "https://iptv-org.github.io/iptv/countries/es.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "Portugal",
+          "url": "https://iptv-org.github.io/iptv/countries/pt.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "Francia",
+          "url": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "Italia",
+          "url": "https://iptv-org.github.io/iptv/countries/it.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "Alemania",
+          "url": "https://iptv-org.github.io/iptv/countries/de.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "Reino Unido",
+          "url": "https://iptv-org.github.io/iptv/countries/gb.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "Canadá",
+          "url": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "Rusia",
+          "url": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "Turquía",
+          "url": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "India",
+          "url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "China",
+          "url": "https://iptv-org.github.io/iptv/countries/cn.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "Japón",
+          "url": "https://iptv-org.github.io/iptv/countries/jp.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "Corea del Sur",
+          "url": "https://iptv-org.github.io/iptv/countries/kr.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "Emiratos Árabes Unidos",
+          "url": "https://iptv-org.github.io/iptv/countries/ae.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "Arabia Saudita",
+          "url": "https://iptv-org.github.io/iptv/countries/sa.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "Egipto",
+          "url": "https://iptv-org.github.io/iptv/countries/eg.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "Marruecos",
+          "url": "https://iptv-org.github.io/iptv/countries/ma.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "Sudáfrica",
+          "url": "https://iptv-org.github.io/iptv/countries/za.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "Nigeria",
+          "url": "https://iptv-org.github.io/iptv/countries/ng.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "Australia",
+          "url": "https://iptv-org.github.io/iptv/countries/au.m3u",
+          "group": "pais"
+        },
+        {
+          "name": "Español",
+          "url": "https://iptv-org.github.io/iptv/languages/spa.m3u",
+          "group": "idioma"
+        },
+        {
+          "name": "Inglés",
+          "url": "https://iptv-org.github.io/iptv/languages/eng.m3u",
+          "group": "idioma"
+        },
+        {
+          "name": "Portugués",
+          "url": "https://iptv-org.github.io/iptv/languages/por.m3u",
+          "group": "idioma"
+        },
+        {
+          "name": "Francés",
+          "url": "https://iptv-org.github.io/iptv/languages/fra.m3u",
+          "group": "idioma"
+        },
+        {
+          "name": "Italiano",
+          "url": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+          "group": "idioma"
+        },
+        {
+          "name": "Alemán",
+          "url": "https://iptv-org.github.io/iptv/languages/deu.m3u",
+          "group": "idioma"
+        },
+        {
+          "name": "Catalán",
+          "url": "https://iptv-org.github.io/iptv/languages/cat.m3u",
+          "group": "idioma"
+        },
+        {
+          "name": "Criollo haitiano",
+          "url": "https://iptv-org.github.io/iptv/languages/hat.m3u",
+          "group": "idioma"
+        },
+        {
+          "name": "Ruso",
+          "url": "https://iptv-org.github.io/iptv/languages/rus.m3u",
+          "group": "idioma"
+        },
+        {
+          "name": "Árabe",
+          "url": "https://iptv-org.github.io/iptv/languages/ara.m3u",
+          "group": "idioma"
+        },
+        {
+          "name": "Chino",
+          "url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+          "group": "idioma"
+        },
+        {
+          "name": "Japonés",
+          "url": "https://iptv-org.github.io/iptv/languages/jpn.m3u",
+          "group": "idioma"
+        },
+        {
+          "name": "Coreano",
+          "url": "https://iptv-org.github.io/iptv/languages/kor.m3u",
+          "group": "idioma"
+        },
+        {
+          "name": "Hindi",
+          "url": "https://iptv-org.github.io/iptv/languages/hin.m3u",
+          "group": "idioma"
+        },
+        {
+          "name": "Turco",
+          "url": "https://iptv-org.github.io/iptv/languages/tur.m3u",
+          "group": "idioma"
+        },
+        {
+          "name": "Neerlandés",
+          "url": "https://iptv-org.github.io/iptv/languages/nld.m3u",
+          "group": "idioma"
+        },
+        {
+          "name": "Polaco",
+          "url": "https://iptv-org.github.io/iptv/languages/pol.m3u",
+          "group": "idioma"
+        }
+      ]
+    },
+    {
+      "id": "peliculas",
+      "type": "movies",
+      "playlists": [
+        {
+          "name": "Clásicos",
+          "url": "https://iptv-org.github.io/iptv/categories/classic.m3u",
+          "group": "categoria"
+        },
+        {
+          "name": "Películas",
+          "url": "https://iptv-org.github.io/iptv/categories/movies.m3u",
+          "group": "categoria"
+        }
+      ]
+    },
+    {
+      "id": "series",
+      "type": "series",
+      "playlists": [
+        {
+          "name": "Animación",
+          "url": "https://iptv-org.github.io/iptv/categories/animation.m3u",
+          "group": "categoria"
+        },
+        {
+          "name": "Series",
+          "url": "https://iptv-org.github.io/iptv/categories/series.m3u",
+          "group": "categoria"
+        }
+      ]
+    },
+    {
+      "id": "cine-abierto",
+      "type": "movies-and-series",
+      "playlists": [
+        {
+          "name": "Archive Watch: películas y series",
+          "url": "https://archivewatch.org/feeds/archivewatch.m3u",
+          "group": "abierto"
+        },
+        {
+          "name": "Películas de dominio público",
+          "url": "https://raw.githubusercontent.com/onlinem3u/publicdomainm3u/main/movies.m3u",
+          "group": "peliculas"
+        },
+        {
+          "name": "Series de dominio público",
+          "url": "https://raw.githubusercontent.com/onlinem3u/publicdomainm3u/main/series.m3u",
+          "group": "series"
+        }
+      ]
+    }
+  ]
+}
