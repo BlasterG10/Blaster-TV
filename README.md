@@ -1,6 +1,6 @@
 # MagisTV Alpha – APK para Android
 
-Versión de prueba 0.2. No contiene credenciales: cada usuario inicia sesión con su propio servidor.
+Versión de prueba **0.3** (inicio instantáneo, sin audio al salir, más fluida). Los nombres de archivo se mantienen para que los códigos de Downloader sigan funcionando. No contiene credenciales: cada usuario inicia sesión con su propio servidor.
 
 | Archivo | Para qué equipo |
 |---|---|
