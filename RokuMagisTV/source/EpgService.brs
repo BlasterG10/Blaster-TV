@@ -39,7 +39,7 @@ function EPG_Base64(s as Dynamic) as String
     return ba.ToAsciiString()
 end function
 
-' Xtream: ahora y siguiente de un canal. Devuelve un roArray de { title, start, stop }.
+' Xtream: ahora y siguiente de un canal. Devuelve un roArray de { title, start, ends }.
 function EPG_XtreamShort(server as String, user as String, pass as String, streamId as String) as Object
     result = []
     body = XC_Get(XC_ApiUrl(server, user, pass, "get_short_epg", "stream_id=" + XC_Encode(streamId) + "&limit=3"))
@@ -47,16 +47,16 @@ function EPG_XtreamShort(server as String, user as String, pass as String, strea
     if data = invalid or data.epg_listings = invalid then return result
     for each p in data.epg_listings
         start = XC_ToInt(p.start_timestamp)
-        stop = XC_ToInt(p.stop_timestamp)
+        stopTime = XC_ToInt(p["stop_timestamp"])
         title = EPG_Base64(p.title)
-        if start > 0 and stop > start and Len(title) > 0
-            result.Push({ title: title, start: start, stop: stop })
+        if start > 0 and stopTime > start and Len(title) > 0
+            result.Push({ title: title, start: start, ends: stopTime })
         end if
     end for
     return result
 end function
 
-' XMLTV: devuelve { channelId(minúsculas): [ { title, start, stop } ] } solo para los ids pedidos
+' XMLTV: devuelve { channelId(minúsculas): [ { title, start, ends } ] } solo para los ids pedidos
 ' y para programas entre ahora-1h y ahora+windowHours.
 function EPG_LoadXmltv(url as String, wantedIds as Object, windowHours as Integer) as Object
     result = { programs: {}, error: "" }
@@ -103,14 +103,14 @@ function EPG_LoadXmltv(url as String, wantedIds as Object, windowHours as Intege
             attrs = node.GetAttributes()
             channel = LCase(XC_Str(attrs.channel))
             if wantedIds.DoesExist(channel)
-                stop = EPG_XmltvTime(XC_Str(attrs.stop))
-                start = EPG_XmltvTime(XC_Str(attrs.start))
-                if stop > windowStart and start < windowEnd
+                stopTime = EPG_XmltvTime(XC_Str(attrs["stop"]))
+                start = EPG_XmltvTime(XC_Str(attrs["start"]))
+                if stopTime > windowStart and start < windowEnd
                     titles = node.GetNamedElements("title")
                     title = ""
                     if titles.Count() > 0 then title = titles[0].GetText()
                     if not result.programs.DoesExist(channel) then result.programs[channel] = []
-                    result.programs[channel].Push({ title: title, start: start, stop: stop })
+                    result.programs[channel].Push({ title: title, start: start, ends: stopTime })
                 end if
             end if
         end if
@@ -122,15 +122,15 @@ function EPG_LoadXmltv(url as String, wantedIds as Object, windowHours as Intege
     return result
 end function
 
-' { now: programa|invalid, next: programa|invalid }
+' { now: programa|invalid, upcoming: programa|invalid }
 function EPG_NowNext(programs as Dynamic, now as Integer) as Object
-    result = { now: invalid, next: invalid }
+    result = { now: invalid, upcoming: invalid }
     if programs = invalid then return result
     for each p in programs
-        if p.start <= now and p.stop > now
+        if p.start <= now and p.ends > now
             result.now = p
-        else if p.start > now and result.next = invalid
-            result.next = p
+        else if p.start > now and result.upcoming = invalid
+            result.upcoming = p
         end if
     end for
     return result
@@ -141,20 +141,20 @@ function EPG_FormatTime(secs as Integer) as String
     dt.FromSeconds(secs)
     dt.ToLocalTime()
     h = dt.GetHours()
-    m = dt.GetMinutes()
-    mm = Str(m).Trim()
-    if m < 10 then mm = "0" + mm
+    minutes = dt.GetMinutes()
+    mm = Str(minutes).Trim()
+    if minutes < 10 then mm = "0" + mm
     return Str(h).Trim() + ":" + mm
 end function
 
 function EPG_Describe(nowNext as Object) as String
     text = ""
     if nowNext.now <> invalid
-        text = "Ahora: " + nowNext.now.title + "  (" + EPG_FormatTime(nowNext.now.start) + "-" + EPG_FormatTime(nowNext.now.stop) + ")"
+        text = "Ahora: " + nowNext.now.title + "  (" + EPG_FormatTime(nowNext.now.start) + "-" + EPG_FormatTime(nowNext.now.ends) + ")"
     end if
-    if nowNext.next <> invalid
+    if nowNext.upcoming <> invalid
         if Len(text) > 0 then text = text + "   ·   "
-        text = text + "Luego: " + nowNext.next.title + " " + EPG_FormatTime(nowNext.next.start)
+        text = text + "Luego: " + nowNext.upcoming.title + " " + EPG_FormatTime(nowNext.upcoming.start)
     end if
     return text
 end function

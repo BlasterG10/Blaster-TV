@@ -27,7 +27,7 @@ function SS_NewId() as String
     return di.GetRandomUUID()
 end function
 
-' Fuente: { id, name, type: "M3UUrl" | "Xtream", address, username, password, enabled }
+' Fuente: { id, name, sourceType: "M3UUrl" | "Xtream", address, username, password, enabled }
 function SS_LoadSources() as Object
     return SS_ReadJson("sources", [])
 end function
@@ -44,7 +44,7 @@ function SS_NewM3uSource(url as String) as Object
         slash = Instr(1, rest, "/")
         if slash > 0 then name = left(rest, slash - 1) else name = rest
     end if
-    return { id: SS_NewId(), name: "M3U · " + name, type: "M3UUrl", address: url, username: "", password: "", enabled: true }
+    return { id: SS_NewId(), name: "M3U · " + name, sourceType: "M3UUrl", address: url, username: "", password: "", enabled: true }
 end function
 
 function SS_NewXtreamSource(server as String, user as String, pass as String) as Object
@@ -53,7 +53,7 @@ function SS_NewXtreamSource(server as String, user as String, pass as String) as
     if schemeEnd > 0 then host = Mid(server, schemeEnd + 3)
     slash = Instr(1, host, "/")
     if slash > 0 then host = left(host, slash - 1)
-    return { id: SS_NewId(), name: "Xtream · " + host + " · " + user, type: "Xtream", address: server, username: user, password: pass, enabled: true }
+    return { id: SS_NewId(), name: "Xtream · " + host + " · " + user, sourceType: "Xtream", address: server, username: user, password: pass, enabled: true }
 end function
 
 ' Favoritos: conjunto de claves "sourceId|url".

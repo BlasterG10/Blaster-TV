@@ -69,7 +69,7 @@ function MK_HasVideoExtension(path as String) as Boolean
 end function
 
 ' SxxEyy / S1 E2 / T1E2 (regex con roRegex, insensible a mayúsculas).
-function MK_TryEpisode(name as String) as Object
+function MK_TryEpisode(name as String) as Dynamic
     reSxE = CreateObject("roRegex", "^(.*?)[\s._\-:]*[\[(]?\b[st]\s*(\d{1,3})\s*[._\-]?\s*e[p]?\.?\s*(\d{1,4})\b", "i")
     match = reSxE.Match(name)
     if match.Count() >= 4
@@ -86,7 +86,7 @@ function MK_TryEpisode(name as String) as Object
     return invalid
 end function
 
-function MK_BuildEpisodeMatch(rawTitle as String, rawSeason as String, rawEpisode as String) as Object
+function MK_BuildEpisodeMatch(rawTitle as String, rawSeason as String, rawEpisode as String) as Dynamic
     title = MK_TrimEdges(rawTitle)
     if Len(title) = 0 then return invalid
     return { title: title, season: rawSeason.ToInt(), episode: rawEpisode.ToInt() }

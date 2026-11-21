@@ -56,7 +56,7 @@ sub LT_LoadSource(req as Object, out as Object)
 
     items = invalid
     epgUrl = ""
-    if source.type = "Xtream"
+    if source.sourceType = "Xtream"
         if kind = "Live"
             items = XC_GetLiveStreams(source.address, source.username, source.password, source.id, source.name)
         else if kind = "Movie"

@@ -315,7 +315,7 @@ end function
 
 function SourceDisplayItem(s as Object) as Object
     typeLabel = "Lista M3U"
-    if s.type = "Xtream" then typeLabel = "Xtream Codes"
+    if s.sourceType = "Xtream" then typeLabel = "Xtream Codes"
     state = "Desactivada"
     if s.enabled then state = "Activa"
     detail = ""
@@ -627,20 +627,20 @@ end sub
 function ToggleFavorite(item as Object) as Boolean
     if item.kind = "Source" or item.kind = "Episode" then return IsFav(item)
     key = SS_FavoriteKey(item)
-    isFav = not m.favs.DoesExist(key)
-    if isFav
+    nowFav = not m.favs.DoesExist(key)
+    if nowFav
         m.favs[key] = true
     else
         m.favs.Delete(key)
     end if
     SS_SaveFavorites(m.favs)
-    item.isFavorite = isFav
+    item.isFavorite = nowFav
     for each list in ActiveLists()
         for each other in list
-            if other.url = item.url and other.sourceId = item.sourceId then other.isFavorite = isFav
+            if other.url = item.url and other.sourceId = item.sourceId then other.isFavorite = nowFav
         end for
     end for
-    if isFav
+    if nowFav
         SetStatus("«" + item.name + "» añadido a favoritos.")
     else
         SetStatus("«" + item.name + "» quitado de favoritos.")
@@ -651,7 +651,7 @@ function ToggleFavorite(item as Object) as Boolean
     else
         RefreshVisibleDescriptions()
     end if
-    return isFav
+    return nowFav
 end function
 
 ' ======================================================================
@@ -664,7 +664,7 @@ sub OpenSeries(series as Object)
         SetStatus("La fuente de esta serie ya no está disponible.")
         return
     end if
-    if source.type = "Xtream"
+    if source.sourceType = "Xtream"
         SetStatus("Cargando episodios de «" + series.name + "»...")
         m.pendingSeries = series
         StartTask({ mode: "episodes", source: source, seriesId: series.seriesKey })
@@ -780,8 +780,8 @@ end sub
 sub onPlayerFavorite()
     item = m.player.favoriteToggle
     if item = invalid then return
-    isFav = ToggleFavorite(item)
-    m.player.favoriteState = { url: item.url, isFavorite: isFav }
+    nowFav = ToggleFavorite(item)
+    m.player.favoriteState = { url: item.url, isFavorite: nowFav }
 end sub
 
 sub onPlayerClosed()
@@ -854,7 +854,7 @@ end sub
 
 sub MaybeLoadXmltv()
     for each source in m.sources
-        if source.enabled and source.type <> "Xtream" and m.data.DoesExist(source.id)
+        if source.enabled and source.sourceType <> "Xtream" and m.data.DoesExist(source.id)
             url = m.data[source.id].epgUrl
             if Len(url) > 0 and not m.xmltvRequested.DoesExist(url) and m.xmltvRequested.Count() < 2
                 ids = {}
@@ -948,7 +948,7 @@ end sub
 sub LoadAllSources(force as Boolean)
     for each source in m.sources
         if source.enabled
-            if source.type = "Xtream"
+            if source.sourceType = "Xtream"
                 LoadSourceKind(source, "Live", force)
                 if m.data.DoesExist(source.id)
                     for each kind in ["Movie", "Series"]
@@ -965,7 +965,7 @@ end sub
 ' Películas y series de Xtream se piden solo al entrar en esa sección (como en Windows).
 sub EnsureXtreamKind(kind as String)
     for each source in m.sources
-        if source.enabled and source.type = "Xtream"
+        if source.enabled and source.sourceType = "Xtream"
             loaded = false
             if m.data.DoesExist(source.id) then loaded = m.data[source.id].kinds.DoesExist(kind)
             if not loaded then LoadSourceKind(source, kind, false)
@@ -1083,7 +1083,7 @@ sub ToggleSource(index as Integer)
     source.enabled = not source.enabled
     SS_SaveSources(m.sources)
     if source.enabled
-        if source.type = "Xtream" then LoadSourceKind(source, "Live", false) else LoadSourceKind(source, "M3U", false)
+        if source.sourceType = "Xtream" then LoadSourceKind(source, "Live", false) else LoadSourceKind(source, "M3U", false)
         SetStatus("«" + source.name + "» activada.")
     else
         m.data.Delete(source.id)
@@ -1176,7 +1176,7 @@ sub HandleKeyboardText(purpose as String, text as String)
             return
         end if
         for each s in m.sources
-            if s.type = "M3UUrl" and LCase(s.address) = lower
+            if s.sourceType = "M3UUrl" and LCase(s.address) = lower
                 SetStatus("Esa lista ya está en tus fuentes.")
                 m.categoryList.setFocus(true)
                 return
@@ -1250,7 +1250,7 @@ end function
 sub StartXtreamLogin()
     d = m.xtDraft
     for each s in m.sources
-        if s.type = "Xtream" and LCase(s.address) = LCase(d.server) and LCase(s.username) = LCase(d.user)
+        if s.sourceType = "Xtream" and LCase(s.address) = LCase(d.server) and LCase(s.username) = LCase(d.user)
             SetStatus("Esa cuenta Xtream ya está en tus fuentes.")
             m.categoryList.setFocus(true)
             return
