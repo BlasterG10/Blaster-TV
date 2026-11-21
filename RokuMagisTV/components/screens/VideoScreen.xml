@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Reproductor a pantalla completa con barra flotante y guía de canales.
+     A diferencia de Windows (donde LibVLC obligaba a usar ventanas aparte), en Roku la barra y la
+     guía son nodos encima del vídeo. Se muestran y se ocultan juntas, como en la versión de escritorio. -->
+<component name="VideoScreen" extends="Group">
+  <interface>
+    <!-- Entrada: { items: [...], index, epgText: { url: "texto" } } -->
+    <field id="playRequest" type="assocarray" onChange="onPlayRequest"/>
+    <!-- Entrada: { url: "texto de guía" } que llega de MainScene cuando hay EPG nuevo -->
+    <field id="epgUpdate" type="assocarray" onChange="onEpgUpdate"/>
+    <!-- Entrada: { url, isFavorite } tras alternar favorito -->
+    <field id="favoriteState" type="assocarray" onChange="onFavoriteState"/>
+    <!-- Salidas -->
+    <field id="nowPlaying" type="assocarray" alwaysNotify="true"/>
+    <field id="favoriteToggle" type="assocarray" alwaysNotify="true"/>
+    <field id="closed" type="integer" alwaysNotify="true"/>
+  </interface>
+  <script type="text/brightscript" uri="pkg:/components/screens/VideoScreen.brs"/>
+  <script type="text/brightscript" uri="pkg:/source/MediaKindClassifier.brs"/>
+  <children>
+    <Rectangle id="blackout" width="1280" height="720" color="0x000000FF"/>
+    <Video id="video" width="1280" height="720" enableUI="false"/>
+
+    <Label id="errorLabel" width="1000" height="80" translation="[140,300]" horizAlign="center" vertAlign="center"
+           wrap="true" font="font:MediumSystemFont" color="0xFAF7FFFF" visible="false"/>
+
+    <!-- Barra flotante -->
+    <Group id="infoBar" visible="false">
+      <Rectangle width="1200" height="150" translation="[40,546]" color="0x101728E0"/>
+      <Rectangle width="1200" height="2" translation="[40,546]" color="0x9B83AEFF"/>
+      <Rectangle width="96" height="96" translation="[64,572]" color="0x35134FFF"/>
+      <Poster id="barLogo" width="96" height="96" translation="[64,572]" loadWidth="192" loadHeight="192" loadDisplayMode="scaleToFit"/>
+      <Label id="barName" width="820" translation="[184,566]" font="font:MediumBoldSystemFont" color="0xFAF7FFFF"/>
+      <Label id="barFav" width="120" translation="[1096,566]" horizAlign="right" font="font:MediumBoldSystemFont" color="0xC43DFFFF"/>
+      <Label id="barMeta" width="1030" translation="[184,604]" font="font:SmallSystemFont" color="0xC9B7D8FF"/>
+      <Label id="barEpg" width="1030" translation="[184,634]" font="font:SmallSystemFont" color="0xE6C9FFFF"/>
+      <Label id="barHint" width="1030" translation="[184,664]" font="font:SmallestSystemFont" color="0x9A83AEFF"/>
+    </Group>
+
+    <!-- Guía de canales -->
+    <Group id="guidePanel" visible="false">
+      <Rectangle width="450" height="500" translation="[40,30]" color="0x120A1CE6"/>
+      <Rectangle width="450" height="2" translation="[40,30]" color="0x4A285DFF"/>
+      <Label id="guideTitle" width="410" translation="[60,42]" font="font:SmallBoldSystemFont" color="0xFAF7FFFF" text="GUÍA"/>
+      <MarkupList id="guideList" translation="[60,80]" itemComponentName="GuideListItem"
+                  itemSize="[410,64]" itemSpacing="[0,4]" numRows="6" drawFocusFeedback="false"
+                  vertFocusAnimationStyle="floatingFocus"/>
+    </Group>
+
+    <Timer id="hideTimer" duration="6" repeat="false"/>
+  </children>
+</component>

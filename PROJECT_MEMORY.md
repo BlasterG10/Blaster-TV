@@ -24,3 +24,15 @@
 - **Verificación realizada:** XAML parseado como XML válido; balance estático de llaves C#; ZIP `/mnt/data/BlasterTV_Jellyfin_M3U_Xtream_Integrated.zip` pasa `unzip -t`.
 - **No verificado:** no hay .NET SDK en este entorno, así que no se ejecutó `dotnet build`; tampoco se probó contra un servidor Jellyfin real. No afirmar que la compilación o reproducción real está confirmada.
 - **Siguiente paso del usuario:** extraer ZIP en una carpeta aparte, compilar/ejecutar en Windows con .NET 10 SDK, conectar su servidor Jellyfin y reportar cualquier error concreto.
+
+
+## 14. MagisTV para Roku — 2026-11-21
+
+- **Pedido del usuario:** versión para Roku con alcance «completo»: fuentes M3U/Xtream, TV en vivo, películas, series con episodios, guía EPG, favoritos. El usuario ya tiene modo desarrollador activo y la IP de su Roku.
+- **Ubicación:** carpeta `RokuMagisTV/` en la rama `magistv-roku` (creada desde `main`; independiente de la línea WPF `guia-y-cristal` de la sección 13 y de Jellyfin de la sección 12).
+- **Tecnología:** BrightScript + SceneGraph, resolución de diseño 1280x720 (`ui_resolutions=hd`). Instalación por sideload (`instalar-en-roku.ps1` o instalador web en `http://IP`).
+- **Puertos desde Windows:** `M3uParser`, `MediaKindClassifier`, `XtreamClient`, EPG (`get_short_epg` para Xtream; XMLTV con `url-tvg` para M3U), caché de 6 h con copia vieja si no hay red (`cachefs:`), favoritos/historial en `roRegistrySection`. Red y parseo siempre en `LoaderTask` (máx. 3 a la vez).
+- **Interfaz:** menú | categorías | contenido (`MainScene`); reproductor con barra flotante y guía que se ocultan juntas (`VideoScreen`). Mismos colores que Windows.
+- **Límites por memoria del Roku:** M3U ≤ 20 MB, XMLTV ≤ 12 MB (ventana de 8 h), 1.500 elementos visibles por categoría (el resto vía Buscar). Sin listas públicas automáticas, sin descargas, sin desenfoque. Símbolos limitados a Latin-1 por la fuente del sistema.
+- **Verificación:** XML de componentes válido; todas las funciones llamadas existen en los scripts incluidos por cada componente; callbacks de `observeField`/`onChange` existen; bloques `sub/function/if/for/while` cuadran.
+- **No verificado:** no hay compilador de BrightScript ni Roku en este entorno; no se ha instalado ni ejecutado. Si falla, pedir al usuario la salida de `telnet IP 8085` (consola de depuración del Roku) con el error y la línea.

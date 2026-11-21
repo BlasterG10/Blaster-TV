@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Fila de la lista principal: logo, nombre, línea secundaria (programa actual / categoría)
+     y una marca (FAV favorito, ▶ serie). Mismos colores que la versión de escritorio. -->
+<component name="MediaListItem" extends="Group">
+  <interface>
+    <field id="itemContent" type="node" onChange="onContentChanged"/>
+    <field id="focusPercent" type="float" onChange="onFocusChanged"/>
+    <field id="listHasFocus" type="boolean" onChange="onFocusChanged"/>
+  </interface>
+  <script type="text/brightscript" uri="pkg:/components/MediaListItem.brs"/>
+  <children>
+    <Rectangle id="bg" width="650" height="72" color="0x1B0D28E6"/>
+    <Rectangle id="accent" width="4" height="52" translation="[0,10]" color="0xC43DFFFF" visible="false"/>
+    <Rectangle id="logoBg" width="56" height="56" translation="[12,8]" color="0x35134FFF"/>
+    <Poster id="logo" width="56" height="56" translation="[12,8]" loadWidth="112" loadHeight="112" loadDisplayMode="scaleToFit"/>
+    <Label id="title" width="500" translation="[82,9]" font="font:SmallBoldSystemFont" color="0xF4F6FCFF"/>
+    <Label id="subtitle" width="540" translation="[82,40]" font="font:SmallestSystemFont" color="0xC9B7D8FF"/>
+    <Label id="badge" width="56" translation="[584,9]" horizAlign="right" font="font:SmallBoldSystemFont" color="0xC43DFFFF"/>
+  </children>
+</component>

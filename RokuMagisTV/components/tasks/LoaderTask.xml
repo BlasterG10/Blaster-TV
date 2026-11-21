@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Todo el trabajo de red y de parseo corre aquí, en un hilo aparte (Task), para que la
+     interfaz nunca se congele: el equivalente de Task.Run / ConfigureAwait(false) en Windows. -->
+<component name="LoaderTask" extends="Task">
+  <interface>
+    <field id="request" type="assocarray"/>
+    <field id="result" type="assocarray"/>
+  </interface>
+  <script type="text/brightscript" uri="pkg:/components/tasks/LoaderTask.brs"/>
+  <script type="text/brightscript" uri="pkg:/source/MediaKindClassifier.brs"/>
+  <script type="text/brightscript" uri="pkg:/source/M3uParser.brs"/>
+  <script type="text/brightscript" uri="pkg:/source/XtreamClient.brs"/>
+  <script type="text/brightscript" uri="pkg:/source/EpgService.brs"/>
+  <script type="text/brightscript" uri="pkg:/source/CacheStore.brs"/>
+</component>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Pantalla principal de MagisTV para Roku (resolución de diseño 1280x720).
+     Tres columnas como en la versión de escritorio: menú | categorías | contenido.
+     Mismos colores que Windows: fondo #0B0613, menú #110719, acento #A12DFF. -->
+<component name="MainScene" extends="Scene">
+  <interface>
+    <field id="deepLinkUrl" type="string" onChange="onDeepLink"/>
+  </interface>
+  <script type="text/brightscript" uri="pkg:/components/MainScene.brs"/>
+  <script type="text/brightscript" uri="pkg:/source/SourceStore.brs"/>
+  <script type="text/brightscript" uri="pkg:/source/CacheStore.brs"/>
+  <script type="text/brightscript" uri="pkg:/source/XtreamClient.brs"/>
+  <script type="text/brightscript" uri="pkg:/source/EpgService.brs"/>
+  <children>
+    <Rectangle id="bg" width="1280" height="720" color="0x0B0613FF"/>
+
+    <!-- Menú lateral -->
+    <Rectangle id="rail" width="230" height="720" color="0x110719FF"/>
+    <Rectangle width="1" height="720" translation="[230,0]" color="0x321A45FF"/>
+    <Poster id="brand" uri="pkg:/images/icon_focus_hd.png" width="72" height="54" translation="[20,26]"/>
+    <Label text="MAGIS TV" translation="[102,28]" font="font:MediumBoldSystemFont" color="0xFAF7FFFF"/>
+    <Label text="ENTERTAINMENT" translation="[104,60]" font="font:SmallestSystemFont" color="0xA487B5FF"/>
+    <Label text="MENÚ PRINCIPAL" translation="[28,108]" font="font:SmallestBoldSystemFont" color="0x927BA4FF"/>
+    <LabelList id="navList" translation="[16,134]" itemSize="[198,46]" numRows="8"
+               color="0xD6C4E1FF" focusedColor="0xFFFFFFFF" focusBitmapBlendColor="0xA12DFFFF"
+               font="font:SmallSystemFont" focusedFont="font:SmallBoldSystemFont"
+               vertFocusAnimationStyle="floatingFocus"/>
+
+    <!-- Encabezado -->
+    <Label id="sectionTitle" width="980" translation="[256,24]" font="font:LargeBoldSystemFont" color="0xFAF7FFFF"/>
+    <Label id="sectionSubtitle" width="980" translation="[258,72]" font="font:SmallestSystemFont" color="0xAA97B9FF"/>
+
+    <!-- Categorías -->
+    <Rectangle width="306" height="556" translation="[250,104]" color="0x13091EB8"/>
+    <LabelList id="categoryList" translation="[256,110]" itemSize="[294,42]" numRows="13"
+               color="0xD6C4E1FF" focusedColor="0xFFFFFFFF" focusBitmapBlendColor="0xA12DFFFF"
+               font="font:SmallestSystemFont" focusedFont="font:SmallestBoldSystemFont"
+               vertFocusAnimationStyle="floatingFocus"/>
+
+    <!-- Contenido -->
+    <MarkupList id="itemList" translation="[576,110]" itemComponentName="MediaListItem"
+                itemSize="[650,72]" itemSpacing="[0,6]" numRows="7" drawFocusFeedback="false"
+                vertFocusAnimationStyle="floatingFocus"/>
+    <Label id="emptyHint" width="620" height="200" translation="[590,140]" wrap="true"
+           font="font:SmallSystemFont" color="0xAA97B9FF" visible="false"/>
+
+    <!-- Barra de estado -->
+    <Label id="statusLabel" width="980" translation="[256,676]" font="font:SmallestSystemFont" color="0x9A83AEFF"/>
+
+    <!-- Reproductor (encima de todo) -->
+    <VideoScreen id="player" visible="false"/>
+
+    <Timer id="categoryTimer" duration="0.25" repeat="false"/>
+    <Timer id="epgTimer" duration="0.8" repeat="false"/>
+    <Timer id="rebuildTimer" duration="0.5" repeat="false"/>
+    <Timer id="deleteTimer" duration="4" repeat="false"/>
+  </children>
+</component>

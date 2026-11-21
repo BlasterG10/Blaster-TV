@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Fila de la guía dentro del reproductor (más estrecha que la lista principal). -->
+<component name="GuideListItem" extends="Group">
+  <interface>
+    <field id="itemContent" type="node" onChange="onContentChanged"/>
+    <field id="focusPercent" type="float" onChange="onFocusChanged"/>
+    <field id="listHasFocus" type="boolean" onChange="onFocusChanged"/>
+  </interface>
+  <script type="text/brightscript" uri="pkg:/components/MediaListItem.brs"/>
+  <children>
+    <Rectangle id="bg" width="410" height="64" color="0x00000000"/>
+    <Rectangle id="accent" width="4" height="44" translation="[0,10]" color="0xC43DFFFF" visible="false"/>
+    <Rectangle id="logoBg" width="44" height="44" translation="[10,10]" color="0x35134FFF"/>
+    <Poster id="logo" width="44" height="44" translation="[10,10]" loadWidth="88" loadHeight="88" loadDisplayMode="scaleToFit"/>
+    <Label id="title" width="300" translation="[64,8]" font="font:SmallBoldSystemFont" color="0xF4F6FCFF"/>
+    <Label id="subtitle" width="330" translation="[64,36]" font="font:SmallestSystemFont" color="0xC9B7D8FF"/>
+    <Label id="badge" width="40" translation="[364,8]" horizAlign="right" font="font:SmallestBoldSystemFont" color="0xC43DFFFF"/>
+  </children>
+</component>
