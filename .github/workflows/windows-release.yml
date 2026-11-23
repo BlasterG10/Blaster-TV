@@ -1,0 +1,49 @@
+# Compila MagisTV para Windows en los servidores de GitHub y lo publica en "Releases"
+# como un .zip listo para usar (no necesita instalar .NET en la PC donde se ejecute).
+name: Publicar MagisTV para Windows
+
+on:
+  push:
+    branches: [guia-y-cristal]
+    paths:
+      - 'MagisWindowsNative/**'
+      - '.github/workflows/windows-release.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publicar:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '10.0.x'
+
+      - name: Compilar y publicar (win-x64, autocontenido)
+        run: dotnet publish MagisWindowsNative/MagisWindowsNative.csproj -c Release -r win-x64 --self-contained true -o publish/MagisTV
+
+      - name: Empaquetar
+        shell: pwsh
+        run: |
+          Copy-Item MagisWindowsNative/LEEME-INSTALAR.txt publish/MagisTV/
+          Compress-Archive -Path publish/MagisTV -DestinationPath MagisTV-Windows-x64.zip
+          "{0:N1} MB" -f ((Get-Item MagisTV-Windows-x64.zip).Length / 1MB)
+
+      - name: Guardar como artefacto de la ejecución
+        uses: actions/upload-artifact@v4
+        with:
+          name: MagisTV-Windows-x64
+          path: MagisTV-Windows-x64.zip
+
+      - name: Crear versión en Releases
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          $version = "1.0.${{ github.run_number }}"
+          $notes = "Descarga MagisTV-Windows-x64.zip, extráelo y abre MagisTV.exe dentro de la carpeta MagisTV. No necesita instalar .NET. Windows 10/11 de 64 bits. Rama guia-y-cristal, commit ${{ github.sha }}."
+          gh release create "windows-v$version" MagisTV-Windows-x64.zip --target "${{ github.sha }}" --title "MagisTV para Windows $version" --notes $notes --latest

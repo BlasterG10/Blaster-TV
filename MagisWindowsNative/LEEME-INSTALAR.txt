@@ -1,0 +1,17 @@
+MagisTV para Windows
+====================
+
+1. Extrae el .zip completo en una carpeta (por ejemplo, Escritorio\MagisTV).
+   No lo abras desde dentro del .zip: necesita todos sus archivos al lado.
+2. Abre MagisTV.exe.
+3. Si Windows muestra "Windows protegió tu PC" (SmartScreen), pulsa
+   "Más información" y luego "Ejecutar de todas formas". Sale porque la app
+   no está firmada digitalmente; es normal en apps propias.
+
+- No hace falta instalar .NET: va incluido.
+- Requiere Windows 10 u 11 de 64 bits.
+- El efecto cristal completo se ve en Windows 11 22H2 o posterior; en
+  versiones anteriores la app usa los mismos colores sin desenfoque.
+- Tus fuentes, favoritos y caché se guardan en
+  %LOCALAPPDATA%\MagisWindowsNative (cada PC tiene los suyos).
+- Las descargas de películas van a la carpeta Vídeos\MagisTV.
