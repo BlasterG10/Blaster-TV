@@ -52,3 +52,8 @@
 - **Implementación:** `Services/DownloadManager.cs` (descarga a Vídeos\MagisTV, sin bloquear la UI, sección «Descargas» nueva); botón «⧉ Externo» (`Process.Start` con el reproductor predeterminado de Windows); `Services/ArchiveOrgCatalog.cs` (películas de dominio público de archive.org vía su API pública, colección `feature_films`, filtradas por `licenseurl` de dominio público).
 - **Decisión:** no se integraron series desde archive.org (sin colección claramente de dominio público) ni timeshift/Stalker (requieren más interfaz). No se usaron fuentes no oficiales de Pluto TV/Tubi por falta de garantía de legitimidad.
 - **No verificado:** sin compilar ni probar en Windows.
+
+### 13e. Publicación automática para Windows — 2026-11-23
+- `.github/workflows/windows-release.yml` (rama `guia-y-cristal`): en cada push que toque `MagisWindowsNative/` compila en `windows-latest` con .NET 10, hace `dotnet publish -r win-x64 --self-contained` y crea una versión en Releases (`windows-v1.0.N`) con `MagisTV-Windows-x64.zip` (~148 MB, incluye LibVLC y `LEEME-INSTALAR.txt`).
+- **Primera compilación real del código WPF:** `windows-v1.0.1` compiló sin errores (commit 960f654). Las secciones 13–13d quedan así confirmadas como compilables; falta probarlas en uso.
+- Enlace fijo a la última versión: https://github.com/BlasterG10/Blaster-TV/releases/latest
